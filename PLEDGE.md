@@ -23,7 +23,11 @@ Here are some tactics we use to insure we are living up to our values:
 A best practice for nurturing and enforcing a culture is to have practices that become habits or rituals followed by the entire company.
 
 #### Reference/Handbooks:
-Just like this document, we will have all of our processes documented in the github. 
+Just like this document, we will have all of our processes documented in the github.
+- [Product Management](./process/management.md)
+- [Product Development](./process/development.md)
+- [Product QA](./process/qa.md)
+- [Product Release](./process/release.md)
 
 #### All hands meetings:
 We will have at least monthly all hands meetings in which we celebrate successes, get to know each other better, and talk about our progress towards our objectives.  At least one success per meeting should be about an end user.  
