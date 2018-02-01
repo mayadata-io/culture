@@ -22,28 +22,31 @@ Here are some tactics we use to insure we are living up to our values:
 ## Rituals
 A best practice for nurturing and enforcing a culture is to have practices that become habits or rituals followed by the entire company.
 
-**Reference/Handbooks:**
+#### Reference/Handbooks:
 Just like this document, we will have all of our processes documented in the github. 
 
-**All hands meetings:**
+#### All hands meetings:
 We will have at least monthly all hands meetings in which we celebrate successes, get to know each other better, and talk about our progress towards our objectives.  At least one success per meeting should be about an end user.  
 
-**Weekly stand-ups:**
+#### Weekly stand-ups:
 We will continue have weekly team meetings that include opportunities for recognition and discussion of blockers and next steps.  Again, in each meeting we should discuss end user experiences.  
 
-**One on ones:**
+#### One on ones:
 Managers should have one on ones with their team members monthly if not more frequently.
 
-**Feedback:**
+#### Household manners
+We will follow good household manners in our interactions with peer across the globe. Our [etiquettes manual](etiquettes.md) covers some suggestions that are considered good household manners.
+
+#### Feedback:
 We will do surveys every 6 months.
 
-**Tools:**
+#### Tools:
 To make it easy to stay in sync with everyone, we will use solutions like: 
-https://www.15five.com/product/
-https://slack.com/
-https://github.com/
-https://www.zenhub.com/
-https://zoom.us/
+- https://www.15five.com/product/
+- https://slack.com/
+- https://github.com/
+- https://www.zenhub.com/
+- https://zoom.us/
 
 We will modify our tactics and rituals as we learn what works best for us.
 
