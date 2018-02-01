@@ -10,14 +10,43 @@ Our values include:
 
 Note the helpful acronym _**PLOW.**_
 
+Without clear tactics, rituals and metrics, values can be just nice words.
+
 ## Tactics:
 
-Without clear tactics and metrics, values can be just nice words.  Here are some tactics we use to insure we are living up to our values:
+Here are some tactics we use to insure we are living up to our values:
 - _**Open source:**_  we believe that open source is a force for good in the world that is completely consistent with our beliefs in openness and listening.  We support open source projects whether they directly help our products or not.  This means engineering allocates time to be useful contributors to these communities, including crafting useful issues and contributing code when possible.  Similarly, we volunteer time with Linux and Gopher and CNCF and other communities and support them via marketing funds and by providing free access to our open source Cafe whenever possible.  We will all be evaluated in part based on contributions to our own and related communities.  
 - _**Getting to know users and each other:**_  We seek to understand users and each others as individuals.  This means we take the time to know a little bit about them - where did they go to school, what do they do when they are not working, do they like Go or C better, and so forth.  We document our understanding of users.
 - _**Listening and openness:**_  We look for and reward team members that go out of their way to clarify and communicate their actions.  Everything from comments in code to useful commit comments as well as of course communications via Chat and in person with other team members will be considered.  We must keep in mind that we are a global company and need to think about how to include non local teammates in discussions and decisions.  
 
-We will modify our tactics as we learn what works best for us.
+## Rituals
+A best practice for nurturing and enforcing a culture is to have practices that become habits or rituals followed by the entire company.
+
+**Reference/Handbooks:**
+Just like this document, we will have all of our processes documented in the github. 
+
+**All hands meetings:**
+We will have at least monthly all hands meetings in which we celebrate successes, get to know each other better, and talk about our progress towards our objectives.  At least one success per meeting should be about an end user.  
+
+**Weekly stand-ups:**
+We will continue have weekly team meetings that include opportunities for recognition and discussion of blockers and next steps.  Again, in each meeting we should discuss end user experiences.  
+
+**One on ones:**
+Managers should have one on ones with their team members monthly if not more frequently.
+
+**Feedback:**
+We will do surveys every 6 months.
+
+**Tools:**
+To make it easy to stay in sync with everyone, we will use solutions like: 
+https://www.15five.com/product/
+https://slack.com/
+https://github.com/
+https://www.zenhub.com/
+https://zoom.us/
+
+We will modify our tactics and rituals as we learn what works best for us.
+
 
 In signing below, I agree to help build a user focused _**PLOW**_ culture at MayaData.
 
