@@ -5,7 +5,7 @@ This section covers some suggestions that are considered good household manners.
 ## Cultural sensitivities
 We are spread across geographies and across different cultures. 
 - We will use open channels for communication as much as possible to keep the conversations transparent.
-- In case there are phone discussions, the relevant content will be dilegently documented and posted on Slack for everyones benefit.
+- In case there are direct discussions between two individuals, the relevant content will be dilegently documented and posted on Slack for everyones benefit.
 - Each of us will remain sensitive to make comments about an individual’s ignorance in the meetings and slack channels. No questions are stupid.
 
 ## Online meetings (voice or video)
