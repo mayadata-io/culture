@@ -17,6 +17,12 @@ We are spread across geographies and across different cultures.
 - When group calling, don't use a cell phone on speaker, they are not sufficient
 - If you must use for whatever reason (did you prepare?) make sure that it does not vibrate
 
+## In person meetings / Online meetings
+- Plan to attend on time, others are waiting for you
+- Meetings are scheduled to discuss openly with an expected outcome of clearing doubts, if there are any. Ask your doubts in the meeting. A meeting is not successful if you had a doubt before the meeting, and it continues to exist after meeting because you did not bring it up
+- Avoid one-on-one chats in the meeing. 
+- Feel free to share information. Make it short, precise and relevant to the meeting agenda. Try not to interrupt a team member when they are speaking.
+
 ## Code reviews
 
 TBD : Can we include (somehow someway) these tips? https://drive.google.com/file/d/1ROZA9yKpEa8suiqVXtPO0IJtqa95SOjE/view
