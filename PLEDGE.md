@@ -66,5 +66,6 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 <br><br><br><br>
 ## Below team members have signed the pledge of 2018.
 
-1. Umasankar Mukkara, signing the pledge on 28-Feb-2018.
-2. Vishnu Attur, signing the pledge on 28-Feb-2018.
+1. Umasankar Mukkara, signed the pledge on 28-Feb-2018.
+2. Vishnu Attur, signed the pledge on 28-Feb-2018.
+3. Kiran Mova, signed the pldege on 01-Mar-2018 
