@@ -79,3 +79,4 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 11. Sathyaseelan N , signed the pledge on 01-Mar-2018.
 12. Amit Kumar Das, signed the pledge on 01-Mar-2018.
 13. Utkarsh Mani Tripathi, signed the pledge on 01-Mar-2018
+14. Prateek Pandey, signed the pledge on 01-Mar-2018
