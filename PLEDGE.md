@@ -70,3 +70,4 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 2. Vishnu Attur, signed the pledge on 28-Feb-2018.
 3. Kiran Mova, signed the pledge on 01-Mar-2018. 
 4. Ajesh Baby, signed the pledge on 01-Mar-2018.
+5. Sudarshan Darga, signed the pledge on 01-Mar-2018.
