@@ -87,4 +87,7 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 19. Giridharaprasad, signing the PLOW pledge on 1st March 2018.
 20. Evan Powell, signing the PLOW pledge 1st March 2018
 21. Murat Karslioglu, signing the PLOW pledge 1st March 2018
-22. Amrish Kushwaha, signing the PLOW pledge 2nd March 2018
+22. Swarnalatha, signing the PLOW pledge on 02-Mar-2018.
+23. Chandan Sagar Pradhan signed the PLOW pledge on 02-Mar-2018.
+24. Moteesh signed the PLOW pledge on 02-Mar-2018.
+25. Amrish Kushwaha, signing the PLOW pledge 2nd March 2018
