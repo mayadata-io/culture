@@ -93,3 +93,4 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 25. Amrish Kushwaha, signing the PLOW pledge 2nd March 2018
 26. Prince Rachit Sinha, signing the PLOW pledge on 02-Mar-2018.
 27. Soumya Leelaram, signing the PLOW pledge on 02-Mar-2018.
+28. Karthik KS, signing the PLOW pledge on 02-Mar-2018.
