@@ -97,3 +97,4 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 29. Ganesh Kumar, signing the PLOW pledge on 02-Mar-2018.
 30. Karthik KS, signing the PLOW pledge on 02-Mar-2018.
 31. Akash Srivastava, signed the PLOW pledge on 02-Mar-2018.
+32. Harsh Vardhan, signing the PLOW pledge on 04-Mar-2018.
