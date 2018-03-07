@@ -108,3 +108,4 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 40. Intakhab Ali, signed the pledge on 07-Mar-2018.
 41. Sagar Kumar, signed the pledge on 07-Mar-2018.
 42. Sanya Sabu, signed the pledge on 07-Mar-2018.
+43. Rakesh Singh, signed on 07-Mar-2018.
