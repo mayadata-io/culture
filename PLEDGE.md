@@ -15,7 +15,7 @@ Without clear tactics, rituals and metrics, values can be just nice words.
 ## Tactics:
 
 Here are some tactics we use to insure we are living up to our values:
-- _**Open source:**_  we believe that open source is a force for good in the world that is completely consistent with our beliefs in openness and listening.  We support open source projects whether they directly help our products or not.  This means engineering allocates time to be useful contributors to these communities, including crafting useful issues and contributing code when possible.  Similarly, we volunteer time with Linux and Gopher and CNCF and other communities and support them via marketing funds and by providing free access to our open source Cafe whenever possible.  We will all be evaluated in part based on contributions to our own and related communities.
+- _**Open source:**_  we believe that open source is a force for good in the world that is completely consistent with our beliefs in openness and listening.  We support open source projects whether they directly help our products or not.  This means engineering allocates time to be useful contributors to these communities, including crafting useful issues and contributing code when possible.  Similarly, we volunteer time with Linux,Gopher,CNCF and other communities and support them via marketing funds and by providing free access to our open source Cafe whenever possible.  We will all be evaluated in part based on contributions to our own and related communities.
 - _**Getting to know users and each other:**_  We seek to understand users and each others as individuals.  This means we take the time to know a little bit about them - where did they go to school, what do they do when they are not working, do they like Go or C better, and so forth.  We document our understanding of users.
 - _**Listening and openness:**_  We look for and reward team members that go out of their way to clarify and communicate their actions.  Everything from comments in code to useful commit comments as well as of course communications via Chat and in person with other team members will be considered.  We must keep in mind that we are a global company and need to think about how to include non local teammates in discussions and decisions.
 -_**Winning:**_ We celebrate new users and new customers, new releases and other achievements.  We respect our competitors however we don't worry about what they are doing.  And we are tenacious, and we share our commitment with each other and with the community and users; for example, if a user has a problem we tell them "this will get fixed.  Quickly.  Please open your PR and we will turn around a response for you."
@@ -36,7 +36,7 @@ Just like this document, we will have all of our processes documented in github.
 We will have at least monthly all hands meetings in which we celebrate successes, get to know each other better, and talk about our progress towards our objectives.  At least one success per meeting should be about an end user.
 
 ### Weekly stand-ups:
-We will continue have weekly team meetings that include opportunities for recognition and discussion of blockers and next steps.  Again, in each meeting we should discuss end user experiences.
+We will continue to have weekly team meetings that include opportunities for recognition and discussion of blockers and next steps.  Again, in each meeting we should discuss end user experiences and come up with ideas to enhance it.
 
 ### One on ones:
 Managers should have one on ones with their team members monthly if not more frequently.
@@ -45,7 +45,7 @@ Managers should have one on ones with their team members monthly if not more fre
 We will follow good household manners in our interactions with peer across the globe. Our [etiquettes manual](etiquettes.md) covers some suggestions that are considered good household manners.
 
 ### Feedback:
-We will do surveys every 6 months.
+We will do anonymous surveys every 6 months to gather honest feedback.
 
 ### Tools:
 To make it easy to stay in sync with everyone, we will use solutions like:
@@ -111,3 +111,4 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 43. Rakesh Singh, signed on 07-Mar-2018.
 44. Nisanta Sahoo , signed the pledge on 7th March 2018
 45. Jeffry Molanus, signed the pledge March 7th, 2018
+45. Mayur Nagekar alias Miyurz, signed the pledge March 9th, 2018
