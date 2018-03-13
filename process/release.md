@@ -1,12 +1,23 @@
-# Product Release
-- The goal is to make a release every month or earlier with features that are required by the users.  For MayaOnline we believe in releasing at least daily.
+Product Releases
+
+## General guidelines
+
 - We are going to be driven mainly by the data on the quality metrics not by management push (such as, let us release today otherwise we are going to suffer a deviation from the planned milestone) 
 - Release Managers (Gates and gate managers)  are clearly defined and system suffers a dearly when quality is not matching as measured by an automated test system.
-- There are going to be situations where it makes business sense to gain more market visibility that drives the releases, in such cases, the features delivered are tagged appropriately - as alpha, beta and stable based on the metrics.
+There are going to be situations where it makes business sense to gain more market visibility that drives the releases, in such cases, the features delivered are tagged appropriately - as alpha, beta and stable based on the metrics.
+
+
+There are three products that MayaData handles currently: OpenEBS, MayaOnline and ElastiStor
+
+## OpenEBS releases
+OpenEBS releases can be either Major (like 0.6 or 0.7) and Minor (like 0.5.4). Major releases contains features and pre-planned bug fixes. Minor releases contains emergency fixes that community users or customers are waiting for. Both these releases do not have a fixed calender day for a release but they get released in asap model. Minor releases are delivered within a sprint. Major releases are planned into the sprints and can across multiple sprints.
+
+## MayaOnline releases
+- The goal is to make a MO release everyday.
 
 
 
-MayaOnline Release process
+###MayaOnline Release process
 
 Owner/SRE: Mayur
 
