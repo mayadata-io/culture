@@ -29,9 +29,7 @@
 ### [Objective] CKA 
 - [Key Result] Become CKA in Q2
 
-### [Objective] Improve at estimation
-- [Key Result] Maintain log of committed & actual delivey timelines 
-
+---------------------------------------------------------
 ## Q1 Objectives (Quarter-End Review) 
 
 ### [Objective] Litmus User Documentation (0.7)
