@@ -1,32 +1,24 @@
 ## Q2 Engineering/Community Objectives
 
-### [Objective] Gitlab Integration with Litmus
-- [Key Result] Host gitlab chaos (node, network, pod, container) templates in openebs/litmus
-- [Key Result] Blog on how developers can leverage gitlab chaos templates in their pipelines
-- [Key Result] Raise PR to gitlab docs on "using chaos templates in app pipeines"
+### [Objective] Increase the E2e coverage of OpenEBS by adding the required features to Litmus
+- [Key Result] Increase testcase instances from 200 to 250
+- [Key Result] Decrease newly found user issues/missing e2e <tbd><measure>
+- [Key Result] Run scheduled chaos on workload clusters (feature)
 
-### [Objective] Scheduled Chaos 
-- [Key Result] Create schedulable chaos jobs in litmus (phase-1: cron-jobs)
-- [Key Result] Create chaos schedules on clusters (phase-2: ordered [distinct] chaos) 
+### [Objective] Increase the external contributors to Litmus project
+- [Activity] Revamp Project Readme & contrib.md (From Q1)
+- [Activity] Generate (& help team) litmus experiment-specific docs (From Q1)
+- [Activity] Facilitate Litmus Hackathon
+- [Key Result] Get at least 5 app-specific chaos litmus experiments from community
+- [Key Result] Get at least 3 external contributors who are well-versed with Litmus 
 
-### [Objective] Litmus Community Building 
-- [Key Result] Submit CFP to ChaosConf
-- [Key Result] Reach out to app community to add at least 5 app-specific chaos tests (Hackathon)
-- [Key Result] Get at least 1 confirmed external success story (usage) of gitlab chaos templates in dev pipeline
-- [Key Result] Joint ansible blog w/ Chris Short Red Hat (provide the blog content)
-
-### [Objective] Litmus Docs
-- [Key Result] Revamp Project Readme & contrib.md (From Q1)
-- [Key Result] Get LitmusLib Readme template PR merged (From Q1)
-- [Key Result] Encourage team to generate Litmusbook/Lib/API docs (From Q1)
-
-### [Objective] Short HowDoI blogs on Kubernetes & Litmus
-- [Key Result] Establish Blog template - running a specific test (differ from soln/arch/update-type blogs)
-- [Key Result] Publish 3 such #HowDoI blogs (From Q1)
-
-### [Objective] Enhance e2e coverage for OpenEBS
-- [Key Result] Increase [testcase](https://docs.google.com/spreadsheets/d/1xXBVOyWUN3I6W8TWggLsS66XHEzlGLF0WI6JCFbS1aU/edit?ts=5ca19ad5#gid=733375131) instance count on jiva/cStor/LPV to 250 (currently 200) with focus on day-2 ops & chaos.
-  
+### [Objective] Increase adoption of Litmus in non-openebs projects
+- [Activity] Host gitlab chaos (node, network, pod, container) templates in openebs/litmus
+- [Activity] Blog on how developers can leverage gitlab chaos templates in their pipelines
+- [Activity] Submit CFP to chaosconf 
+- [Activity] Publish 3 such #HowDoI blogs (From Q1) 
+- [Key Result] Joint blog w/ other vendors - RH/Gitlab
+- [Key Result] At least 1 developer/user using Litmus templates in his CI/CD pipelines
 
 ## Q2 Personal Objectives
 
@@ -84,9 +76,3 @@
   - (e) Attempt 1 response per week on OpenEBS user channel. Bring back info on 1 relevant thread into cb-eng channel
         from K8s.  
 
-
-
-
-
-
- 
