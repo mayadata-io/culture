@@ -2,7 +2,7 @@
 
 ### [Objective] Increase the E2e coverage of OpenEBS by adding the required features to Litmus
 - [Key Result] Increase testcase instances from 200 to 250
-- [Key Result] Decrease newly found user issues/missing e2e <tbd><measure>
+- [Key Result] Decrease newly found user issues/missing e2e in HA for GKE, AWS, On-Prem (?)
 - [Key Result] Run scheduled chaos on workload clusters (feature)
 
 ### [Objective] Increase the external contributors to Litmus project
