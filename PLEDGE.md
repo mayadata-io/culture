@@ -112,4 +112,6 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 44. Nisanta Sahoo , signed the pledge on 7th March 2018
 45. Jeffry Molanus, signed the pledge March 7th, 2018
 45. Mayur Nagekar alias Miyurz, signed the pledge March 9th, 2018
-46. Harshita Sharma, signed the pledge on 30-July-2019.
+46. Harsh Shekhar, signed the pledge on 30-July-2019.
+47. Harshita Sharma, signed the pledge on 30-July-2019.
+
