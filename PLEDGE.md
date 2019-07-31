@@ -102,7 +102,7 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 34. Abhishek Kashyap, signed the pledge on 05-Mar-2018.
 35. Satbir Singh, signed the pledge on 05-Mar-2018.
 36. Debjani Sarkar, signed the pledge on 07-Mar-2018
-37. Niti Suryawanshi, signed the PLOW on 07-Mar-18
+37. Niti Suryawanshi, signed the PLOW on 07-Mar-18mayadata.io
 38. Atul Abhishek,signed the pledge on 07-Mar-2018.
 39. Meghna Singh, signed the pledge on 07-Mar-2018.
 40. Intakhab Ali, signed the pledge on 07-Mar-2018.
@@ -115,5 +115,10 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 46. Harsh Shekhar, signed the pledge on 30-July-2019.
 47. Harshita Sharma, signed the pledge on 30-July-2019.
 48. AV Rahul, signed the pledge on 30-July-2019.
-48. Shashank Ranjan, signed the pledge on 31-July-2019.
-
+49. Raj Babu Das, signed the pledge on 31-July-2019.
+50. Anupriya Gupta,signed the PLOW pledge on 31-July-2019
+51. Aditya, signed the PLOW pledge on 31-July-2019.
+52. Udit Gaurav,signed the PLOW pledge on 31-July-2019
+53. Shubham Chaudhary,signed the PLOW pledge on 31-July-2019
+54. Aman Gupta,signed the PLOW pledge on 31-July-2019
+55.Shashank Ranjan, signed the pledge on 31-July-2019.
