@@ -1,7 +1,7 @@
 This repository contains the various MayaData Culture Guides/Handbooks and is the central repository of guidance for how we run the company. As part of our value of being transparent is published in our repository and open to the world. We welcome feedback. Please make a merge request to suggest improvements or add clarifications. If your question is not covered here, please use issues to ask questions.
 
 ## Scope and goals
-- The documents here should expand on the [MayaData secret plan for world domination](https://medium.com/mayadata/mayadatas-secret-5-step-plan-for-world-domination-3c02ac8b097a) and convert the plan into a culture we aspire to achieve as well as concrete actions to implement and measure adoption of the culture
+- The documents here should expand  the [MayaData secret plan for world domination](https://medium.com/mayadata/mayadatas-secret-5-step-plan-for-world-domination-3c02ac8b097a) and convert the plan into a culture we aspire to achieve as well as concrete actions to implement and measure adoption of the culture
 - The documents here are expected to bring all the leads and the entire company onto a common understanding and provide a guiding framework for day-to-day prioritization decisions.
 - The main culture changes we want to bring in into the company, mainly in engineering with the focus on the lessons learned from previous product development and stay ahead in terms of features and quality
 - One of the key aspects of the company is people and the kind of people we bring in. These document define the details for retaining existing members, hiring new team members, and how to insure that the work environment for all contributors is one in which they feel able to make an immediate and measurable difference.
