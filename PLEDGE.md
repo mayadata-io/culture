@@ -66,53 +66,64 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 <br><br><br><br>
 ## Below team members have signed the pledge of 2018.
 
-1. Umasankar Mukkara, signed the pledge on 28-Feb-2018.
-2. Vishnu Attur, signed the pledge on 28-Feb-2018.
-3. Kiran Mova, signed the pledge on 01-Mar-2018.
-4. Ajesh Baby, signed the pledge on 01-Mar-2018.
-5. Sudarshan Darga, signed the pledge on 01-Mar-2018.
-6. Satyam Zode, signed the pldege on 01-Mar-2018.
-7. Uday Kiran, signed the pledge on 01-Mar-2018.
-8. Ashutosh Kumar, signed the pledge on 01-Mar-2018.
-9. Shovan Maity, signed the pledge on 01-Mar-2018.
-10. Madhuri Hebbar, signed the pledge on 01-Mar-2018
-11. Sathyaseelan N , signed the pledge on 01-Mar-2018.
-12. Amit Kumar Das, signed the pledge on 01-Mar-2018.
-13. Utkarsh Mani Tripathi, signed the pledge on 01-Mar-2018
-14. Prateek Pandey, signed the pledge on 01-Mar-2018
-15. Mayank Patel, signed the pledge on 01-Mar-2018
-16. Jan Kryl, signed the pledge on 01-Mar-2018.
-17. Ranjith Raveendran, signed the pledge on 01-Mar-2018.
-18. Prabhat Thakur, signed the pledge on 01-Mar-2018.
-19. Giridharaprasad, signing the PLOW pledge on 1st March 2018.
-20. Evan Powell, signing the PLOW pledge 1st March 2018
-21. Murat Karslioglu, signing the PLOW pledge 1st March 2018
-22. Swarnalatha, signing the PLOW pledge on 02-Mar-2018.
-23. Chandan Sagar Pradhan signed the PLOW pledge on 02-Mar-2018.
-24. Moteesh signed the PLOW pledge on 02-Mar-2018.
-25. Amrish Kushwaha, signing the PLOW pledge 2nd March 2018
-26. Prince Rachit Sinha, signing the PLOW pledge on 02-Mar-2018.
-27. Soumya Leelaram, signing the PLOW pledge on 02-Mar-2018.
-28. Vishnu Itta, signing the PLOW pledge on 02-Mar-2018.
-29. Ganesh Kumar, signing the PLOW pledge on 02-Mar-2018.
-30. Karthik KS, signing the PLOW pledge on 02-Mar-2018.
-31. Akash Srivastava, signed the PLOW pledge on 02-Mar-2018.
-32. Pradeep Kumar BK, signed the PLOW pledge on 03-Mar-2018.
-33. Harsh Vardhan, signing the PLOW pledge on 04-Mar-2018.
-34. Abhishek Kashyap, signed the pledge on 05-Mar-2018.
-35. Satbir Singh, signed the pledge on 05-Mar-2018.
-36. Debjani Sarkar, signed the pledge on 07-Mar-2018
-37. Niti Suryawanshi, signed the PLOW on 07-Mar-18
-38. Atul Abhishek,signed the pledge on 07-Mar-2018.
-39. Meghna Singh, signed the pledge on 07-Mar-2018.
-40. Intakhab Ali, signed the pledge on 07-Mar-2018.
-41. Sagar Kumar, signed the pledge on 07-Mar-2018.
-42. Sanya Sabu, signed the pledge on 07-Mar-2018.
-43. Rakesh Singh, signed on 07-Mar-2018.
-44. Nisanta Sahoo , signed the pledge on 7th March 2018
-45. Jeffry Molanus, signed the pledge March 7th, 2018
-45. Mayur Nagekar alias Miyurz, signed the pledge March 9th, 2018
-46. Harsh Shekhar, signed the pledge on 30-July-2019.
-47. Harshita Sharma, signed the pledge on 30-July-2019.
-48. AV Rahul, signed the pledge on 30-July-2019.
-49. Sai Chaithanya, signed the pledge on 31-July-2019.
+- Umasankar Mukkara, signed the pledge on 28-Feb-2018.
+- Vishnu Attur, signed the pledge on 28-Feb-2018.
+- Kiran Mova, signed the pledge on 01-Mar-2018.
+- Ajesh Baby, signed the pledge on 01-Mar-2018.
+- Sudarshan Darga, signed the pledge on 01-Mar-2018.
+- Satyam Zode, signed the pldege on 01-Mar-2018.
+- Uday Kiran, signed the pledge on 01-Mar-2018.
+- Ashutosh Kumar, signed the pledge on 01-Mar-2018.
+- Shovan Maity, signed the pledge on 01-Mar-2018.
+- Madhuri Hebbar, signed the pledge on 01-Mar-2018
+- Sathyaseelan N , signed the pledge on 01-Mar-2018.
+- Amit Kumar Das, signed the pledge on 01-Mar-2018.
+- Utkarsh Mani Tripathi, signed the pledge on 01-Mar-2018
+- Prateek Pandey, signed the pledge on 01-Mar-2018
+- Mayank Patel, signed the pledge on 01-Mar-2018
+- Jan Kryl, signed the pledge on 01-Mar-2018.
+- Ranjith Raveendran, signed the pledge on 01-Mar-2018.
+- Prabhat Thakur, signed the pledge on 01-Mar-2018.
+- Giridharaprasad, signing the PLOW pledge on 1st March 2018.
+- Evan Powell, signing the PLOW pledge 1st March 2018
+- Murat Karslioglu, signing the PLOW pledge 1st March 2018
+- Swarnalatha, signing the PLOW pledge on 02-Mar-2018.
+- Chandan Sagar Pradhan signed the PLOW pledge on 02-Mar-2018.
+- Moteesh signed the PLOW pledge on 02-Mar-2018.
+- Amrish Kushwaha, signing the PLOW pledge 2nd March 2018
+- Prince Rachit Sinha, signing the PLOW pledge on 02-Mar-2018.
+- Soumya Leelaram, signing the PLOW pledge on 02-Mar-2018.
+- Vishnu Itta, signing the PLOW pledge on 02-Mar-2018.
+- Ganesh Kumar, signing the PLOW pledge on 02-Mar-2018.
+- Karthik KS, signing the PLOW pledge on 02-Mar-2018.
+- Akash Srivastava, signed the PLOW pledge on 02-Mar-2018.
+- Pradeep Kumar BK, signed the PLOW pledge on 03-Mar-2018.
+- Harsh Vardhan, signing the PLOW pledge on 04-Mar-2018.
+- Abhishek Kashyap, signed the pledge on 05-Mar-2018.
+- Satbir Singh, signed the pledge on 05-Mar-2018.
+- Debjani Sarkar, signed the pledge on 07-Mar-2018
+- Niti Suryawanshi, signed the PLOW on 07-Mar-18mayadata.io
+- Atul Abhishek,signed the pledge on 07-Mar-2018.
+- Meghna Singh, signed the pledge on 07-Mar-2018.
+- Intakhab Ali, signed the pledge on 07-Mar-2018.
+- Sagar Kumar, signed the pledge on 07-Mar-2018.
+- Sanya Sabu, signed the pledge on 07-Mar-2018.
+- Rakesh Singh, signed on 07-Mar-2018.
+- Nisanta Sahoo , signed the pledge on 7th March 2018
+- Jeffry Molanus, signed the pledge March 7th, 2018
+- Mayur Nagekar alias Miyurz, signed the pledge March 9th, 2018
+- Harsh Shekhar, signed the pledge on 30-July-2019.
+- Harshita Sharma, signed the pledge on 30-July-2019.
+- Shubham Bajpai, signed the pledge on 30-July-2019.
+- AV Rahul, signed the pledge on 30-July-2019.
+- Akhil Mohan, signed the pledge on 30-July-2019.
+- Raj Babu Das, signed the pledge on 31-July-2019.
+- Anupriya Gupta,signed the PLOW pledge on 31-July-2019
+- Aditya, signed the PLOW pledge on 31-July-2019.
+- Udit Gaurav,signed the PLOW pledge on 31-July-2019
+- Shubham Chaudhary,signed the PLOW pledge on 31-July-2019
+- Aman Gupta,signed the PLOW pledge on 31-July-2019
+- Sai Chaithanya, signed the pledge on 31-July-2019.
+- Saksham Katiyar, signed the pledge on 07-August-2019.
+- Somesh Kumar, signed the pledge on 07-August-2019.
+- Niladri Halder, signed the pledge on 01-October-2019.
