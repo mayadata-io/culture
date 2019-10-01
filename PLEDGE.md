@@ -124,6 +124,7 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 - Shubham Chaudhary,signed the PLOW pledge on 31-July-2019
 - Aman Gupta,signed the PLOW pledge on 31-July-2019
 - Sai Chaithanya, signed the pledge on 31-July-2019.
+- Shashank Ranjan, signed the pledge on 31-July-2019.
 - Saksham Katiyar, signed the pledge on 07-August-2019.
 - Somesh Kumar, signed the pledge on 07-August-2019.
 - Chandan Kumar, signed the pledge on 17-Sep-2019.
