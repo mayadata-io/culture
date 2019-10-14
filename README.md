@@ -1,4 +1,4 @@
-This repository contains the various MayaData Culture Guides/Handbooks and is the central repository of guidance for how we run the company. As part of our value of being transparent is published in our repository and open to the world. We welcome feedback. Please make a merge request to suggest improvements or add clarifications. If your question is not covered here, please use issues to ask questions.
+This repository contains the various MayaData Culture Guides/Handbooks and is the central repository of guidance for how we run the company. As part of our value of being transparent, our handbook published in this repository is open to the world. We welcome feedback. Please make a merge request to suggest improvements or add clarifications. If your question is not covered here, please use issues to ask questions.
 
 ## Scope and goals
 - The documents here should expand  the [MayaData secret plan for world domination](https://medium.com/mayadata/mayadatas-secret-5-step-plan-for-world-domination-3c02ac8b097a) and convert the plan into a culture we aspire to achieve as well as concrete actions to implement and measure adoption of the culture
@@ -34,3 +34,9 @@ Specifically:
 ## Our Pledge:
 
 We stand by the values, tactics and metrics defined in our [PLEDGE](./PLEDGE.md). Our PLEDGE is a framework for distributed decision making, that empowers each of us to determine what to do without asking our manager. 
+
+## Credits and Inspiration
+
+[GitLab Handbook](https://about.gitlab.com/handbook/) is a true source of inspiration for anyone praticing the Open Culture. We have developed our handbook by our own experiences, as well as those mentioned in the GitLab handbook which directly reflect our PLOW culture.   
+
+

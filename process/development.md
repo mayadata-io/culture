@@ -7,6 +7,11 @@
 - The developer will be responsible for interacting with the end-users using his/her features, helping them and gathering feedback and feeding it back into the system
 
 # Coding guidelines
+
 - All developers should strive towards managing highest standards of coding because at MayaData, we believe - **Code is marketing**
-- Both for open source repositories and closed source repositories should follow commenting the code while developing for better readability. 
+- Both for open source repositories and closed source repositories should follow commenting the code while developing for better readability.
 - Every PR is provided with detailed comments about why a change is made
+
+## Code reviews
+
+TBD : Can we include (somehow someway) these tips? https://drive.google.com/file/d/1ROZA9yKpEa8suiqVXtPO0IJtqa95SOjE/view

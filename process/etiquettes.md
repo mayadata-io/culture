@@ -23,6 +23,3 @@ We are spread across geographies and across different cultures.
 - Avoid one-on-one chats in the meeing. 
 - Feel free to share information. Make it short, precise and relevant to the meeting agenda. Try not to interrupt a team member when they are speaking.
 
-## Code reviews
-
-TBD : Can we include (somehow someway) these tips? https://drive.google.com/file/d/1ROZA9yKpEa8suiqVXtPO0IJtqa95SOjE/view
