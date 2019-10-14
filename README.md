@@ -33,10 +33,10 @@ Specifically:
 
 ## Our Pledge:
 
-We stand by the values, tactics and metrics defined in our [PLEDGE](./PLEDGE.md). Our PLEDGE is a framework for distributed decision making, that empowers each of us to determine what to do without asking our manager. 
+We stand by our [PLOW values](./plow.md), tactics and metrics defined in our [PLEDGE](./PLEDGE.md). Our PLEDGE is a framework for distributed decision making, that empowers each of us to determine what to do without asking our manager. 
 
 ## Credits and Inspiration
 
-[GitLab Handbook](https://about.gitlab.com/handbook/) is a true source of inspiration for anyone praticing the Open Culture. We have developed our handbook by our own experiences, as well as those mentioned in the GitLab handbook which directly reflect our PLOW culture.   
+[GitLab Handbook](https://about.gitlab.com/handbook/) is a true source of inspiration for anyone praticing the Open Culture. We have developed our handbook by our own experiences, as well as those mentioned in the GitLab handbook which directly reflect our [PLOW culture](./plow.md).
 
 
