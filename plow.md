@@ -19,7 +19,7 @@ It is a long journey. Over time happy team members are healthier, productive and
 We value caring for others. Give as much positive feedback as you can and do it in a public way.
 
 ### Say thanks
-Recognize the people that helped you publicly, for example in our #say-thanks chat channel or via LinkedIn Give Kudos.
+Recognize the people that helped you publicly, for example in our #say-thanks chat channel or via [LinkedIn Give Kudos](https://www.linkedin.com/help/linkedin/answer/95698/sending-a-kudos-post-on-linkedin?lang=en).
 
 ### Negative is 1-1
 Give negative feedback in the smallest setting possible, one-on-one video calls are preferred. Remember, we are all on the same boat. And the purpose of negative feedback is not to hurt a person, it is go get MayaData better and better and win together and to help that person learn and progress.
