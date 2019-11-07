@@ -7,6 +7,7 @@ We are spread across geographies and different cultures.
 - We will use open channels for communication as much as possible to keep the conversations transparent.
 - In case there are direct discussions between two individuals, the relevant content will be diligently documented and posted on Slack for everyone's benefit.
 - Each of us will remain sensitive to make comments about an individual’s ignorance in the meetings and slack channels. No questions are stupid.
+- Similarly, some cultures are more direct and candid than others.  We strive to be as candid as possible - while remembering people first.  Giving direct feedback is more kind than hiding one's opinion not just for that person but for all the other team members.  We are all depending on each other learning fast and no one is perfect.  
 
 ## Online meetings (voice or video)
 - On-time, there is always a ramp-up time due to unforeseen reboots which we all have which is fine
@@ -22,4 +23,8 @@ We are spread across geographies and different cultures.
 - Meetings are scheduled to discuss openly with an expected outcome of clearing doubts if there are any. Ask your doubts in the meeting. A meeting is not successful if you had a doubt before the meeting, and it continues to exist after meeting because you did not bring it up
 - Avoid one-on-one chats in the meeting. 
 - Feel free to share information. Make it short, precise and relevant to the meeting agenda. Try not to interrupt a team member when they are speaking.
+
+## Say thank you on Slack especially
+- We don't spend much time together in person as a team.  This introduces the risk that misunderstandings can be amplified over time.  Therefore we go out of our way to thank each other for their comments even if we disagree with them or do not yet fully understand them.
+- When we read something that resonates or is helpful on Slack we make an effort to take an extra second or two to give a thumbs up or to say thank you.  Especially for remote workers this kind of interaction can provide useful feedback.
 
