@@ -5,4 +5,4 @@
 - The product will be instrumented (like in MayaOnline) or the user feedback is sought to determine which features are getting used and what are the key features that can generate revenue.
 - The bare minimum (near MVP) features that are possible to be implemented at the earliest given the overall company skills will be implemented.CI/CD must be part of the MVP.
 - We will be open to an iterative approach of defining the top priority items based on the user feedback
-- Milestoned are tracked using automated tools like GitHub. The status of the milestone is derived from the data collected rather than people’s hunch
+- Milestones are tracked using automated tools like GitHub. The status of the milestone is derived from the data collected rather than people’s hunch
