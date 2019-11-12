@@ -6,6 +6,7 @@ Our values include:
 - _**People first.**_  People before deadlines.  People before sales figures.  When in doubt, we seek to do what is best for each other and for our users and community members.
 - _**Listen to learn.**_  We seek to out-listen our competition.  We understand that anyone can understand most of a problem by researching it and thinking about it - but to delight customers requires really understanding their stated and unstated needs.
 - _**Openness.**_  In all things we seek to be open.  We use ChatOps and other systems to “over communicate” internally.  And to the extent possible, we share with the community our issues, plans, and even our concerns.
+- _**Ownership.**_  We want each team member to be a manager of one who doesn't need daily check-ins to achieve their goals.
 - _**Winning.**_  We win.  We are confident in our abilities as a team to dramatically improve the experience of our users.  We know that a proper focus and unrelenting effort will eventually get us recognized as one of the world’s most useful companies by our users for their use cases.  We know winners never quit, never blink, never back down from any challenge.  And winners laugh a lot too.
 
 Note the helpful acronym _**PLOW.**_
