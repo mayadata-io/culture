@@ -1,5 +1,7 @@
 # Hiring
 
+- This is not a listing of open positions, but rather provides details on what you can expect during hiring process for a given role or expected to do once you have onboarded. For a list of open positions, refer to our careers page: https://mayadata.io/careers
+
 - Each hiring process for a job role will begin with the [job responsibility spec(JRS)](https://github.com/mayadata-io/culture/tree/master/job-roles) and 6-12 months plan. There will be multiple levels defined under each job role depending on the individual's experience in performing the duties outlined in the JRS. New JRS can be added by raising a pull request.
 
 - We will always be open to hiring the right individuals that complement the skills of the team from anywhere in the world, by compensating as per the market standards.
