@@ -2,7 +2,7 @@
 
 Paid Time Off (PTO) policy is applicable to all direct employees of the company. PTO is not applicable for Contractors, Trainees or Interns at the organization.
 
-Employees would be eligible for **15 PTO days in every calendar year (January to December)**. They will be credited with **1.25 PTO days** at the completion of every month from the date of joining.
+Employees would be eligible for a fixed number of PTO days per calendar year (January to December). The exact number of PTO days can vary depending on the local laws of the location of the Employee. For instance, Employees from India are entitled to **15 PTO days in every calendar year (January to December)**, and are credited with **1.25 PTO days** at the completion of every month from the date of joining.
 
 Employee can avail PTO days as many times as required  during the calendar year (January to December) or from the date of joining provided:
 - Employee has PTO days available. 
