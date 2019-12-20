@@ -2,6 +2,70 @@
 
 MayaData’s values are **P**eople First, **L**isten to Learn, **O**penness, **O**wnership and **W**inning together spelled as **PLOW**. Our values are interlinked and work together to protect our culture. This document gives some examples that make our PLOW actionable.
 
+- [People First](#people-first)
+  - [Make someone’s day today](#make-someones-day-today)
+  - [Kindness](#kindness)
+  - [Say thanks](#say-thanks)
+  - [Negative is 1-1](#negative-is-1-1)
+  - [Speakup](#speakup)
+  - [Get to know each other](#get-to-know-each-other)
+  - [Give feedback effectively](#give-feedback-effectively)
+  - [Don't pull rank](#dont-pull-rank)
+  - [Don’t label other teams](#dont-label-other-teams)
+  - [Assume positive intent ](#assume-positive-intent)
+  - [Address behavior, but don't label people](#address-behavior-but-dont-label-people)
+  - [Say sorry](#say-sorry)
+  - [No ego](#no-ego)
+  - [People are not their work](#people-are-not-their-work)
+  - [Blameless problem solving](#blameless-problem-solving)
+  - [Dogfooding](#dogfooding)
+  - [Diversity and inclusion are fundamental to the success of MayaData.](#diversity-and-inclusion-are-fundamental-to-the-success-of-mayadata)
+  - [Shift working hours for a cause](#shift-working-hours-for-a-cause)
+  - [Be a mentor](#be-a-mentor)
+  - [Family and friends first, work second](#family-and-friends-first-work-second)
+- [Listen to Learn](#listen-to-learn)
+  - [Listen to users](#listen-to-users)
+  - [Listen to peers](#listen-to-peers)
+  - [It's impossible to know everything](#its-impossible-to-know-everything)
+  - [Remove rigid barriers around your domain.](#remove-rigid-barriers-around-your-domain)
+  - [Boring solutions](#boring-solutions)
+  - [Efficiency for the right group](#efficiency-for-the-right-group)
+- [Openness](#openness)
+  - [Public by default](#public-by-default)
+  - [Examples of not public information.](#examples-of-not-public-information)
+  - [Share problems](#share-problems)
+  - [Measure what matters and publish it publicly](#measure-what-matters-and-publish-it-publicly)
+  - [Write things down](#write-things-down)
+  - [Bias towards asynchronous communication](#bias-towards-asynchronous-communication)
+  - [Anyone and anything can be questioned.](#anyone-and-anything-can-be-questioned)
+  - [Disagree and commit.](#disagree-and-commit)
+  - [Say why, not just what](#say-why-not-just-what)
+- [Ownership](#ownership)
+  - [Do it yourself](#do-it-yourself)
+  - [Outcome, not output](#outcome-not-output)
+  - [Be your own boss](#be-your-own-boss)
+  - [Global optimization](#global-optimization)
+  - [Be respectful of others' time](#be-respectful-of-others-time)
+  - [Spend company money like it's your own](#spend-company-money-like-its-your-own)
+  - [Responsibility over rigidity](#responsibility-over-rigidity)
+  - [Accept mistakes](#accept-mistakes)
+  - [An algorithm for distributed decision making](#an-algorithm-for-distributed-decision-making)
+- [Winning](#winning)
+  - [Confidence](#confidence)
+  - [See others succeed](#see-others-succeed)
+  - [Sense of urgency](#sense-of-urgency)
+  - [Ambitious and always polishing yourself](#ambitious-and-always-polishing-yourself)
+  - [Bias for Action](#bias-for-action)
+  - [Accepting Uncertainty](#accepting-uncertainty)
+  - [Move fast by shipping the minimum viable change](#move-fast-by-shipping-the-minimum-viable-change)
+  - [Reduce Cycle time](#reduce-cycle-time)
+  - [Focus on Improvement](#focus-on-improvement)
+  - [When we iterate slowly](#when-we-iterate-slowly)
+  - [Reproducibility](#reproducibility)
+  - [Life is full of learning opportunities](#life-is-full-of-learning-opportunities)
+
+
+
 ## About our Values
 
 We take inspiration from other companies, and we always go for solutions that are easy to implement. Just like the rest of our work, we continually adjust our values and strive always to make them better. Everyone is welcome to suggest improvements.
@@ -229,4 +293,7 @@ In some cases, rapid iteration can get in the way of results. For example when a
 
 ### Reproducibility
 Enable everybody involved to come to the same conclusion as you. This not only involves reasoning, but also, for example providing raw data and not just plots; scripts to automate tasks and not just the work they have done; and documenting steps while analyzing a problem. Do your best to make the line of thinking transparent to others even if they may disagree. Increases accountability when making decisions and difficult choices.
+
+### Life is full of learning opportunities
+Every job has work that’s less fun than other parts. Every team has projects that succeed, and projects that fail. One of the key determinants of winning individuals is to embrace what you can learn from failure and what you can learn from the parts of the job that you don’t like. Is there a rote task that needs doing and no one wants to do? Figure out how to automate it, how to make it more efficient, or how to do without it at all. Is something wrong with your project and everything is on fire? What can you learn? It’s only a mistake if you do it twice; otherwise it’s [just something that you learned from](https://hbr.org/2017/11/how-coca-cola-netflix-and-amazon-learn-from-failure).
 
