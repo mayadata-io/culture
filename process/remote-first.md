@@ -39,7 +39,7 @@ _Remote-first means working remote is the default. It means making sure your rem
 
   Regardless of whether you check-in with employees daily through a chat app, schedule weekly video sessions, or meet in-person monthly, the key is to provide continuous feedback rather than combining it all into one surprising review at the end of the year. Hold performance-oriented discussions in private, not in public. We share praise in public, and keep negative feedback to 1:1. 
 
-  On weekly team meetings, you should decide, together with the team as much as possible, what is the best use of your time toward accomplishing objectives. You can expect and schedule a 1-on-1 once in two weeks with your manager to further refine your objectives and to request support with any challenge you might face.
+  On weekly team meetings, you should decide, together with the team as much as possible, what is the best use of your time toward accomplishing objectives. You can expect and schedule a 1-on-1 once every month with your manager to further refine your objectives and to request support with any challenge you might face.
 
 * **Measure Output.** The underlying message is to find a metric outside of hours spent to evaluate productivity. We use a combination of OKRs and Performance Reviews to evaluate. OKRs are used to clearly articulate the priority of the tasks and enforce alignment towards Company objectives. Performance Reviews start with Self-evaluations, seeking feedback through peers and managers on the qualitative and quantitative aspects of the work as expected to the Job Roles and Responsibilities. 
 
