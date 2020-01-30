@@ -132,6 +132,7 @@ to a functional and well maintained prod deployment.
 - Contributor to a CI/CD project such as GitLab runners, Tekton,
   Spinnaker, Jenkinsl
 
+
 ### MayaData - OpenEBS and Director
 - Deep knowledge of the MayaData Storage product, particularly its
   OpenEBS and Director.
