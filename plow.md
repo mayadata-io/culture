@@ -23,6 +23,7 @@ MayaData’s values are **P**eople First, **L**isten to Learn, **O**penness, **O
   - [Shift working hours for a cause](#shift-working-hours-for-a-cause)
   - [Be a mentor](#be-a-mentor)
   - [Family and friends first, work second](#family-and-friends-first-work-second)
+  - [Opportunity for Team and Company Bonding](#opportunity-for-team-and-company-bonding)
 - [Listen to Learn](#listen-to-learn)
   - [Listen to users](#listen-to-users)
   - [Listen to peers](#listen-to-peers)
@@ -72,7 +73,7 @@ We take inspiration from other companies, and we always go for solutions that ar
 
 ## People First
 
-All business - and arguably life itself - comes down to people.  Whether working with our team, or the community, or customers, or partners or others - we strive to remember and to reinforce our common humanity.  
+All business - and arguably life itself - comes down to people.  Whether working with our team, or the community, or customers, or partners or others - we strive to remember and to reinforce our common humanity.
 
 Helping others is a priority, even when it is not immediately related to the goals that you are trying to achieve. Similarly, you can rely on others for help and advice - in fact; you're expected to do so. Anyone can chime in on any subject, just like in good families. As companies grow their speed of decision making goes down since there are more people involved. When you are the person who’s responsible for the work, you decide how to do it, but you should always take the suggestions seriously and try to respond and explain why it may or may not have been implemented.
 
@@ -103,7 +104,7 @@ If you have to remind someone of the position you have in the company you're doi
 ### Don’t label other teams
 An anti pattern that counters being people first is being “group first”.  Beware the rise of capitalized words to identify groups of unclearly defined “others.”  For example, avoid phrases like “Support just does not understand our code” or “Engineering does not care about us.”  Similarly, remember there is one team (and yes one system…) and that this MayaData team is comprised of all of us plus the community of users, customers and partners.  So avoid prioritizing the needs of ones own immediate coworkers over what is best for the user, company, community and other stakeholders.  **When in doubt prioritize the needs of the user and especially customers above all else.**
 
-### Assume positive intent 
+### Assume positive intent
 We naturally have a double standard when it comes to the actions of others. We blame circumstances for our own mistakes, but individuals for theirs. This double standard is called the [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error). In order to mitigate this bias you should always assume [positive intent](https://www.collaborativeway.com/general/a-ceos-advice-assume-positive-intent/) in your interactions with others, respecting their expertise and giving them grace in the face of what you might perceive as mistakes.
 
 ### Address behavior, but don't label people
@@ -125,7 +126,7 @@ Investigate mistakes in a way that focuses on the situational aspects of a failu
 We [use our own product](https://en.wikipedia.org/wiki/Eating_your_own_dog_food). Our SaaS service uses data management and tools that we deliver to our customers. We upgrade to the latest version before publishing it for general consumption.
 
 ### Diversity and inclusion are fundamental to the success of MayaData.
-We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We actively chose to build and institutionalize a culture that is inclusive and supports all employees equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. 
+We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We actively chose to build and institutionalize a culture that is inclusive and supports all employees equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company.
 
 Do not make jokes or unfriendly remarks about race, ethnic origin, skin color, gender, or sexual orientation. Everyone has the right to feel safe when working for MayaData. We do not tolerate abuse, harassment, exclusion, discrimination or retaliation by/of any community members, including our employees. You can always refuse to deal with people who treat you badly and get out of situations that make you feel uncomfortable.
 
@@ -138,12 +139,16 @@ People feel more included when they're supported.
 ### Family and friends first, work second
 Long lasting relationships are the [rocks of life](https://www.youtube.com/watch?v=6_N_uvq41Pg) and come before work.
 
+### Opportunity For Team and Company Bonding
+A team lunch, company events allows everyone to get to know one another in a more relaxed context. Even if you are someone who prefers to keep to themselves, you will find work is much more enjoyable when you have positive relationships with your colleagues.
+During first quarter team lunch, second quarter company wide two day outing, third quarter team lunch and in last quarter company wide half day event.
+
 ## Listen to learn
 
 ### Listen to users
 Listen to users in the openebs-users, sig-storage, kubernetes / litmus channels and various other social channels online and offline, ask clarifying questions and even just ask them whether your understanding is correct by using phrases like “can you confirm that I got it right?  You are experiencing X and would like to understand Y?”. Learn and document the use cases that users are trying to solve.
 
-### Listen to peers 
+### Listen to peers
 Listen to peers and their fears about the solution. The fears may be founded on the research and experience they bring. Validate possible solutions by talking to users.
 
 ### It's impossible to know everything
@@ -153,27 +158,27 @@ We know we must rely on others for the expertise they have that we don't. It's o
 People joining the company frequently are hesitant to provide feedback. At MayaData we should be more accepting of people taking initiative in trying to improve things. You must make them feel comfortable and allow others contribute to your domain. Actively seek feedback. Again, do not label people or teams and don’t forget your primary allegiances should be to customer success and to the company.
 
 ### Boring solutions
-Use the simplest and most [boring solution](http://mcfunley.com/choose-boring-technology) for a problem, and remember that “boring” should not be conflated with “bad” or “technical debt.” The speed of innovation for our organization and product is constrained by the total complexity we have added so far, so every little reduction in complexity helps. Don’t pick an interesting technology just to make your work more fun; using established, popular tech will ensure a more stable and more familiar experience for you and other contributors. 
+Use the simplest and most [boring solution](http://mcfunley.com/choose-boring-technology) for a problem, and remember that “boring” should not be conflated with “bad” or “technical debt.” The speed of innovation for our organization and product is constrained by the total complexity we have added so far, so every little reduction in complexity helps. Don’t pick an interesting technology just to make your work more fun; using established, popular tech will ensure a more stable and more familiar experience for you and other contributors.
 
 Make a conscious effort to recognize the constraints of others within the team. For example, sales is hard because you are dependent on another organization, and development is hard because you have to preserve the ability to quickly improve the product in the future.
 
 ### Efficiency for the right group
 Optimize solutions globally for the broader MayaData community and specifically for our customers and users. Making a process efficient for one person or a small group may not be the most efficient outcome for the whole community. As an example, it may be best to choose a process making things slightly less efficient for you while making things massively more efficient for thousands of customers. In a decision, ask yourself "for whom does this need to be most efficient?". Quite often, the answer may be your users, contributors, customers, or team members that are dependent upon your decision. **When in doubt, choose to understand, support, help and delight the customer user.**
 
-## Openness 
+## Openness
 
-We build our software in the open.  We collaborate with users in the open.  And we strive to build a radically open culture.  
+We build our software in the open.  We collaborate with users in the open.  And we strive to build a radically open culture.
 
-Be open about as many things as possible. By making information public we can reduce the threshold to contribution and make collaboration easier. 
+Be open about as many things as possible. By making information public we can reduce the threshold to contribution and make collaboration easier.
 
 Openness creates awareness for MayaData, allows us to reach out to people that care about our culture, it gets us more and faster feedback from people outside the company, and makes it easier to collaborate with them. It is also about sharing great software, documentation, examples, lessons, and processes with the world in the spirit of open source, which we believe creates more value than it captures.
- 
+
 Everyone can **remind** anyone in the company about our values. If there is a disagreement about the interpretations, the discussion can be escalated to more people within the company without repercussions.
 
 ### Public by default
 Everything at MayaData is public by default unless it’s documented otherwise here.  A good practice is to move DMs in chat onto a public channel, perhaps creating a thread to limit impact on that channel.  This way for example anyone can search on a subject and find your conversation, thereby reducing ramp up time and limiting costs of coordination.
 
-### Examples of not public information. 
+### Examples of not public information.
 Not public by default are the following items that may impact our users and employees and doesn’t benefit being public:
 - Security vulnerabilities are not public since it would allow attackers to compromise MayaData installations.
 - Financial information, including revenue and costs for the company.
@@ -188,7 +193,7 @@ Not public by default are the following items that may impact our users and empl
 - Competitive sales and marketing campaign planning is confidential since we want to minimize the time the competition has to respond to it.
 - When we discuss a customer by name that is not public unless we're sure the customer is OK with that.
 - Plans for reorganizations are not public and on a need-to-know basis within the organization. Reorganizations cause disruption and the plans tend to change a lot before being finalized, so being public about them prolongs the disruption. We will keep relevant team-members informed whenever possible.
-- R&D that has not made it to the published road map or the open source POC level is not public.  
+- R&D that has not made it to the published road map or the open source POC level is not public.
 - There is a huge amount that we all know about why users buy, what are the weaknesses of competitors, where Kubernetes and standards like NVMe and similar area headed that are not proprietary and yet also fit into a level of understanding that is uncommon in the broader industry and as such should be treated as valuable and discussed only when needed to help users, customers, partners and other stakeholders
 
 ### Share problems
@@ -229,7 +234,7 @@ We care about what you achieve; the code you shipped, the user you made happy, a
 You should have clear objectives and the freedom to work on them as you see fit. If a meeting doesn't seem interesting and someone's active participation is not critical to the outcome of the meeting, they can always opt to not attend, or during a video call they can work on other things if they want. Staying in the call may still make sense even if you are working on other tasks, so other peers can ping you and get fast answers when needed. This is particularly useful in multi-purpose meetings where you may be involved for just a few minutes.
 
 ### Global optimization
-This name comes from the quick guide to [Stripe's culture](https://stripe.com/us/jobs/candidate-info?a=1#culture). Our definition of global optimization is that you do what is best for the organization as a whole. Don't optimize for the goals of your immediate team when it negatively impacts the goals of other teams, our customer users, and/or the company. Those goals are also your problem and your job. Keep your immediate team as lean as possible, and help other teams achieve their goals. 
+This name comes from the quick guide to [Stripe's culture](https://stripe.com/us/jobs/candidate-info?a=1#culture). Our definition of global optimization is that you do what is best for the organization as a whole. Don't optimize for the goals of your immediate team when it negatively impacts the goals of other teams, our customer users, and/or the company. Those goals are also your problem and your job. Keep your immediate team as lean as possible, and help other teams achieve their goals.
 
 ### Be respectful of others' time
 Consider the time investment you are asking others to make with meetings and permission process. Try to avoid meetings, and if one is necessary, try to make attendance optional for as many people as possible. Any meeting should have an agenda linked from the invite, you should document the outcome. Instead of having people ask permission, trust their judgment and offer a consultation process if they have questions.
@@ -241,12 +246,12 @@ Every dollar we spend will have to be earned back; be as frugal with company mon
 When possible we give people the responsibility to make a decision and hold them accountable for that instead of imposing rules and approval processes.
 
 ### Accept mistakes
-Not every problem should lead to a new process to prevent them. Additional processes make all actions more inefficient, a mistake only affects one. 
+Not every problem should lead to a new process to prevent them. Additional processes make all actions more inefficient, a mistake only affects one.
 
 ### An algorithm for distributed decision making
 Use narratives, check sheets, and other tools  If you are proposing a new approach, sometimes a meeting isn’t enough and neither is a chat discussion.  If you believe MayaData teams or the broader community or others need to align in a certain way to achieve an outcome, please take the time to articulate your reasoning in narrative form.  This approach borrows heavily on the [narrative structure used by Amazon](https://slab.com/blog/jeff-bezos-writing-management-strategy/).
 
-Another technique we embrace is the use of criteria based trade off matrices; this approach starts with outlining the problem and 2-3 alternatives, then turns to listing the criteria by which these alternatives can be judged, and then turns to creating weights for each of these criteria. 
+Another technique we embrace is the use of criteria based trade off matrices; this approach starts with outlining the problem and 2-3 alternatives, then turns to listing the criteria by which these alternatives can be judged, and then turns to creating weights for each of these criteria.
 
 The use of Narratives and Trade Off Matricies are important aspects of our internal operating system.  Workshops and onboarding training sessions help to distribute these important algorithms.
 
@@ -256,7 +261,7 @@ The use of Narratives and Trade Off Matricies are important aspects of our inter
 Working at MayaData will expose you to situations of various levels of difficulty and complexity. This requires focus, and the ability to defer gratification. We value the ability to maintain focus and motivation when work is tough and asking for help when needed.
 
 ### Confidence
-A winner knows deep down that she or he deserves to win and that confidence itself - no matter what the situation - is crucial to achieve a positive outcome.  There is rarely success without commitment and rarely commitment without confidence. 
+A winner knows deep down that she or he deserves to win and that confidence itself - no matter what the situation - is crucial to achieve a positive outcome.  There is rarely success without commitment and rarely commitment without confidence.
 
 ### See others succeed
 We win as a single team and we take pride in contributing towards make each other succeed. If anyone is blocked by you, on a question, your approval, or a merge request review, your top priority is always to unblock them, either directly or through helping them find someone else who can, even if this takes time away from your own or your immediate team's priorities.
@@ -279,7 +284,7 @@ We value constant improvement by iterating quickly, month after month. If a task
 ### Reduce Cycle time
 We do the [smallest thing possible and get it out as quickly as possible](https://about.gitlab.com/2017/01/04/behind-the-scenes-how-we-built-review-apps/). This value is the one people most misunderstood when they join MayaData. People are trained that if you don't deliver a perfect or polished thing you get dinged for it. If you do just one piece of something you have to come back to it. Doing the whole thing seems more efficient, even though it isn't. If the complete picture is not clear your work might not be perceived as you want it to be perceived. It seems better to make a comprehensive product. They see other people in the MayaData organization being really effective with iteration but don't know how to make the transition, and it's hard to shake the fear that constant iteration can lead to shipping lower-quality work or a worse product.
 
-However, if we take smaller steps and ship smaller simpler features, we get feedback sooner. Instead of spending time working on the wrong feature or going in the wrong direction, we can ship the smallest product, receive fast feedback, and course correct. 
+However, if we take smaller steps and ship smaller simpler features, we get feedback sooner. Instead of spending time working on the wrong feature or going in the wrong direction, we can ship the smallest product, receive fast feedback, and course correct.
 
 The way to resolve this is to write down only what you can do with the time you have for this project right now. That might be 5 minutes or 2 hours. Think of what you can complete in that time that would improve the current situation. Don't write a large plan, only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration.
 
