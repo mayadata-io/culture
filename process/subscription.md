@@ -1,5 +1,9 @@
-Following software tools/IDE subscription can be provided in order to increase
+The list contains software tools,IDE etc subscription that is provided in order to increase
 productivity.
-To get the subscription, an approval from team lead or manager is required.
+If a new tool, ide etc needs to be requested, please add it to the following 'Available Subscriptions'
+list in sorted order by 'name' field.
 
-- Goland Editor
+Available Subscriptions :
+  - name: GoLand
+    type: Editor/IDE
+    details: https://www.jetbrains.com/go/
