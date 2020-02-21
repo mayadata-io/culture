@@ -4,8 +4,6 @@
 
 This document describes MayaData’s Customer Success Advocacy Team/Organization structure and processes to achieve customer success as we expand product offerings and grow our customers. 
 
-For the first 5 customers, current team members of MayaData will fill in the roles/processes described in this document. As we expand to more customers in the later half of 2019-Q2, we will likely create a dedicated Customer Success Team and enhanced processes as described in this document. 
-
 The content in this document is derived from past experiences as well as learning from the following online resources:
 
 * [https://www.helpscout.com/helpu/customer-support-department/](https://www.helpscout.com/helpu/customer-support-department/)
@@ -22,9 +20,11 @@ Our design philosophy is to deliver radically simple solutions that are open sou
 
 MayaData has chosen Chat as the primary mode of customer support, since Chat implicitly sets the expectations for a shorter response time compared to emails and also maintains a record of the interactions as opposed to Phone conversations. MayaData sets the bar for quick response very high compared to other companies - at less than 15 minutes.   Our goal is to be a trusted partner to our users - **_whether they are paid customer or community user_** - as they seek to achieve data agility.  Through this trusted relationship we can out learn alternatives while also building customer trust and loyalty.
 
-To achieve our rapid initial response SLA of less than 15 minutes, MayaData customer success organization is spread around the world - with at least one Tier 1 personnel on staff during work hours North America, Europe, and South Asia and Asia - so that users have access to customer success available 24 x 7.  A detailed schedule (*see Appendix : Support Shift Schedule* ) is published to maintain ownership of quick response. As the volume of the requests increase, the number of personnel available will be reassessed. 
+In addition to Chat (Slack), MayaData customer support team also uses ZenDesk for Ticketing and tracking the SLA.
 
-*Tier 1 customer success personnel are arguably the most important in MayaData when it comes to building a trusted relationship with end users and customers; these trusted relationships will, over time, result in customer growth and customer word of mouth which are the engines upon which the growth of MayaData is being built.  *
+To achieve our rapid initial response SLA of less than 15 minutes, MayaData customer success organization is spread around the world - with at least one Tier 1 personnel on staff during work hours North America, Europe, and Asia - so that users have access to customer success available 24 x 7.  A detailed schedule (*see Appendix : Support Shift Schedule* ) is published to maintain ownership of quick response. As the volume of the requests increase, the number of personnel available will be reassessed. 
+
+*Tier 1 customer success personnel are arguably the most important in MayaData when it comes to building a trusted relationship with end users and customers; these trusted relationships will, over time, result in customer growth and customer word of mouth which are the engines upon which the growth of MayaData is being built.*
 
 Tier 1 professionals listen to the Customer query or issue, gather additional information about the issue and acknowledge that they have understood there is a problem.The tone of the Tier 1 personnel needs to be welcoming and empathizing - rather than instructive or dismissive. Tier 1 personnel must and will have access to all the information and necessary team and resources of MayaData to provide responses to the Customer. The first person to interact with the customer is accountable for making sure the Customer issue is resolved and issue and resolution are well documented in the Knowledge base for future references.  Moreover, at MayaData customer success is responsible for user growth -> as such with each communication more information about the needs of the users can and should be recorded; such information can be tremendously valuable in shifting the relationship from a *reactive* one - in which MayaData *waits* to see if there are issues - to a *proactive* one, in which MayaData is actively working with users to advise them on ways to achieve their desired outcomes.  
 
@@ -97,7 +97,6 @@ Email channels will be limited to sales and notifications regarding security vul
 
 Knowledge Base will be integrated with ZenDesk and accessible via Customer Login. There is also a community based Knowledge Base that is available on Stack Overflow, GitHub etc., The Tier 1 personnel will help building the Knowledge base as tickets are resolved. 
 
-Post 2019-Q2, the Customer Customer Success channel will be enhanced to allow the users to directly interact (Chat) with the Customer Success Team via MayaOnline. 
 
 # Customer Success Team Structure
 
