@@ -255,6 +255,13 @@ The use of Narratives and Trade Off Matricies are important aspects of our inter
 
 Working at MayaData will expose you to situations of various levels of difficulty and complexity. This requires focus, and the ability to defer gratification. We value the ability to maintain focus and motivation when work is tough and asking for help when needed.
 
+- Perfect result count -- not a perfect process. Break the rules: fight the law.
+- Assume nothing.<br>
+  Make sure people keep their promises.<br>
+  Push yourselves push others.<br>
+  Stretch the possible.<br>
+- Your job isn't done until <u>the<u> job is done
+
 ### Confidence
 A winner knows deep down that she or he deserves to win and that confidence itself - no matter what the situation - is crucial to achieve a positive outcome.  There is rarely success without commitment and rarely commitment without confidence. 
 
