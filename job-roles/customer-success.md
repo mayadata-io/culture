@@ -4,7 +4,11 @@
 
 We at MayaData believe that the best way to deliver storage and related services to containerized and cloud-native environments is with containerized and cloud-native architectures. Everything we do is focused on providing data agility and simplifying the daily operation of Kubernetes SRE’s and DevOps teams using Kubernetes as a data layer. We enable our users to handle complex data management operations easily, and we have become open source leaders in building Kubernetes into a first-class data platform.
 
-Customer Success is an important function at MayaData in the broader goal of achieving customer satisfaction. As customer success engineers, you will collaborate with other departments in the organization to provide the best experience for our customers. 
+Customer Success is an important function at MayaData in the broader goal of achieving customer satisfaction. 
+
+As customer success engineers and architects, you are driven to make every customer, a reference customer; enable customers must grow their usage of our open source and commercial software and services substantially over time.
+
+As customer success engineers and architects, you will collaborate with other departments in the organization to provide the best experience for our customers. 
 
 _**Customer Success Engineers directly interact with customers to help them quickly solve their problems and ensure customer satisfaction remains high.**_
 
@@ -81,6 +85,39 @@ Key Skills for this role are:
 * Conflict management, feedback, and development - You handle difficult conflicts on the team by giving tough, fair, but direct feedback. 
 * Hiring, onboarding, and diversity - Build your team with a lens on diversity and inclusion by hiring great talent and onboarding them well.
 
+### Architect - Customer Success ( aka Field Technologist)
+
+The difference between a Customer Success Engineer and an Architect is experience, subject matter expertise and technical mastery, and their influence in the organization. They’re expected to provide guidance and best practices for providing excelling support for their areas of product expertise. They are trainers and mentors for both customers as well as customer success engineers.
+
+* Customer Success Architects have mastered multiple parts of the product and, operate as liaisons to the Product Management and Development teams, help each of those teams understand where the product can be improved and how
+* Customer Success Architects are excellent at communicating complex customer issues to software development teams and can make suggestions for improving the product and influencing the product roadmap.
+* Leading developer and user advocacy including coordinating the ever-increasing amount of content being created by the OpenEBS community including MayaData employees and others.
+* Personally delivering talks, solution guides, blogs and other forms of communication to help in explaining the benefits and technologies of a container attached storage, OpenEBS, and MayaData software and services.  
+* Testing scenarios as and Being a first customer shipped for releases of OpenEBS and MayaData software - and demanding a quality-first approach to software that has progressed from the alpha stage into beta and then production quality.
+* Delivering ad-hoc projects with partners and MayaData engineers as needed, working with existing solutions and product engineering resources. 
+* Collaborating with other engineers to develop reference architectures for running a variety of stateful applications in Kubernetes.
+
+
+Key Skills:
+
+* Must be an experienced software / DevOps engineer who also understands storage and data management and who has experience in explaining technical solutions to a range of personas including storage engineers, open-source developers, SREs, and operations and application architects. 
+* Experience in assisting enterprises with architecting systems running stateful workloads on or with containers is required.
+* A passionate interest in better approaches to improving an enterprise’s capabilities to build and operate stateful workloads is required. 
+* Experience in storage performance management and in sizing large storage environments for enterprises extremely helpful.  
+* Design architecture, and development experience in a large software project (internal or open-source) required.
+
+### Senior Architect - Customer Success ( aka Chief Field Technologist)
+
+In addition to the responsibilities defined for Architect - Customer Success, Senior Architects will help with: 
+
+* Advocating within the community and within MayaData for the development of capabilities that help users do the jobs they need to do including achieving data agility by running stateful workloads on Kubernetes. Leverage social networks, blog and video platforms, and highly scalable marketing technologies to get the word out.
+* Partnering with Sales leadership for “meetings that move the needle” with senior leaders in key accounts
+* Positioning and highlighting MayaData and its employees as a technical thought leader, both online and offline
+
+Key Skills:
+* Experience leading initiatives in transformation (Cloud migration, Storage migration, DevOps or Agile)
+* Aware of industry trends in order to gain a deeper product understanding
+* Experience writing books, developing video content, and/or speaking to large audiences is required.
 
 ## Hiring Process
 
