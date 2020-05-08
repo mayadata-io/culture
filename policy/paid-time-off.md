@@ -15,7 +15,7 @@ Employee can avail PTO days as many times as required  during the calendar year 
 
 When availing unplanned PTO, the employee is required to communicate their absence of work within 24 hours to their manager. 
 
-If an Employee has not sent notification of his absence / or has not reported to work for 72 hours, it will be considered as Job abandonment and corrective action will be taken against the Employee, possibly leading to termination of services. Check the [Job Abondonment Policy](./job-abandonment.md). 
+If an Employee has not sent notification of absence / or has not reported to work for 72 hours, it will be considered as Job abandonment and corrective action will be taken against the Employee, possibly leading to termination of services. Check the [Job Abondonment Policy](./job-abandonment.md). 
 
 If an employee needs to be away from work for longer than the available PTO days, then Loss of Pay Leave policy will be applied for the exceeded days. The PTO days cannot be set off against or combined with any other kind of leave - like sick days off. 
 
