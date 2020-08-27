@@ -1,5 +1,5 @@
 Technical Marketing Engineer
-=========================
+============================
 
 At MayaData we believe that the best way to deliver storage and
 related services to containerized and cloud-native environments is
@@ -24,4 +24,4 @@ the TEM is responsible for
 * Solving the real needs of users
 * Marketing the product for huge outreach
 * Approaching for potential end-users and for prioritizing their needs in our products
-* Maintaining the existing customer relationships 
+* Maintaining the existing customer relationships
