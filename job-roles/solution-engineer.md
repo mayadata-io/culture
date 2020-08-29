@@ -1,5 +1,5 @@
 Solution Engineer
-=================
+==================
 
 At MayaData we believe that the best way to deliver storage and
 related services to containerized and cloud-native environments is
@@ -10,8 +10,8 @@ layer. We enable our users to handle complex data management
 operations easily, and we have become open source leaders in building
 Kubernetes into a first-class data platform.
 
-The Role 
-========
+The Role
+=========
 
 The Solution Engineer (SE) needs to work on challenges faced by customer and bring out
 cost-efficient and unique solution for the same. They are the interface between customer
