@@ -133,5 +133,6 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 - Niladri Halder, signed the pledge on 01-October-2019.
 - Brian Matheson, signed the pledge on 15-January-2020, but probably should have signed back in October
 - Abhishek Agarwal, signed the pledge on 02-JUne-2020.
+- Abhinandan Purkait, signed the pledge on 02-June-2020.
 - Soumya Ghosh Dastidar, signed the pledge on 02-June-2020.
 - Prithvi Raj, signed the pledge on 03-June-2020
