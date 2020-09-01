@@ -138,4 +138,4 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 - Abhinandan Purkait, signed the pledge on 02-June-2020.
 - Soumya Ghosh Dastidar, signed the pledge on 02-June-2020.
 - Prithvi Raj, signed the pledge on 03-June-2020
-
+- Arkajyoti Mukherjee, signed the PLOW pledge on 02-June-2020.
