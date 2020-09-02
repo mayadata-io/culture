@@ -141,3 +141,4 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 - Amit Kumar Das, signed the pledge on 02-June-2020.
 - Arkajyoti Mukherjee, signed the PLOW pledge on 02-June-2020
 - Oum Nivrathi Kale, signed the pledge on 02-June-2020
+- Shreyangi Saxena, signed the pledge on 02-June-2020
