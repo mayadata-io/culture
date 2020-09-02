@@ -26,4 +26,4 @@ After the initial boarding, the SE is responsible for:
   and distribution
 * Continuously learn, run Kubernetes workloads and ensure the product management receives 
   application expectations for the top Kubernetes workloads
-* Contribution in MayaData internal and external blogs.
+* Contribution in MayaData internal and external blogs
