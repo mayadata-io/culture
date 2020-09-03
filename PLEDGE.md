@@ -145,3 +145,4 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 - Sayan Mondal, signed the pledge on 29-June-2020
 - Ishan Gupta, signed the pledge on 02-June-2020.
 - Vedant Shrotria, signed the pledge on 02-June-2020.
+- Vansh Bhatia, signed the pledge on 03-Sept-2020.
