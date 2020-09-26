@@ -33,3 +33,46 @@ After the initial onboarding the UI-Lead is responsible for:
   around broader initiatives, specific projects, and community contributions
 * Crafting the code that meets our internal standards for quality, style, 
   maintainability,and best practices for a high-scale web environment
+
+Mandatory Skills
+================
+*	Professional experience with at least one modern JavaScript web framework (React, Angular, Ember, VueJS)
+*	Experience with UI automation test frameworks (eg. Selenium, Jest)
+*	Experience using Git in the workplace environment
+*	A solid understanding in core web and browser concepts (eg. how http protocol works, what are the verbs, etc.)
+*	A solid understanding of HTML, CSS, and core JavaScript concepts.
+*	A solid understanding of REST principles
+*	Proficiency in the English language, both written and verbal.
+*	Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions
+*	Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems
+*	Comfortable working in a highly agile, intensely iterative software development process
+*	Demonstrated ability to onboard and integrate with an organization for a long-term
+*	Positive and solution-oriented mindset
+*	Effective communication skills: Regularly achieve consensus with peers and clear status updates
+*	Self-motivated and self-managing
+*	Demonstrated ability to work closely with other parts of the organization
+*	Ability to thrive in a fully remote organization
+*	Experience in a high-performance organization, preferably a tech startup
+*	Experience working with a global/multicultural team
+
+Preferred Skills
+================
+*	Experience contributing to open-source software especially Grafana
+*	Experience working as part of cloud-native solutions.
+*	Domain knowledge on Kubernetes and/or storage.
+
+Responsibilities
+================
+*	Develop features and improvements to the product in a well-tested and performant way
+*	Work with Product Management and other stakeholders (Backend, UX, etc.) to iterate on new features.
+*	Craft code that meets our internal standards for quality, style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.
+*	Confidently ship small features and improvements with minimal guidance and support from other team members. Collaborate and guide your team on larger projects.
+*	Help improve the overall experience of our product through improving the quality of the frontend features both in your and other teams.
+*	Help identify areas of improvements in the code base, both specific to your team and outside your team (eg. component library) and help contribute to make it better
+*	Fix prioritized issues from the issue tracker
+*	Advocate for improvements to product quality, security, and performance that have a particular impact across your team
+*	Solve technical problems of high scope and complexity.
+*	Exert influence on the overall objectives and long-range goals of your team.
+*	Experience with performance and optimization problems, particularly at large scale, and a demonstrated ability to both diagnose and prevent these problems
+*	Represent MayaData and its values in public forums and conferences around broader initiatives, specific projects, and community contributions.
+*	Provide mentorship for junior engineers in your team to help them grow in their technical responsibilities.
