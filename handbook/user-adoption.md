@@ -1,23 +1,21 @@
 User Adoption Team Handbook
 ===========================
 
-
-
-			 
-			 
-                            CEO	       	    
-			       \        
-                               	\
-			       	Sales
-				/   \  	
-       	       	       	       /     \ 	      	
-       	       	       	    Account  User      	              	       	       	       	       	       	       	      
-			     Reps   Adoption  
-				     / |   \        
-				    /  |    \       
-				   /   |     \      
-				 Dev  SE     TAM       
-                                 Ad
+```
+    CEO
+      \
+       \
+      Sales
+     /   \
+    /     \
+Account  User
+Reps   Adoption
+        / |  \
+       /  |   \
+      /   |    \
+    Dev  SE    TAM
+    Ad
+```
 
 You will collaborate and connect with communities that love technology
 and open source as much as we do. You will interact with developers
