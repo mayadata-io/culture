@@ -148,3 +148,4 @@ In signing below, I agree to help build a user focused _**PLOW**_ culture at May
 - Vansh Bhatia, signed the pledge on 03-Sept-2020.
 - Naresh Deshaveni, signed the pledge on 11-Nov-2020
 - Antonin Kral, signed the pledge on 22-Oct-2020.
+- Arne Rusek, signed the pledge on 12-Nov-2020.
