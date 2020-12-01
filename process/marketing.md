@@ -11,7 +11,7 @@ Here are some guidelines on what we think are the driving principles of a good O
 - [OpenSource is the way to go](#opensource-is-the-way-to-go)
 - [Be where the users are](#be-where-the-users-are)
 - [Support Open Source communities](#support-open-source-communities)
-- [Anonymous community growth is important](#snonymous-community-growth-is-important)
+- [Anonymous community growth is important](#anonymous-community-growth-is-important)
 - [All user feedback is valuable](#all-user-feedback-is-valuable)
 - [Focus on what users need](#focus-on-what-users-need)
 - [Help users advance their knowledge](#help-users-advance-their-knowledge)
