@@ -1,0 +1,6 @@
+{
+  "plugins": [
+    "validate-links",
+    [ "lint-no-dead-urls", { "skipUrlPatterns": [ "https://github.com/orgs/mayadata-io/projects/2" ] } ]
+  ]
+}
