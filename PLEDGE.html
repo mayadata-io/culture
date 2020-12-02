@@ -1,0 +1,375 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Pledge - MayaData Culture</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        
+        <link rel="stylesheet" href="css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="index.html">Welcome</a></li><li class="chapter-item expanded affix "><a href="plow.html">PLOW</a></li><li class="chapter-item expanded affix "><a href="PLEDGE.html" class="active">Pledge</a></li><li class="chapter-item expanded affix "><a href="CODE_OF_CONDUCT.html">Code of Conduct</a></li><li class="chapter-item expanded affix "><li class="part-title">Handbook</li><li class="chapter-item expanded "><a href="handbook/user-adoption.html"><strong aria-hidden="true">1.</strong> User Adoption</a></li><li class="chapter-item expanded affix "><li class="part-title">Job Roles</li><li class="chapter-item expanded "><a href="job-roles/backend-engineering.html"><strong aria-hidden="true">2.</strong> Backend Engineer</a></li><li class="chapter-item expanded "><a href="job-roles/chief-architect.html"><strong aria-hidden="true">3.</strong> Chief Architect</a></li><li class="chapter-item expanded "><a href="job-roles/customer-success.html"><strong aria-hidden="true">4.</strong> Customer Success</a></li><li class="chapter-item expanded "><a href="job-roles/developer-advocate.html"><strong aria-hidden="true">5.</strong> Developer Advocate</a></li><li class="chapter-item expanded "><a href="job-roles/frontend-engineering.html"><strong aria-hidden="true">6.</strong> Frontend Engineer</a></li><li class="chapter-item expanded "><a href="job-roles/solution-engineer.html"><strong aria-hidden="true">7.</strong> Solution Engineer</a></li><li class="chapter-item expanded "><a href="job-roles/sre.html"><strong aria-hidden="true">8.</strong> SRE</a></li><li class="chapter-item expanded "><a href="job-roles/technical-account-manager.html"><strong aria-hidden="true">9.</strong> Technical Account Manager</a></li><li class="chapter-item expanded "><a href="job-roles/technical-marketing-engineer.html"><strong aria-hidden="true">10.</strong> Technical Marketing Engineer</a></li><li class="chapter-item expanded "><a href="job-roles/UI-lead.html"><strong aria-hidden="true">11.</strong> UI Lead</a></li><li class="chapter-item expanded "><a href="job-roles/user-adoption-lead.html"><strong aria-hidden="true">12.</strong> User Adoption Lead</a></li><li class="chapter-item expanded affix "><li class="part-title">Policies (mostly for India Office)</li><li class="chapter-item expanded "><a href="policy/job-abandonment.html"><strong aria-hidden="true">13.</strong> Job Abandonment</a></li><li class="chapter-item expanded "><a href="policy/paid-time-off.html"><strong aria-hidden="true">14.</strong> Paid Time Off</a></li><li class="chapter-item expanded affix "><li class="part-title">Processes</li><li class="chapter-item expanded "><a href="process/developer-advocacy.html"><strong aria-hidden="true">15.</strong> Developer Advocacy</a></li><li class="chapter-item expanded "><a href="process/development.html"><strong aria-hidden="true">16.</strong> Product Development</a></li><li class="chapter-item expanded "><a href="process/etiquettes.html"><strong aria-hidden="true">17.</strong> Household Manners</a></li><li class="chapter-item expanded "><a href="process/hiring.html"><strong aria-hidden="true">18.</strong> Hiring Process</a></li><li class="chapter-item expanded "><a href="process/management.html"><strong aria-hidden="true">19.</strong> Product Management</a></li><li class="chapter-item expanded "><a href="process/marketing.html"><strong aria-hidden="true">20.</strong> OpenSource Marketing</a></li><li class="chapter-item expanded "><a href="process/okr.html"><strong aria-hidden="true">21.</strong> OKRs</a></li><li class="chapter-item expanded "><a href="process/paid-time-off-guide.html"><strong aria-hidden="true">22.</strong> Paid Time Off</a></li><li class="chapter-item expanded "><a href="process/qa.html"><strong aria-hidden="true">23.</strong> Product Quality Control</a></li><li class="chapter-item expanded "><a href="process/release.html"><strong aria-hidden="true">24.</strong> Release Process</a></li><li class="chapter-item expanded "><a href="process/remote-first.html"><strong aria-hidden="true">25.</strong> Remote First</a></li><li class="chapter-item expanded "><a href="process/saying-goodbyes.html"><strong aria-hidden="true">26.</strong> Saying Goodbye</a></li><li class="chapter-item expanded "><a href="process/subscription.html"><strong aria-hidden="true">27.</strong> Available Software Licenses</a></li><li class="chapter-item expanded "><a href="process/support.html"><strong aria-hidden="true">28.</strong> Product Support</a></li><li class="chapter-item expanded "><a href="process/useraudit.html"><strong aria-hidden="true">29.</strong> User Onboarding</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">MayaData Culture</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#pledge" id="pledge">Pledge</a></h1>
+<p>At MayaData we write and operate the software and build the communities needed to deliver this fundamentally better approach.</p>
+<p>Our values include:</p>
+<ul>
+<li><em><strong>People first.</strong></em>  People before deadlines.  People before sales figures.  When in doubt, we seek to do what is best for each other and for our users and community members.</li>
+<li><em><strong>Listen to learn.</strong></em>  We seek to out-listen our competition.  We understand that anyone can understand most of a problem by researching it and thinking about it - but to delight customers requires really understanding their stated and unstated needs.</li>
+<li><em><strong>Openness.</strong></em>  In all things we seek to be open.  We use ChatOps and other systems to “over communicate” internally.  And to the extent possible, we share with the community our issues, plans, and even our concerns.</li>
+<li><em><strong>Ownership.</strong></em>  We want each team member to be a manager of one who doesn't need daily check-ins to achieve their goals.</li>
+<li><em><strong>Winning.</strong></em>  We win.  We are confident in our abilities as a team to dramatically improve the experience of our users.  We know that a proper focus and unrelenting effort will eventually get us recognized as one of the world’s most useful companies by our users for their use cases.  We know winners never quit, never blink, never back down from any challenge.  And winners laugh a lot too.</li>
+</ul>
+<p>Note the helpful acronym <em><strong>PLOW.</strong></em></p>
+<p>Without clear tactics, rituals and metrics, values can be just nice words.</p>
+<h2><a class="header" href="#tactics" id="tactics">Tactics:</a></h2>
+<p>Here are some tactics we use to insure we are living up to our values:</p>
+<ul>
+<li><em><strong>Open source:</strong></em>  we believe that open source is a force for good in the world that is completely consistent with our beliefs in openness and listening.  We support open source projects whether they directly help our products or not.  This means engineering allocates time to be useful contributors to these communities, including crafting useful issues and contributing code when possible.  Similarly, we volunteer time with Linux,Gopher,CNCF and other communities and support them via marketing funds and by providing free access to our open source Cafe whenever possible.  We will all be evaluated in part based on contributions to our own and related communities.</li>
+<li><em><strong>Getting to know users and each other:</strong></em>  We seek to understand users and each others as individuals.  This means we take the time to know a little bit about them - where did they go to school, what do they do when they are not working, do they like Go or C better, and so forth.  We document our understanding of users.</li>
+<li><em><strong>Listening and openness:</strong></em>  We look for and reward team members that go out of their way to clarify and communicate their actions.  Everything from comments in code to useful commit comments as well as of course communications via Chat and in person with other team members will be considered.  We must keep in mind that we are a global company and need to think about how to include non local teammates in discussions and decisions.</li>
+<li><em><strong>Winning:</strong></em> We celebrate new users and new customers, new releases and other achievements.  We respect our competitors however we don't worry about what they are doing.  And we are tenacious, and we share our commitment with each other and with the community and users; for example, if a user has a problem we tell them &quot;this will get fixed.  Quickly.  Please open your PR and we will turn around a response for you.&quot;</li>
+</ul>
+<h2><a class="header" href="#rituals" id="rituals">Rituals</a></h2>
+<p>A best practice for nurturing and enforcing a culture is to have practices that become habits or rituals followed by the entire company.</p>
+<h3><a class="header" href="#referencehandbooks" id="referencehandbooks">Reference/Handbooks:</a></h3>
+<p>Just like this document, we will have all of our processes documented in github.</p>
+<ul>
+<li>People Opertions</li>
+<li>Engineering</li>
+<li>Product</li>
+<li>Customer Success</li>
+<li>Developer Advocacy</li>
+<li>Marketing</li>
+<li>Sales</li>
+<li>Finance</li>
+<li>Legal</li>
+</ul>
+<h3><a class="header" href="#all-hands-meetings" id="all-hands-meetings">All hands meetings:</a></h3>
+<p>We will have at least monthly all hands meetings in which we celebrate successes, get to know each other better, and talk about our progress towards our objectives.  At least one success per meeting should be about an end user.</p>
+<h3><a class="header" href="#weekly-stand-ups" id="weekly-stand-ups">Weekly stand-ups:</a></h3>
+<p>We will continue to have weekly team meetings that include opportunities for recognition and discussion of blockers and next steps.  Again, in each meeting we should discuss end user experiences and come up with ideas to enhance it.</p>
+<h3><a class="header" href="#daily-stand-ups" id="daily-stand-ups">Daily stand-ups:</a></h3>
+<p>We will continue to have daily standup meetings within in smaller teams to surface blockers and seek help to mitigate them. Our goal with the daily stand-ups is to make sure we meet our immediate milestone commitments. </p>
+<h3><a class="header" href="#one-on-ones" id="one-on-ones">One on ones:</a></h3>
+<p>Managers should have one on ones with their team members monthly if not more frequently.</p>
+<h3><a class="header" href="#household-manners" id="household-manners">Household manners</a></h3>
+<p>We will follow good household manners in our interactions with peer across the globe. Our <a href="./process/etiquettes.html">etiquettes manual</a> covers some suggestions that are considered good household manners.</p>
+<h3><a class="header" href="#feedback" id="feedback">Feedback:</a></h3>
+<p>We will do anonymous surveys every 6 months to gather honest feedback.</p>
+<h3><a class="header" href="#tools" id="tools">Tools:</a></h3>
+<p>To make it easy to stay in sync with everyone, we will use solutions like:</p>
+<ul>
+<li>https://slack.com/</li>
+<li>https://github.com/</li>
+<li>https://zoom.us/</li>
+</ul>
+<p>We will modify our tactics and rituals as we learn what works best for us.</p>
+<p>In signing below, I agree to help build a user focused <em><strong>PLOW</strong></em> culture at MayaData.</p>
+<p><br><br><br><br></p>
+<h2><a class="header" href="#below-team-members-have-signed-the-pledge-of-2018" id="below-team-members-have-signed-the-pledge-of-2018">Below team members have signed the pledge of 2018.</a></h2>
+<ul>
+<li>Umasankar Mukkara, signed the pledge on 28-Feb-2018.</li>
+<li>Vishnu Attur, signed the pledge on 28-Feb-2018.</li>
+<li>Kiran Mova, signed the pledge on 01-Mar-2018.</li>
+<li>Ajesh Baby, signed the pledge on 01-Mar-2018.</li>
+<li>Sudarshan Darga, signed the pledge on 01-Mar-2018.</li>
+<li>Satyam Zode, signed the pldege on 01-Mar-2018.</li>
+<li>Uday Kiran, signed the pledge on 01-Mar-2018.</li>
+<li>Ashutosh Kumar, signed the pledge on 01-Mar-2018.</li>
+<li>Shovan Maity, signed the pledge on 01-Mar-2018.</li>
+<li>Madhuri Hebbar, signed the pledge on 01-Mar-2018</li>
+<li>Sathyaseelan N , signed the pledge on 01-Mar-2018.</li>
+<li>Amit Kumar Das, signed the pledge on 01-Mar-2018.</li>
+<li>Utkarsh Mani Tripathi, signed the pledge on 01-Mar-2018</li>
+<li>Prateek Pandey, signed the pledge on 01-Mar-2018</li>
+<li>Mayank Patel, signed the pledge on 01-Mar-2018</li>
+<li>Jan Kryl, signed the pledge on 01-Mar-2018.</li>
+<li>Ranjith Raveendran, signed the pledge on 01-Mar-2018.</li>
+<li>Prabhat Thakur, signed the pledge on 01-Mar-2018.</li>
+<li>Giridharaprasad, signing the PLOW pledge on 1st March 2018.</li>
+<li>Evan Powell, signing the PLOW pledge 1st March 2018</li>
+<li>Murat Karslioglu, signing the PLOW pledge 1st March 2018</li>
+<li>Swarnalatha, signing the PLOW pledge on 02-Mar-2018.</li>
+<li>Chandan Sagar Pradhan signed the PLOW pledge on 02-Mar-2018.</li>
+<li>Moteesh signed the PLOW pledge on 02-Mar-2018.</li>
+<li>Amrish Kushwaha, signing the PLOW pledge 2nd March 2018</li>
+<li>Prince Rachit Sinha, signing the PLOW pledge on 02-Mar-2018.</li>
+<li>Soumya Leelaram, signing the PLOW pledge on 02-Mar-2018.</li>
+<li>Vishnu Itta, signing the PLOW pledge on 02-Mar-2018.</li>
+<li>Ganesh Kumar, signing the PLOW pledge on 02-Mar-2018.</li>
+<li>Karthik KS, signing the PLOW pledge on 02-Mar-2018.</li>
+<li>Akash Srivastava, signed the PLOW pledge on 02-Mar-2018.</li>
+<li>Pradeep Kumar BK, signed the PLOW pledge on 03-Mar-2018.</li>
+<li>Harsh Vardhan, signing the PLOW pledge on 04-Mar-2018.</li>
+<li>Abhishek Kashyap, signed the pledge on 05-Mar-2018.</li>
+<li>Satbir Singh, signed the pledge on 05-Mar-2018.</li>
+<li>Debjani Sarkar, signed the pledge on 07-Mar-2018</li>
+<li>Niti Suryawanshi, signed the PLOW on 07-Mar-18mayadata.io</li>
+<li>Atul Abhishek,signed the pledge on 07-Mar-2018.</li>
+<li>Meghna Singh, signed the pledge on 07-Mar-2018.</li>
+<li>Intakhab Ali, signed the pledge on 07-Mar-2018.</li>
+<li>Sagar Kumar, signed the pledge on 07-Mar-2018.</li>
+<li>Sanya Sabu, signed the pledge on 07-Mar-2018.</li>
+<li>Rakesh Singh, signed on 07-Mar-2018.</li>
+<li>Nisanta Sahoo , signed the pledge on 7th March 2018</li>
+<li>Jeffry Molanus, signed the pledge March 7th, 2018</li>
+<li>Mayur Nagekar alias Miyurz, signed the pledge March 9th, 2018</li>
+<li>Harsh Shekhar, signed the pledge on 30-July-2019.</li>
+<li>Harshita Sharma, signed the pledge on 30-July-2019.</li>
+<li>Shubham Bajpai, signed the pledge on 30-July-2019.</li>
+<li>AV Rahul, signed the pledge on 30-July-2019.</li>
+<li>Akhil Mohan, signed the pledge on 30-July-2019.</li>
+<li>Raj Babu Das, signed the pledge on 31-July-2019.</li>
+<li>Anupriya Gupta,signed the PLOW pledge on 31-July-2019</li>
+<li>Aditya, signed the PLOW pledge on 31-July-2019.</li>
+<li>Udit Gaurav,signed the PLOW pledge on 31-July-2019</li>
+<li>Shubham Chaudhary,signed the PLOW pledge on 31-July-2019</li>
+<li>Aman Gupta,signed the PLOW pledge on 31-July-2019</li>
+<li>Sai Chaithanya, signed the pledge on 31-July-2019.</li>
+<li>Shashank Ranjan, signed the pledge on 31-July-2019.</li>
+<li>Saksham Katiyar, signed the pledge on 07-August-2019.</li>
+<li>Somesh Kumar, signed the pledge on 07-August-2019.</li>
+<li>Chandan Kumar, signed the pledge on 17-Sep-2019.</li>
+<li>Niladri Halder, signed the pledge on 01-October-2019.</li>
+<li>Brian Matheson, signed the pledge on 15-January-2020, but probably should have signed back in October</li>
+<li>Saranya Jena, signed the pledge on 02-June-2020</li>
+<li>Sahil Raja, signed the pledge on 02-June-2020.</li>
+<li>Abhishek Agarwal, signed the pledge on 02-JUne-2020.</li>
+<li>Abhinandan Purkait, signed the pledge on 02-June-2020.</li>
+<li>Soumya Ghosh Dastidar, signed the pledge on 02-June-2020.</li>
+<li>Prithvi Raj, signed the pledge on 03-June-2020</li>
+<li>Amit Kumar Das, signed the pledge on 02-June-2020.</li>
+<li>Arkajyoti Mukherjee, signed the PLOW pledge on 02-June-2020</li>
+<li>Oum Nivrathi Kale, signed the pledge on 02-June-2020</li>
+<li>Shreyangi Saxena, signed the pledge on 02-June-2020</li>
+<li>Sayan Mondal, signed the pledge on 29-June-2020</li>
+<li>Ishan Gupta, signed the pledge on 02-June-2020.</li>
+<li>Vedant Shrotria, signed the pledge on 02-June-2020.</li>
+<li>Vansh Bhatia, signed the pledge on 03-Sept-2020.</li>
+<li>Naresh Deshaveni, signed the pledge on 11-Nov-2020</li>
+<li>Antonin Kral, signed the pledge on 22-Oct-2020.</li>
+<li>Arne Rusek, signed the pledge on 12-Nov-2020.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="plow.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="CODE_OF_CONDUCT.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="plow.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="CODE_OF_CONDUCT.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

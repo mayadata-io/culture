@@ -1,0 +1,310 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Paid Time Off - MayaData Culture</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="../favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="../favicon.png">
+        
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Welcome</a></li><li class="chapter-item expanded affix "><a href="../plow.html">PLOW</a></li><li class="chapter-item expanded affix "><a href="../PLEDGE.html">Pledge</a></li><li class="chapter-item expanded affix "><a href="../CODE_OF_CONDUCT.html">Code of Conduct</a></li><li class="chapter-item expanded affix "><li class="part-title">Handbook</li><li class="chapter-item expanded "><a href="../handbook/user-adoption.html"><strong aria-hidden="true">1.</strong> User Adoption</a></li><li class="chapter-item expanded affix "><li class="part-title">Job Roles</li><li class="chapter-item expanded "><a href="../job-roles/backend-engineering.html"><strong aria-hidden="true">2.</strong> Backend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/chief-architect.html"><strong aria-hidden="true">3.</strong> Chief Architect</a></li><li class="chapter-item expanded "><a href="../job-roles/customer-success.html"><strong aria-hidden="true">4.</strong> Customer Success</a></li><li class="chapter-item expanded "><a href="../job-roles/developer-advocate.html"><strong aria-hidden="true">5.</strong> Developer Advocate</a></li><li class="chapter-item expanded "><a href="../job-roles/frontend-engineering.html"><strong aria-hidden="true">6.</strong> Frontend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/solution-engineer.html"><strong aria-hidden="true">7.</strong> Solution Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/sre.html"><strong aria-hidden="true">8.</strong> SRE</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-account-manager.html"><strong aria-hidden="true">9.</strong> Technical Account Manager</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-marketing-engineer.html"><strong aria-hidden="true">10.</strong> Technical Marketing Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/UI-lead.html"><strong aria-hidden="true">11.</strong> UI Lead</a></li><li class="chapter-item expanded "><a href="../job-roles/user-adoption-lead.html"><strong aria-hidden="true">12.</strong> User Adoption Lead</a></li><li class="chapter-item expanded affix "><li class="part-title">Policies (mostly for India Office)</li><li class="chapter-item expanded "><a href="../policy/job-abandonment.html"><strong aria-hidden="true">13.</strong> Job Abandonment</a></li><li class="chapter-item expanded "><a href="../policy/paid-time-off.html"><strong aria-hidden="true">14.</strong> Paid Time Off</a></li><li class="chapter-item expanded affix "><li class="part-title">Processes</li><li class="chapter-item expanded "><a href="../process/developer-advocacy.html"><strong aria-hidden="true">15.</strong> Developer Advocacy</a></li><li class="chapter-item expanded "><a href="../process/development.html"><strong aria-hidden="true">16.</strong> Product Development</a></li><li class="chapter-item expanded "><a href="../process/etiquettes.html"><strong aria-hidden="true">17.</strong> Household Manners</a></li><li class="chapter-item expanded "><a href="../process/hiring.html"><strong aria-hidden="true">18.</strong> Hiring Process</a></li><li class="chapter-item expanded "><a href="../process/management.html"><strong aria-hidden="true">19.</strong> Product Management</a></li><li class="chapter-item expanded "><a href="../process/marketing.html"><strong aria-hidden="true">20.</strong> OpenSource Marketing</a></li><li class="chapter-item expanded "><a href="../process/okr.html"><strong aria-hidden="true">21.</strong> OKRs</a></li><li class="chapter-item expanded "><a href="../process/paid-time-off-guide.html" class="active"><strong aria-hidden="true">22.</strong> Paid Time Off</a></li><li class="chapter-item expanded "><a href="../process/qa.html"><strong aria-hidden="true">23.</strong> Product Quality Control</a></li><li class="chapter-item expanded "><a href="../process/release.html"><strong aria-hidden="true">24.</strong> Release Process</a></li><li class="chapter-item expanded "><a href="../process/remote-first.html"><strong aria-hidden="true">25.</strong> Remote First</a></li><li class="chapter-item expanded "><a href="../process/saying-goodbyes.html"><strong aria-hidden="true">26.</strong> Saying Goodbye</a></li><li class="chapter-item expanded "><a href="../process/subscription.html"><strong aria-hidden="true">27.</strong> Available Software Licenses</a></li><li class="chapter-item expanded "><a href="../process/support.html"><strong aria-hidden="true">28.</strong> Product Support</a></li><li class="chapter-item expanded "><a href="../process/useraudit.html"><strong aria-hidden="true">29.</strong> User Onboarding</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">MayaData Culture</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#paid-time-off" id="paid-time-off">Paid Time Off</a></h1>
+<p>This page is written with a focus on vacation/leave policies taken towards <a href="https://github.com/mayadata-io/culture/blob/master/policy/paid-time-off.md">Paid Time Off</a>.</p>
+<p>MayaData allows for 15 days of Personal Time Off or Vacation Days or Paid Time Off days that are in addition to:</p>
+<ul>
+<li>National Holidays governed by your location</li>
+<li>Leaves taken for medical needs, whether physical or mental</li>
+<li>Leaves taken towards major life changing events like becoming a parent, losing a family member</li>
+<li>Leaves taken to fulfill your duties as a citizen to your nation like Voting Leave or Jury Duty leave and so forth. </li>
+</ul>
+<p>MayaData recognizes that it is very important to take time off to recharge batteries and refresh the mind so you can come back to your work and commitments with renewed energy and be prepared to do your best work ever! MayaData also encourages you to use your leave for medical needs, jury duty, bereavement leave, or to vote. You are not expected to work during this time off, but we recommend following the guidance under Communicating Your Time Off when these situations arise.</p>
+<p>Time away from work can be extremely helpful for maintaining a good work/life balance. MayaData encourages managers and leadership to set the example by taking time off when needed, and ensuring their reports do the same.</p>
+<p>PTO do not have to be trips to exotic places, but instead could be taking some time for oneself at home. A great example for a personal time off is to take care of long outstanding chores at home, or to provide medical care to a family member or a friend.</p>
+<p>Working hours are flexible. You don't need to worry about taking time off to go to the gym, take a nap, go grocery shopping, do household chores, help someone, take care of a loved one, etc. If you have urgent tasks, but something comes up or takes longer than expected, just ensure the rest of the team knows and someone can pick up the tasks (assuming you're able to communicate). When your personal work keeps your away from work and are unable to put in the required hours to complete your tasks per day, we trust that you will use your time off and communicate it to your manager and team.</p>
+<h2><a class="header" href="#guide-to-use-paid-time-off" id="guide-to-use-paid-time-off">Guide to use Paid Time Off</a></h2>
+<p>As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way.</p>
+<ul>
+<li>We have a &quot;no ask, must tell&quot; time off policy. This means that:
+<ul>
+<li>You do not need to ask permission to take time off unless you want to have more than 4 calendar days off in a release cycle that runs from 15th to 15th of every month. The 4 day limit is to ensure that business continuity is maintained. </li>
+<li>What we care about are your results, not how long you work. While you don't need to ask approval for time off, it shouldn’t be at the expense of business getting done. Please coordinate with your team before taking time off, especially during popular or official holidays, so that we can ensure business continuity. We want to ensure we have adequate coverage and avoid situations where all/most of the team is taking time off at the same time.</li>
+<li>When taking time off make sure your manager is aware of your absence. Informing your manager can be done by sending a shout out in the #announcements slack and also including your local HR contact. Giving your manager and team members a heads up early helps them prioritize work and meet business goals and deadlines.</li>
+<li>If you're gone for 48 hours without prior notification, this could be deemed as a case of <a href="https://github.com/mayadata-io/culture/blob/master/policy/job-abandonment.md">Job Abandonment</a>.</li>
+<li>It can be helpful to take longer breaks to re-energize. If this is helpful to you, we strongly recommend taking at least two consecutive weeks of time off per year.</li>
+</ul>
+</li>
+<li>We don't frown on people taking time off, but rather encourage people to take care of themselves and others by having some time away. If you notice that your co-worker is working long hours over a sustained period, you may want to let them know about the time off policy.</li>
+<li>Not taking vacation is viewed as a weakness and people shouldn't boast about it. It is viewed as a lack of humility about your role, not fostering collaboration in training others in your job, and not being able to document and explain your work. You are doing the company a disservice by being a single point of failure. The company must be able to go for long periods without you. We don't want to lose you permanently by you burning yourself out by not taking regular vacations.</li>
+<li>You are invited to the company call and your team calls if you are available, but it isn't mandatory and you shouldn't attend if it is during your time off. We encourage you to read the call agenda on your return to catch up on the announcements made while you were on your time off.</li>
+<li>Please also remember to turn on your out of office message and include the contact details of a co-worker in case anything urgent or critical comes into your inbox while you're away. If you have to respond to an incident while on-call outside of your regular working hours, you should feel free to take off some time the following day to recover and be well-rested. If you feel pressured to not take time off to rest, refer to this part of the handbook and explain that you had to handle an incident.</li>
+<li>When returning from paid time off, it can be helpful to schedule a coffee chat or two on the day of your return to get caught up, share stories from your time off, and simply reconnect with your team members. It also provides a nice break from to-dos and unread emails. This type of conversation may occur organically in a colocated office but needs to be managed with intent in an all-remote company.</li>
+</ul>
+<h2><a class="header" href="#communicating-your-time-off" id="communicating-your-time-off">Communicating Your Time Off</a></h2>
+<p>Communicate broadly when you will be away so other people can manage time efficiently, projects don't slip through the cracks, and so that you don't get bothered while away.</p>
+<ul>
+<li>If you plan to be out of the office for more than 48 hours, update your Slack status with your out of office dates by clicking on your profile picture and selecting &quot;Edit Status.&quot; For Example: 'OOO Back on 2020-02-20.' Don't forget to change it back upon your return, and be aware that this information is publicly accessible.</li>
+<li>Add an out of office automated response including the dates you plan to be away in your automated response.</li>
+<li>Decline any meetings you will not be present for so the organizer can make appropriate arrangements.</li>
+<li>If your team or work group has a specific scheduling calendar, ensure to update it with your out of office plans. Bring it up in your team standups</li>
+</ul>
+<h2><a class="header" href="#communicating-time-off-for-an-emergency-situations" id="communicating-time-off-for-an-emergency-situations">Communicating Time Off for an Emergency Situations</a></h2>
+<p>Emergencies, by definition are unexpected. They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation. During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible. If an unexpected emergency occurs please contact your manager via slack or email or phone as soon as possible if you will be unavailable or unable to work. This will allow your manager to confirm your safety and reassign any critical work during your absence. If you do not have an emergency contact provided to your HR please go ahead and complete that section. We will only contact that person if we are unable to reach you via slack, email or phone.</p>
+<h2><a class="header" href="#recognizing-burnout" id="recognizing-burnout">Recognizing Burnout</a></h2>
+<p>It is important for us to take a step back to recognize and acknowledge the feeling of being &quot;burned out&quot;. We are not as effective or efficient when we work long hours, miss meals or forego nurturing our personal lives for sustained periods of time. If you feel that you or someone on your team may be experiencing <a href="http://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642">burnout</a>, be sure to address it right away.</p>
+<p>To get ahead of a problem, be sure to communicate with your manager if any of the following statements ever apply to you:</p>
+<ul>
+<li>&quot;I am losing interest in social interaction.&quot; - This is especially dangerous in an all-remote setting.</li>
+<li>&quot;I've lost the motivation to work.&quot; - Everyone has days when they don't want to work but if you hear yourself saying this often, you're on the road to burnout.</li>
+<li>&quot;I often feel tired.&quot; - Indicative of being overworked for prolonged periods of time.</li>
+<li>&quot;I get agitated easily.&quot;</li>
+<li>&quot;I've been hostile to my coworkers.&quot; - You see yourself &quot;snap&quot; at people for no apparent reason.</li>
+<li>&quot;I've been having headaches often.&quot; - A headache can manifest itself for multiple reasons but if you catch yourself only having headaches on work days, it is time to evaluate your situation.</li>
+</ul>
+<p>If someone is showing signs of burnout, they should take time off to focus on things that are relaxing and improve their overall health and welfare.</p>
+<p>Other tips to avoid burnout include:</p>
+<ul>
+<li>Assess and pursue your interests, skills and passions.</li>
+<li>Take breaks during the day to eat healthy food and stretch your legs. The Timeout app can help with that.</li>
+<li>Make time each day to increase blood and oxygen circulation which improves brain activity and functionality.</li>
+<li>Get plenty of restful sleep.</li>
+<li>Meditate to take your mind away from work. Headspace and Calm are good tools for creating meditation habits.</li>
+<li>Don't start work as soon as you wake up. Take your time doing your morning routine.</li>
+<li>Set yourself as away when you are not working. Snooze your Slack notifications. It is fine to be not reachable during your off time.</li>
+<li>Don't let burnout creep up on you. Working remotely can allow us to create bad habits, such as working straight through lunch to get something finished. Once in a while this feels good, perhaps to check that nagging task or big project off the list, but don't let this become a bad habit. Before long, you'll begin to feel the effects on your body and see it in your work.</li>
+</ul>
+<p>Keep in mind that you are not alone! Chances are that you have a colleague who already experienced burnout or has been on the road to burnout. Schedule coffee calls with your team members or with anyone you'd like to talk to. Talk to your manager. If none of that is an option for you, schedule a call with your HR Manager.</p>
+<p>Take care not to burn yourself out</p>
+<h2><a class="header" href="#managements-role-in-paid-time-off" id="managements-role-in-paid-time-off">Management’s Role in Paid Time Off</a></h2>
+<p>Managers have a duty of care towards their direct reports in managing their wellbeing and ensuring that time off is being taken. Sometimes, when working remotely from home, a good work-life balance can be difficult to find. It is also easy to forget that your team is working across multiple time zones, so some may feel obligated to work longer to ensure there is overlap. It is important that you check-in with your reports through one-to-ones, and if you think someone needs some time off let them know they can do this.</p>
+<p>If you discover that multiple people in your team want to be off at the same time, see what the priorities are, review the impact to the business, and use your best judgement. Discuss this with your team so you can manage the time off together. It is also a good idea to remind your team to give everyone an early heads-up, if possible, about upcoming vacation plans.</p>
+<p>As a manager, it is your task to evaluate your team's state of mind. Address possible burnout by discussing options with your team member to manage contributing stressors and evaluate the workload. Some things to help with this:</p>
+<ul>
+<li>Try to follow each of your team members' work habits. If they start being less efficient, or working more hours, they might be on the road to burnout.</li>
+<li>Try to keep track of when they had their last paid day off. If they hadn't had a personal day in a long time, look closer at their behaviour.</li>
+<li>Make sure you let your team members know they can talk to you about their challenges.</li>
+<li>When you recognize symptoms of burnout in others, help them to get out the &quot;Burnout trap&quot;. Don't just tell people to take a break, but help them arrange things so they can take a break. Ask why they feel they can't take a break (there are almost certainly real, concrete reasons) and then ask permission to get busy putting things in place that will overcome those barriers. People might be trapped by their own fatigue, being too worn out to find the creative solutions needed to take a break.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../process/okr.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../process/qa.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../process/okr.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../process/qa.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

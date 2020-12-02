@@ -1,0 +1,315 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Developer Advocate - MayaData Culture</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="../favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="../favicon.png">
+        
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Welcome</a></li><li class="chapter-item expanded affix "><a href="../plow.html">PLOW</a></li><li class="chapter-item expanded affix "><a href="../PLEDGE.html">Pledge</a></li><li class="chapter-item expanded affix "><a href="../CODE_OF_CONDUCT.html">Code of Conduct</a></li><li class="chapter-item expanded affix "><li class="part-title">Handbook</li><li class="chapter-item expanded "><a href="../handbook/user-adoption.html"><strong aria-hidden="true">1.</strong> User Adoption</a></li><li class="chapter-item expanded affix "><li class="part-title">Job Roles</li><li class="chapter-item expanded "><a href="../job-roles/backend-engineering.html"><strong aria-hidden="true">2.</strong> Backend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/chief-architect.html"><strong aria-hidden="true">3.</strong> Chief Architect</a></li><li class="chapter-item expanded "><a href="../job-roles/customer-success.html"><strong aria-hidden="true">4.</strong> Customer Success</a></li><li class="chapter-item expanded "><a href="../job-roles/developer-advocate.html" class="active"><strong aria-hidden="true">5.</strong> Developer Advocate</a></li><li class="chapter-item expanded "><a href="../job-roles/frontend-engineering.html"><strong aria-hidden="true">6.</strong> Frontend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/solution-engineer.html"><strong aria-hidden="true">7.</strong> Solution Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/sre.html"><strong aria-hidden="true">8.</strong> SRE</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-account-manager.html"><strong aria-hidden="true">9.</strong> Technical Account Manager</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-marketing-engineer.html"><strong aria-hidden="true">10.</strong> Technical Marketing Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/UI-lead.html"><strong aria-hidden="true">11.</strong> UI Lead</a></li><li class="chapter-item expanded "><a href="../job-roles/user-adoption-lead.html"><strong aria-hidden="true">12.</strong> User Adoption Lead</a></li><li class="chapter-item expanded affix "><li class="part-title">Policies (mostly for India Office)</li><li class="chapter-item expanded "><a href="../policy/job-abandonment.html"><strong aria-hidden="true">13.</strong> Job Abandonment</a></li><li class="chapter-item expanded "><a href="../policy/paid-time-off.html"><strong aria-hidden="true">14.</strong> Paid Time Off</a></li><li class="chapter-item expanded affix "><li class="part-title">Processes</li><li class="chapter-item expanded "><a href="../process/developer-advocacy.html"><strong aria-hidden="true">15.</strong> Developer Advocacy</a></li><li class="chapter-item expanded "><a href="../process/development.html"><strong aria-hidden="true">16.</strong> Product Development</a></li><li class="chapter-item expanded "><a href="../process/etiquettes.html"><strong aria-hidden="true">17.</strong> Household Manners</a></li><li class="chapter-item expanded "><a href="../process/hiring.html"><strong aria-hidden="true">18.</strong> Hiring Process</a></li><li class="chapter-item expanded "><a href="../process/management.html"><strong aria-hidden="true">19.</strong> Product Management</a></li><li class="chapter-item expanded "><a href="../process/marketing.html"><strong aria-hidden="true">20.</strong> OpenSource Marketing</a></li><li class="chapter-item expanded "><a href="../process/okr.html"><strong aria-hidden="true">21.</strong> OKRs</a></li><li class="chapter-item expanded "><a href="../process/paid-time-off-guide.html"><strong aria-hidden="true">22.</strong> Paid Time Off</a></li><li class="chapter-item expanded "><a href="../process/qa.html"><strong aria-hidden="true">23.</strong> Product Quality Control</a></li><li class="chapter-item expanded "><a href="../process/release.html"><strong aria-hidden="true">24.</strong> Release Process</a></li><li class="chapter-item expanded "><a href="../process/remote-first.html"><strong aria-hidden="true">25.</strong> Remote First</a></li><li class="chapter-item expanded "><a href="../process/saying-goodbyes.html"><strong aria-hidden="true">26.</strong> Saying Goodbye</a></li><li class="chapter-item expanded "><a href="../process/subscription.html"><strong aria-hidden="true">27.</strong> Available Software Licenses</a></li><li class="chapter-item expanded "><a href="../process/support.html"><strong aria-hidden="true">28.</strong> Product Support</a></li><li class="chapter-item expanded "><a href="../process/useraudit.html"><strong aria-hidden="true">29.</strong> User Onboarding</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">MayaData Culture</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#developer-advocacy-roles-and-responsibilities" id="developer-advocacy-roles-and-responsibilities">Developer Advocacy Roles and Responsibilities</a></h1>
+<p>As a Developer Advocate, you will connect with other developers, contribute to open source, and share your work externally about cutting-edge technologies on conference panels, meetups, in contributed articles and on blogs. Your work will foster a community inspired by MayaData and will drive our strategy around developer love and MayaData’s participation in the open source ecosystem.You will collaborate and connect with communities that love technology and open source as much as we do. You will interact with developers across the globe at conferences as well as online, and co-creates with the open source community on the most impactful projects in the ecosystem. Our focus is on generating awareness about MayaData by rolling up our sleeves, contributing to the ecosystem, and enabling others to become evangelists outside the company as well. Not afraid to be hands-on, you might write sample code, author client libraries, and work with strategic MayaData partners such as the Heroes, users, and customers to spark and engage our developer and ops communities.</p>
+<h2><a class="header" href="#how-we-measure-ourselves" id="how-we-measure-ourselves">How we measure ourselves?</a></h2>
+<ul>
+<li>Awareness generated by our efforts (eye balls)</li>
+<li>Community motivated by our efforts (community involvement). Community involvement is measured by content contributions and invitations to community efforts.</li>
+</ul>
+<h2><a class="header" href="#responsibilities" id="responsibilities">Responsibilities</a></h2>
+<ul>
+<li>Lead the conversation around the latest technology advancements and best practices in the developer and ops community at in person and online venues.</li>
+<li>Contribute to relevant open source projects, foundations, and SIGs in order to give MayaData a voice and front seat access to the developments in <a href="#specialities">our space of interest</a>.</li>
+<li>Channel information back to product and engineering about your learnings being an active contributor in the community - OpenEBS and Kubernetes Slack for instance. </li>
+<li>Reach mass developers by creating unique content that educates the ecosystem and brings reflected glory to MayaData.</li>
+<li>Conduct interviews with media via phone, podcasts, video and in-person.</li>
+<li>Be a force in the community and never compromise on the tech!</li>
+</ul>
+<h2><a class="header" href="#specialities" id="specialities">Specialities</a></h2>
+<h3><a class="header" href="#kubernetes" id="kubernetes">Kubernetes</a></h3>
+<ul>
+<li>Experience using container technologies in general and Kubernetes in particular</li>
+<li>Contributor to Kubernetes or related projects such as Helm, CSI, OPA, </li>
+<li>Contributor to Container Runtimes, Micro VMs and related technologies</li>
+</ul>
+<h3><a class="header" href="#cicd" id="cicd">CI/CD</a></h3>
+<ul>
+<li>Experience running or building CI/CD systems</li>
+<li>Contributor to a CI/CD project such as GitLab runners, Tekton, Spinnaker, Jenkins</li>
+</ul>
+<h3><a class="header" href="#mayadata---openebs-and-director" id="mayadata---openebs-and-director">MayaData - OpenEBS and Director</a></h3>
+<ul>
+<li>Deep knowledge of the MayaData Storage product, particularly its OpenEBS and Director</li>
+<li>Ability to create engaging demos and other content based on MayaData that tell a story</li>
+</ul>
+<h3><a class="header" href="#machine-learning" id="machine-learning">Machine Learning</a></h3>
+<ul>
+<li>Experience running or building Machine Learning systems</li>
+<li>Contributor to a AI/ML CNCF projects such as KubeFlow</li>
+</ul>
+<h3><a class="header" href="#ecosystem" id="ecosystem">Ecosystem</a></h3>
+<ul>
+<li>Deep connections in the cloud native ecosystem with demonstrated involvement in community events and projects</li>
+<li>Experience driving influencers to events, content, and other experiences</li>
+<li>Ability and experience nurturing community members and convert them to champions</li>
+<li>Partnerships experience to push relevant technical initiatives through the finish line keeping in mind holistic campaigns such as KubeCon events</li>
+</ul>
+<h2><a class="header" href="#developer-advocate-levels" id="developer-advocate-levels">Developer Advocate Levels</a></h2>
+<h3><a class="header" href="#developer-advocate-requirements" id="developer-advocate-requirements">Developer Advocate Requirements</a></h3>
+<ul>
+<li>In-depth industry experience building software and contributing to open source in the CNCF ecosystem</li>
+<li>Specializes in at least 1 <a href="#specialities">area listed above</a></li>
+<li>At least 1 year of experience giving talks and developing demos, webinars, videos, and other technical content</li>
+<li>Meaningful social presence with engaged followers</li>
+<li>Ability to manage the fast moving conference schedule with it’s CFP deadlines and show dates</li>
+<li>Self-directed and work with minimal supervision.</li>
+<li>Outstanding written and verbal communications skills with the ability to explain and translate complex technology concepts into simple and intuitive communications.</li>
+<li>Ability to travel up to 40% of the time</li>
+<li>Ability to connect with users in their preferred times. </li>
+<li>You share our values and work in accordance with those values.</li>
+<li>Ability to use OpenEBS, Director, Litmus to enable Data Agility problems that our users have in adopting Stateful workloads in Kubernetes. </li>
+</ul>
+<h3><a class="header" href="#senior-developer-advocate-requirements" id="senior-developer-advocate-requirements">Senior Developer Advocate requirements</a></h3>
+<ul>
+<li>Same as above plus,</li>
+<li>2-3 year experience giving talks and developing demos, webinars, videos, podcasts and other technical content to audiences of 300 and larger</li>
+<li>Specializes in more than 3 areas listed below</li>
+<li>Experience running half-day MayaData and its partners workshops in end-user companies </li>
+<li>Experience serving as a media spokesperson</li>
+<li>Hold positions of influence in open source projects and organizations such as SIG leads, maintainer status, author status</li>
+<li>Social following of 10k+ followers or equivalent</li>
+<li>Experience giving talks and developing demos, webinars, videos, and other technical content as keynote speaker</li>
+<li>Content generated is published on platforms like Forbes, NewStack and so forth.</li>
+</ul>
+<h2><a class="header" href="#hiring-process" id="hiring-process">Hiring Process</a></h2>
+<ul>
+<li>Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find her/his job title on our team page.</li>
+<li>Qualified candidates will be invited to schedule a screening call with one of our Global Recruiters.</li>
+<li>Candidates will then be invited to schedule a 45 minute interview with the hiring manager, our Director of Developer Advocacy Team</li>
+<li>Candidates will then be invited to do a panel presentation on a topic of their choice. There will be 20-30 minutes for the presentation, followed by 20-30 minutes for Q&amp;A afterwards where the panel can ask the candidate questions and vice versa. Panelist interviewers will be the Directors from Solution Engineering, Partner and Product Management, Engineering.</li>
+<li>Finally, our CEO and/or VP Marketing may choose to conduct a final interview.</li>
+<li>Successful candidates will subsequently be made an offer via email.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../job-roles/customer-success.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../job-roles/frontend-engineering.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../job-roles/customer-success.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../job-roles/frontend-engineering.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

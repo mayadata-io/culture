@@ -1,0 +1,359 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>OKRs - MayaData Culture</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="../favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="../favicon.png">
+        
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Welcome</a></li><li class="chapter-item expanded affix "><a href="../plow.html">PLOW</a></li><li class="chapter-item expanded affix "><a href="../PLEDGE.html">Pledge</a></li><li class="chapter-item expanded affix "><a href="../CODE_OF_CONDUCT.html">Code of Conduct</a></li><li class="chapter-item expanded affix "><li class="part-title">Handbook</li><li class="chapter-item expanded "><a href="../handbook/user-adoption.html"><strong aria-hidden="true">1.</strong> User Adoption</a></li><li class="chapter-item expanded affix "><li class="part-title">Job Roles</li><li class="chapter-item expanded "><a href="../job-roles/backend-engineering.html"><strong aria-hidden="true">2.</strong> Backend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/chief-architect.html"><strong aria-hidden="true">3.</strong> Chief Architect</a></li><li class="chapter-item expanded "><a href="../job-roles/customer-success.html"><strong aria-hidden="true">4.</strong> Customer Success</a></li><li class="chapter-item expanded "><a href="../job-roles/developer-advocate.html"><strong aria-hidden="true">5.</strong> Developer Advocate</a></li><li class="chapter-item expanded "><a href="../job-roles/frontend-engineering.html"><strong aria-hidden="true">6.</strong> Frontend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/solution-engineer.html"><strong aria-hidden="true">7.</strong> Solution Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/sre.html"><strong aria-hidden="true">8.</strong> SRE</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-account-manager.html"><strong aria-hidden="true">9.</strong> Technical Account Manager</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-marketing-engineer.html"><strong aria-hidden="true">10.</strong> Technical Marketing Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/UI-lead.html"><strong aria-hidden="true">11.</strong> UI Lead</a></li><li class="chapter-item expanded "><a href="../job-roles/user-adoption-lead.html"><strong aria-hidden="true">12.</strong> User Adoption Lead</a></li><li class="chapter-item expanded affix "><li class="part-title">Policies (mostly for India Office)</li><li class="chapter-item expanded "><a href="../policy/job-abandonment.html"><strong aria-hidden="true">13.</strong> Job Abandonment</a></li><li class="chapter-item expanded "><a href="../policy/paid-time-off.html"><strong aria-hidden="true">14.</strong> Paid Time Off</a></li><li class="chapter-item expanded affix "><li class="part-title">Processes</li><li class="chapter-item expanded "><a href="../process/developer-advocacy.html"><strong aria-hidden="true">15.</strong> Developer Advocacy</a></li><li class="chapter-item expanded "><a href="../process/development.html"><strong aria-hidden="true">16.</strong> Product Development</a></li><li class="chapter-item expanded "><a href="../process/etiquettes.html"><strong aria-hidden="true">17.</strong> Household Manners</a></li><li class="chapter-item expanded "><a href="../process/hiring.html"><strong aria-hidden="true">18.</strong> Hiring Process</a></li><li class="chapter-item expanded "><a href="../process/management.html"><strong aria-hidden="true">19.</strong> Product Management</a></li><li class="chapter-item expanded "><a href="../process/marketing.html"><strong aria-hidden="true">20.</strong> OpenSource Marketing</a></li><li class="chapter-item expanded "><a href="../process/okr.html" class="active"><strong aria-hidden="true">21.</strong> OKRs</a></li><li class="chapter-item expanded "><a href="../process/paid-time-off-guide.html"><strong aria-hidden="true">22.</strong> Paid Time Off</a></li><li class="chapter-item expanded "><a href="../process/qa.html"><strong aria-hidden="true">23.</strong> Product Quality Control</a></li><li class="chapter-item expanded "><a href="../process/release.html"><strong aria-hidden="true">24.</strong> Release Process</a></li><li class="chapter-item expanded "><a href="../process/remote-first.html"><strong aria-hidden="true">25.</strong> Remote First</a></li><li class="chapter-item expanded "><a href="../process/saying-goodbyes.html"><strong aria-hidden="true">26.</strong> Saying Goodbye</a></li><li class="chapter-item expanded "><a href="../process/subscription.html"><strong aria-hidden="true">27.</strong> Available Software Licenses</a></li><li class="chapter-item expanded "><a href="../process/support.html"><strong aria-hidden="true">28.</strong> Product Support</a></li><li class="chapter-item expanded "><a href="../process/useraudit.html"><strong aria-hidden="true">29.</strong> User Onboarding</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">MayaData Culture</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#objectives-and-key-results" id="objectives-and-key-results">Objectives and Key Results</a></h1>
+<blockquote>
+<p>“Objectives and key results are the yin and yang of goal setting.” from John Doerr’s Measure What Matters</p>
+</blockquote>
+<p>At MayaData we believe in <a href="https://github.com/mayadata-io/culture/blob/master/plow.md">PLOW culture</a> where everyone is committed and accountable to working as a team to deliver company objectives. OKRs provide the best mechanism to gain visibility into everyone’s objectives. OKRs expose redundant efforts and save time and money.</p>
+<p>OKRs lay out our plan to execute our strategy and help make sure we achieve them with clearly defined goals throughout the organization. </p>
+<p>OKRs help in providing clarity and alignment in terms of what needs to be accomplished by an individual. </p>
+<p>OKRs are also a great tool for individuals to stay focused on what they have agreed to accomplish for the company. </p>
+<p>OKRs provide both top-down and bottom-up alignment.</p>
+<p>OKRs allows managers and individuals to step away from the need for Micromanagement - which is more a sign of mismanagement or an ineffective team composition. </p>
+<p>OKRs is a key enabler for our culture that helps each individual to realize their personal dreams and aspirations, while staying committed to helping MayaData customers succeed in their jobs.</p>
+<h2><a class="header" href="#okrs" id="okrs">OKRs</a></h2>
+<p><a href="https://en.wikipedia.org/wiki/OKR">OKRs</a> stand for Objective- Key Results and are our quarterly objectives.</p>
+<p>OKRs are of the following format:</p>
+<pre><code>   OBJECTIVE as a sentence.
+   KEY RESULTS: 
+   * Key result that is measurable 
+   * Key result that is measurable 
+   * Key result that is measurable 
+</code></pre>
+<p>You can use the phrase “I will achieve a certain OBJECTIVE as measured by the following KEY RESULTS…” to know if your OKR makes sense.</p>
+<p>OKRs must be defined for each Quarter with a maximum of four objectives. An individual’s OKRs must a mix of: </p>
+<ul>
+<li>3 Primary role objectives  and</li>
+<li>1 Personal career aspiration objective. </li>
+</ul>
+<p>Each objective has between 1 and 4 key results; if you have less, you list less.</p>
+<p>The <a href="https://medium.com/startup-tools/okrs-5afdc298bc28">Startup OKR template</a> provides a good explanation on how to go about writing the OKRs. </p>
+<blockquote>
+<p><strong>Objectives:</strong></p>
+<p>The goal of setting&gt;  an Objective is to write out what you hope to accomplish such that at a later time you can easily tell if you have reached, or have a clear path to reaching that objective.</p>
+<p>Choosing the right objectives is one of the hardest things to do and requires a great deal of thinking and courage to do well.</p>
+<p><strong>Key Results:</strong></p>
+<p>Assuming your Objectives are well thought through, Key Results are the secret sauce to using OKRs. Key Results are numerically-based expressions of success or progress towards an Objective.</p>
+<p>The important element here is measuring success. It’s not good enough to make broad statements about improvement (that are subjectively evaluated). We need to know how well you are succeeding. Qualitative goals tend to under-represent our capabilities because the solution tends to be the lowest common denominator.</p>
+<p><strong>Example:</strong></p>
+<p>Consider an objective called <code>launch new training for the sales team</code>. This can be accomplished by an individual by putting out a training material out there or by testing the material with a single sales member. However a good key result would be one that can be easily measured and is a stretch - like <code>train 50 sales team members</code>. It is possible that the individual can end-up training only 10, but it is better than just publishing or training a single person. The performance of the individual jumped 10-ex with properly articulating the key result.</p>
+<pre><code>OBJECTIVE: launch new training for the sales team
+KEY RESULTS:
+* publish new training material on company portal
+* train 50 sales team members
+</code></pre>
+</blockquote>
+<p>OKRs are meant to be ambitious and hard to achieve. Usually, it isn’t expected that anyone hits 100% of an OKR. Expected performance is generally:</p>
+<ul>
+<li>If you hit 70% of the Key Result, it's considered a positive. </li>
+<li>If you hit 110% of the key result, that's a likely sign that the individual and manager who oversaw the OKR didn't manage it well and set the goal too low. </li>
+<li>If you get 50% or less, it's possible that
+<ul>
+<li>Priorities changed</li>
+<li>The employee did a poor job working on the objective</li>
+<li>The Key Result was set poorly (too high).</li>
+</ul>
+</li>
+</ul>
+<p>It takes 2 - 4 quarters to get skilled at setting OKRs; your first few times setting goals you will likely be all over the place in terms of OKR completion at the end of a quarter. That’s normal. As you get better, you should be able to scope out the quarter’s work and performance with more confidence.</p>
+<h2><a class="header" href="#okr-setting-process" id="okr-setting-process">OKR Setting Process</a></h2>
+<p>OKR setting is highly collaborative process and takes time and discipline to get it right. OKRs are widely shared and meant to be understood by teams and individuals. Each individual must have their OKRs reviewed by their <a href="#technical-leads">Technical Lead</a>, <a href="#people-managers">People Manager</a>, Peers and/or their <a href="#mentors">mentor</a>. </p>
+<h3><a class="header" href="#okr-cycle" id="okr-cycle">OKR cycle</a></h3>
+<ul>
+<li>
+<p>By the 1st of the quarter, CEO (Company) and Executives (department) OKRs are published. This process typically starts off towards the last month of the previous quarter where CEO and executives meet to plan for the next quarter and align their OKRs. </p>
+</li>
+<li>
+<p>By the 15th of the first month in a quarter the OKRs are reviewed and published along with the all-hands. This process involves:</p>
+<ul>
+<li>Technical or Team Leads publishing their OKRs that are aligned with the CEO/Executive OKRs</li>
+<li>Individuals share their OKRs in alignment  with their Team / Technical Lead OKRs and it is also possible that some of the objectives may be directly aligned towards CEO/Executives. As we taken on cross functional or multiple roles as required by the Startup culture. </li>
+<li>Individual and Team OKRs are reviewed and updated. The feedback from the Individual OKRs conducted as a team will translate into updating the Team/Technical Lead, Individual or eventually the Executive OKRs.</li>
+<li>For the personal objectives, the Individual should seek help from People Manager or mentors for review. </li>
+</ul>
+</li>
+<li>
+<p>By the 15th of the second month a mid-review score is updated by the individuals </p>
+</li>
+<li>
+<p>By the 30th of the third month the final reviews are completed and work on the next Quarters reviews are started. </p>
+</li>
+</ul>
+<h2><a class="header" href="#technical-leads" id="technical-leads">Technical Leads</a></h2>
+<p>Technical Leads are responsible for a product or a complete feature. Technical Leads have to work with many other individual contributors to accomplish a larger goal.</p>
+<p>When the goals set through OKRs are not being accomplished due to any number of reasons including under performing individuals to complex features, the TL can redistribute the tasks to accomplish the goal. </p>
+<p>Technical leads are responsible for accomplishing the product/company goal and not responsible for evenly distributing tasks to employees or worrying about the career growth. Individuals have to take ownership for their goals and career growth and seek help from mentors or people managers.</p>
+<h3><a class="header" href="#types-of-meetings-with-tl" id="types-of-meetings-with-tl">Types of Meetings with TL</a></h3>
+<p>The outcome of each of these meetings is captured in tools or documents that is available for everyone in the company to consume. </p>
+<ul>
+<li>Daily and Weekly Standup </li>
+<li>1:1 or Team OKR Review Meetings </li>
+<li>1:1 or Team Knowledge Sharing sessions </li>
+<li>Release Planning </li>
+<li>Design Reviews </li>
+</ul>
+<h2><a class="header" href="#people-managers" id="people-managers">People Managers</a></h2>
+<p>People Managers are responsible for helping individuals bring and deliver their best to MayaData. People Manager abide by <a href="https://github.com/mayadata-io/culture">PLOW / culture handbook</a>. </p>
+<p>Individuals need to work out with the People managers for their career growth objectives and have them self aligned with the roles and responsibilities outlined in the <a href="https://github.com/mayadata-io/culture">culture handbook</a>. </p>
+<p>People Managers are required to update the <a href="https://github.com/mayadata-io/culture">PLOW/culture handbook</a> when responding to the queries that are common to all the individuals. For instance, <a href="https://github.com/mayadata-io/culture">PLOW / culture handbook</a> should be referred when answering anything related and not limited to:</p>
+<ul>
+<li>Questions on Leave Management via Tools and Policy </li>
+<li>Event Sponsorships via Developer Advocacy Handbook</li>
+<li>Career Growth via Roles and Responsibilities</li>
+</ul>
+<p>People Managers can be reached out to queries or concerns related to Salary and Benefits, which can then be answered via updates to the PLOW policy or through contacting the HR. </p>
+<h3><a class="header" href="#types-of-meetings-with-people-managers" id="types-of-meetings-with-people-managers">Types of Meetings with People Managers</a></h3>
+<p>The outcome of each of these meetings is captured in a document and is confidential between the individual and the people manager. Some outcomes discussed in the meeting that are useful for others in the organization like updating the PLOW can be shared to every-one. </p>
+<ul>
+<li>1:1 Performance Review Meetings scheduled at least monthly and increasing the frequency depending on the individual’s needs. </li>
+<li>On-demand meetings with Manager or the People Ops contact to discuss about burn-out situations, personal emergencies, vacation planning, PLOW values violation and so forth. </li>
+</ul>
+<h2><a class="header" href="#mentors" id="mentors">Mentors</a></h2>
+<p>Mentors are experts or have experience in a given area/topic and others in the organization can seek the help from Mentors to learn or gain experience in that area/topic. </p>
+<p>Anyone can be mentors. Mentors can be senior or junior in experience than the mentee. </p>
+<p>Mentor:mentee sessions are completely optional and if taken, must be taken seriously. The PLOW values of committing and respecting also apply to Mentor:mentee meetings. Schedule and prepare for the meetings with a clear agenda. Once the goals are met, discuss and either reduce the frequency or end the sessions. Make room for other learning experiences. </p>
+<p>Mentor discussions should not be confused with better performance reviews or salary discussions, that must be had with <a href="#people-managers">People Managers</a>. </p>
+<p>Mentor sessions are inherently meant to be only individual centric, positive and objective to foster learning. Avoid using these sessions to provide negative feedback on others in the organization. You can also seek help or learn on how to handle hard situations or how to better communicate - without turning the sessions into venting channels.  Use people ops communication channels to report any violation of <a href="https://github.com/mayadata-io/culture">PLOW values</a>. </p>
+<p>Mentors are required to abide by the PLOW values and help improve them. </p>
+<h3><a class="header" href="#types-of-meetings-with-mentors" id="types-of-meetings-with-mentors">Types of Meetings with Mentors</a></h3>
+<p>The outcome of each of these meetings is captured in a document that is shared between the mentor and mentee and some information that is useful in a positive way can be shared to every-one. </p>
+<ul>
+<li>1:1 Mentor-mentee meetings with frequency as decided by the mentor and mentee.</li>
+</ul>
+<h2><a class="header" href="#references" id="references">References</a></h2>
+<ul>
+<li><a href="https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1">Startup OKR Template</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1kZvIIHO53n4PoiytQBUKcnbCoXx23kcsbcAKO2vUz40/edit#gid=1351340186">Excel Template for storing overall objectives and key results</a></li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../process/marketing.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../process/paid-time-off-guide.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../process/marketing.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../process/paid-time-off-guide.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

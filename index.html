@@ -1,0 +1,259 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Welcome - MayaData Culture</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        
+        <link rel="stylesheet" href="css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="index.html" class="active">Welcome</a></li><li class="chapter-item expanded affix "><a href="plow.html">PLOW</a></li><li class="chapter-item expanded affix "><a href="PLEDGE.html">Pledge</a></li><li class="chapter-item expanded affix "><a href="CODE_OF_CONDUCT.html">Code of Conduct</a></li><li class="chapter-item expanded affix "><li class="part-title">Handbook</li><li class="chapter-item expanded "><a href="handbook/user-adoption.html"><strong aria-hidden="true">1.</strong> User Adoption</a></li><li class="chapter-item expanded affix "><li class="part-title">Job Roles</li><li class="chapter-item expanded "><a href="job-roles/backend-engineering.html"><strong aria-hidden="true">2.</strong> Backend Engineer</a></li><li class="chapter-item expanded "><a href="job-roles/chief-architect.html"><strong aria-hidden="true">3.</strong> Chief Architect</a></li><li class="chapter-item expanded "><a href="job-roles/customer-success.html"><strong aria-hidden="true">4.</strong> Customer Success</a></li><li class="chapter-item expanded "><a href="job-roles/developer-advocate.html"><strong aria-hidden="true">5.</strong> Developer Advocate</a></li><li class="chapter-item expanded "><a href="job-roles/frontend-engineering.html"><strong aria-hidden="true">6.</strong> Frontend Engineer</a></li><li class="chapter-item expanded "><a href="job-roles/solution-engineer.html"><strong aria-hidden="true">7.</strong> Solution Engineer</a></li><li class="chapter-item expanded "><a href="job-roles/sre.html"><strong aria-hidden="true">8.</strong> SRE</a></li><li class="chapter-item expanded "><a href="job-roles/technical-account-manager.html"><strong aria-hidden="true">9.</strong> Technical Account Manager</a></li><li class="chapter-item expanded "><a href="job-roles/technical-marketing-engineer.html"><strong aria-hidden="true">10.</strong> Technical Marketing Engineer</a></li><li class="chapter-item expanded "><a href="job-roles/UI-lead.html"><strong aria-hidden="true">11.</strong> UI Lead</a></li><li class="chapter-item expanded "><a href="job-roles/user-adoption-lead.html"><strong aria-hidden="true">12.</strong> User Adoption Lead</a></li><li class="chapter-item expanded affix "><li class="part-title">Policies (mostly for India Office)</li><li class="chapter-item expanded "><a href="policy/job-abandonment.html"><strong aria-hidden="true">13.</strong> Job Abandonment</a></li><li class="chapter-item expanded "><a href="policy/paid-time-off.html"><strong aria-hidden="true">14.</strong> Paid Time Off</a></li><li class="chapter-item expanded affix "><li class="part-title">Processes</li><li class="chapter-item expanded "><a href="process/developer-advocacy.html"><strong aria-hidden="true">15.</strong> Developer Advocacy</a></li><li class="chapter-item expanded "><a href="process/development.html"><strong aria-hidden="true">16.</strong> Product Development</a></li><li class="chapter-item expanded "><a href="process/etiquettes.html"><strong aria-hidden="true">17.</strong> Household Manners</a></li><li class="chapter-item expanded "><a href="process/hiring.html"><strong aria-hidden="true">18.</strong> Hiring Process</a></li><li class="chapter-item expanded "><a href="process/management.html"><strong aria-hidden="true">19.</strong> Product Management</a></li><li class="chapter-item expanded "><a href="process/marketing.html"><strong aria-hidden="true">20.</strong> OpenSource Marketing</a></li><li class="chapter-item expanded "><a href="process/okr.html"><strong aria-hidden="true">21.</strong> OKRs</a></li><li class="chapter-item expanded "><a href="process/paid-time-off-guide.html"><strong aria-hidden="true">22.</strong> Paid Time Off</a></li><li class="chapter-item expanded "><a href="process/qa.html"><strong aria-hidden="true">23.</strong> Product Quality Control</a></li><li class="chapter-item expanded "><a href="process/release.html"><strong aria-hidden="true">24.</strong> Release Process</a></li><li class="chapter-item expanded "><a href="process/remote-first.html"><strong aria-hidden="true">25.</strong> Remote First</a></li><li class="chapter-item expanded "><a href="process/saying-goodbyes.html"><strong aria-hidden="true">26.</strong> Saying Goodbye</a></li><li class="chapter-item expanded "><a href="process/subscription.html"><strong aria-hidden="true">27.</strong> Available Software Licenses</a></li><li class="chapter-item expanded "><a href="process/support.html"><strong aria-hidden="true">28.</strong> Product Support</a></li><li class="chapter-item expanded "><a href="process/useraudit.html"><strong aria-hidden="true">29.</strong> User Onboarding</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">MayaData Culture</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p>This repository contains the various MayaData Culture Guides/Handbooks and is the central repository of guidance for how we run the company. As part of our value of being transparent, our handbook published in this repository is open to the world. We welcome feedback. Please make a merge request to suggest improvements or add clarifications. If your question is not covered here, please use issues to ask questions.</p>
+<h2><a class="header" href="#scope-and-goals" id="scope-and-goals">Scope and goals</a></h2>
+<ul>
+<li>The documents here should expand  the <a href="https://medium.com/mayadata/mayadatas-secret-5-step-plan-for-world-domination-3c02ac8b097a">MayaData secret plan for world domination</a> and convert the plan into a culture we aspire to achieve as well as concrete actions to implement and measure adoption of the culture</li>
+<li>The documents here are expected to bring all the leads and the entire company onto a common understanding and provide a guiding framework for day-to-day prioritization decisions.</li>
+<li>The main culture changes we want to bring in into the company, mainly in engineering with the focus on the lessons learned from previous product development and stay ahead in terms of features and quality</li>
+<li>One of the key aspects of the company is people and the kind of people we bring in. These document define the details for retaining existing members, hiring new team members, and how to insure that the work environment for all contributors is one in which they feel able to make an immediate and measurable difference.</li>
+</ul>
+<h2><a class="header" href="#culture-definition" id="culture-definition">Culture definition</a></h2>
+<p><em>Culture is a framework that is used for day-to-day interactions and decision making. When in conflict, the culture established and accepted is used to resolve differences.</em></p>
+<h2><a class="header" href="#why-are-we-writing-this-document" id="why-are-we-writing-this-document">Why are we writing this document?</a></h2>
+<p>Culture can be a secret ingredient that increases user adoption, product quality, employee engagement and well being. By writing down our shared assumptions and aspirations about our culture, we hope to improve and sustain our culture as our company grows and transforms to better address user needs.</p>
+<p>History shows that employees either leave or really invest their best selves into organizations depending on the culture.  Our values help us to prevent the <a href="https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team#Summary">five dysfunctions</a>.</p>
+<ul>
+<li>Absence of trust (unwilling to be vulnerable within the group) =&gt; prevented by people first, specifically kindness</li>
+<li>Fear of conflict (seeking artificial harmony over constructive passionate debate) =&gt; prevented by openness, specifically directness</li>
+<li>Lack of commitment (feigning buy-in for group decisions creates ambiguity throughout the organization) =&gt; prevented by openness, specifically directness</li>
+<li>Avoidance of accountability (ducking the responsibility to call peers on counterproductive behavior which sets low standards) =&gt; prevented by winning, and openness</li>
+<li>Inattention to results (focusing on personal success, status and ego before team success) =&gt; prevented by people first and winning</li>
+</ul>
+<h2><a class="header" href="#our-mission" id="our-mission">Our Mission:</a></h2>
+<p>We want MayaData to be the preferred place to work for engineers, computer scientists, community advocates and others that believe in our company mission to limit cloud lock-in while providing higher levels of control of the data layer to DevOps teams. We recognize that in order to achieve our mission we have to be the <em><strong>best team</strong></em> possible at <em><strong>building</strong></em> and <em><strong>running</strong></em> the <em><strong>right software</strong></em> based solutions to our customer’s problems.   We commit to always working to improve MayaData - and ourselves - to delight our customers.  Our culture plays a key role in achieving this mission.</p>
+<p>Specifically:</p>
+<ul>
+<li>When we talk about the <em><strong>best team possible</strong></em> we emphasize that we expect high degrees of collaboration and teamwork; if you cannot work with a team with multiple cultures with high degrees of sensitivity then we are likely not the right place for you.  We seek to be the preferred employer for the best contributors in Bangalore and other markets in which we hire.</li>
+<li>When we talk about <em><strong>building software</strong></em> we emphasize that we focus on the productivity of our engineering teams and will be relentless in improving their ability to respond to customers quickly.  We will aggressively seek to continuously improve our CI/CD and operations abilities for example.</li>
+<li>When we talk about <em><strong>running software</strong></em> we emphasize a DevOps approach so that if you write the code, you support the customers and you lead efforts to fix any bugs.</li>
+<li>When we talk about <em><strong>the right software</strong></em> we emphasize listening to users.  We believe everyone at MayaData can learn from users and customers and that the best learning comes from users actually using software as opposed to simply talking about it.  In order to learn from internal users, we believe in <em>dog fooding</em> which is the practice by which we will always use our own software if it is at all applicable to our use cases.  Development environments, staging, and CI/CD and of course operations should all be based on OpenEBS and OpenEBS Director.</li>
+</ul>
+<h2><a class="header" href="#our-pledge" id="our-pledge">Our Pledge:</a></h2>
+<p>We stand by our <a href="./plow.html">PLOW values</a>, tactics and metrics defined in our <a href="./PLEDGE.html">PLEDGE</a>. Our PLEDGE is a framework for distributed decision making, that empowers each of us to determine what to do without asking our manager.</p>
+<h2><a class="header" href="#credits-and-inspiration" id="credits-and-inspiration">Credits and Inspiration</a></h2>
+<p><a href="https://about.gitlab.com/handbook/">GitLab Handbook</a> is a true source of inspiration for anyone praticing the Open Culture. We have developed our handbook by our own experiences, as well as those mentioned in the GitLab handbook which directly reflect our <a href="./plow.html">PLOW culture</a>. Another great source of inspiration and a must read are <a href="https://opensource.com/open-organization/resources/book-series">The Open Organization</a> book series by Jim Whitehurst.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+
+                        
+                            <a rel="next" href="plow.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+
+                
+                    <a rel="next" href="plow.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
