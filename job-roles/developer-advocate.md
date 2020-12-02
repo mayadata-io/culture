@@ -10,7 +10,7 @@ As a Developer Advocate, you will connect with other developers, contribute to o
 ## Responsibilities
 - Lead the conversation around the latest technology advancements and best practices in the developer and ops community at in person and online venues.
 - Contribute to relevant open source projects, foundations, and SIGs in order to give MayaData a voice and front seat access to the developments in [our space of interest](#specialities).
-- Channel information back to product and engineering about your learnings being an active contributor in the community - OpenEBS and Kubernetes Slack for instance. 
+- Channel information back to product and engineering about your learnings being an active contributor in the community - OpenEBS and Kubernetes Slack for instance.
 - Reach mass developers by creating unique content that educates the ecosystem and brings reflected glory to MayaData.
 - Conduct interviews with media via phone, podcasts, video and in-person.
 - Be a force in the community and never compromise on the tech!
@@ -19,7 +19,7 @@ As a Developer Advocate, you will connect with other developers, contribute to o
 
 ### Kubernetes
 - Experience using container technologies in general and Kubernetes in particular
-- Contributor to Kubernetes or related projects such as Helm, CSI, OPA, 
+- Contributor to Kubernetes or related projects such as Helm, CSI, OPA,
 - Contributor to Container Runtimes, Micro VMs and related technologies
 
 ### CI/CD
@@ -51,15 +51,15 @@ As a Developer Advocate, you will connect with other developers, contribute to o
 - Self-directed and work with minimal supervision.
 - Outstanding written and verbal communications skills with the ability to explain and translate complex technology concepts into simple and intuitive communications.
 - Ability to travel up to 40% of the time
-- Ability to connect with users in their preferred times. 
+- Ability to connect with users in their preferred times.
 - You share our values and work in accordance with those values.
-- Ability to use OpenEBS, Director, Litmus to enable Data Agility problems that our users have in adopting Stateful workloads in Kubernetes. 
+- Ability to use OpenEBS, Director, Litmus to enable Data Agility problems that our users have in adopting Stateful workloads in Kubernetes.
 
 ### Senior Developer Advocate requirements
 - Same as above plus,
 - 2-3 year experience giving talks and developing demos, webinars, videos, podcasts and other technical content to audiences of 300 and larger
-- Specializes in more than 3 areas listed below  
-- Experience running half-day MayaData and its partners workshops in end-user companies 
+- Specializes in more than 3 areas listed below
+- Experience running half-day MayaData and its partners workshops in end-user companies
 - Experience serving as a media spokesperson
 - Hold positions of influence in open source projects and organizations such as SIG leads, maintainer status, author status
 - Social following of 10k+ followers or equivalent

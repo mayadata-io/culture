@@ -1,12 +1,12 @@
 # Paid Time Off
 
-This page is written with a focus on vacation/leave policies taken towards [Paid Time Off](https://github.com/mayadata-io/culture/blob/master/policy/paid-time-off.md).  
+This page is written with a focus on vacation/leave policies taken towards [Paid Time Off](https://github.com/mayadata-io/culture/blob/master/policy/paid-time-off.md).
 
 MayaData allows for 15 days of Personal Time Off or Vacation Days or Paid Time Off days that are in addition to:
 - National Holidays governed by your location
 - Leaves taken for medical needs, whether physical or mental
 - Leaves taken towards major life changing events like becoming a parent, losing a family member
-- Leaves taken to fulfill your duties as a citizen to your nation like Voting Leave or Jury Duty leave and so forth. 
+- Leaves taken to fulfill your duties as a citizen to your nation like Voting Leave or Jury Duty leave and so forth.
 
 MayaData recognizes that it is very important to take time off to recharge batteries and refresh the mind so you can come back to your work and commitments with renewed energy and be prepared to do your best work ever! MayaData also encourages you to use your leave for medical needs, jury duty, bereavement leave, or to vote. You are not expected to work during this time off, but we recommend following the guidance under Communicating Your Time Off when these situations arise.
 
@@ -20,7 +20,7 @@ Working hours are flexible. You don't need to worry about taking time off to go 
 
 As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way.
 - We have a "no ask, must tell" time off policy. This means that:
-  - You do not need to ask permission to take time off unless you want to have more than 4 calendar days off in a release cycle that runs from 15th to 15th of every month. The 4 day limit is to ensure that business continuity is maintained. 
+  - You do not need to ask permission to take time off unless you want to have more than 4 calendar days off in a release cycle that runs from 15th to 15th of every month. The 4 day limit is to ensure that business continuity is maintained.
   - What we care about are your results, not how long you work. While you don't need to ask approval for time off, it shouldn’t be at the expense of business getting done. Please coordinate with your team before taking time off, especially during popular or official holidays, so that we can ensure business continuity. We want to ensure we have adequate coverage and avoid situations where all/most of the team is taking time off at the same time.
   - When taking time off make sure your manager is aware of your absence. Informing your manager can be done by sending a shout out in the #announcements slack and also including your local HR contact. Giving your manager and team members a heads up early helps them prioritize work and meet business goals and deadlines.
   - If you're gone for 48 hours without prior notification, this could be deemed as a case of [Job Abandonment](https://github.com/mayadata-io/culture/blob/master/policy/job-abandonment.md).
@@ -85,6 +85,4 @@ As a manager, it is your task to evaluate your team's state of mind. Address pos
 - Try to keep track of when they had their last paid day off. If they hadn't had a personal day in a long time, look closer at their behaviour.
 - Make sure you let your team members know they can talk to you about their challenges.
 - When you recognize symptoms of burnout in others, help them to get out the "Burnout trap". Don't just tell people to take a break, but help them arrange things so they can take a break. Ask why they feel they can't take a break (there are almost certainly real, concrete reasons) and then ask permission to get busy putting things in place that will overcome those barriers. People might be trapped by their own fatigue, being too worn out to find the creative solutions needed to take a break.
-
-
 

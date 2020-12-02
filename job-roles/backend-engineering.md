@@ -2,7 +2,7 @@
 
 ## Overview
 
-At MayaData we believe that the best way to deliver storage and related services to containerized and cloud-native environments is with containerized and cloud-native architectures.  Everything we do is focused on providing data agility and simplifying the daily operation of Kubernetes SRE’s and DevOps teams using Kubernetes as a data layer.  We enable our users to handle complex data management operations easily, and we have become open source leaders in building Kubernetes into a first-class data platform.  
+At MayaData we believe that the best way to deliver storage and related services to containerized and cloud-native environments is with containerized and cloud-native architectures. Everything we do is focused on providing data agility and simplifying the daily operation of Kubernetes SRE’s and DevOps teams using Kubernetes as a data layer. We enable our users to handle complex data management operations easily, and we have become open source leaders in building Kubernetes into a first-class data platform.
 
 
 Backend Engineers at MayaData work on our products. This includes both the open-source products like OpenEBS, Litmus, Data Agility Operators and the enterprise edition shipped through OpenEBS Director. They work with peers on teams dedicated to areas of the product. They work together with product managers, designers, and front-end engineers to solve common goals. They work with community users and enterprise customers.
@@ -21,17 +21,17 @@ Unless otherwise specified, all Backend Engineering roles at MayaData share the 
   * Comfortable working in a highly agile, intensely iterative software development process
 - Computer science education or equivalent experience.
 - Each Backend Engineer will be expected to be an expert with one primary product or functionality lead or components based on the professional experience and role.
-- Significant professional experience with the language required by the expertise or specialty. The dominant languages are Go, Java, Python, Rust, C/C++, JavaScript depending on the area of expertise. 
+- Significant professional experience with the language required by the expertise or specialty. The dominant languages are Go, Java, Python, Rust, C/C++, JavaScript depending on the area of expertise.
 - Professional experience with any other technologies that may be required by the expertise or specialty.
-- Proficient in the microservices architecture, ability to debug microservices, ability to explain and understand concepts around Kubernetes, DevOps and Data Management. 
+- Proficient in the microservices architecture, ability to debug microservices, ability to explain and understand concepts around Kubernetes, DevOps and Data Management.
 - Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment
 - Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions
 - Experience with usability, performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems
 - Experience owning a project from concept to production, including proposal, discussion, and execution. Ability to work single-handed as well as in a team.
 - Ability to use MayaData Products - OpenEBS, Litmus and Director
- 
+
 ### Nice-to-haves
-- Experience in a peak performance organization, preferably a tech startup. 
+- Experience in a peak performance organization, preferably a tech startup.
 - Experience with the MayaData products - OpenEBS, Litmus, Director as a user or contributor
 - Experience working with a global, remote team or otherwise multicultural team
 - Passionate about working for Infrastructure Products focused on Storage and/or Kubernetes SREs
@@ -52,15 +52,15 @@ Unless otherwise specified, all Backend Engineering roles at MayaData share the 
 
 ### Backend Engineer Performance Indicators
 
-Here are some ways that a Backend Engineer can self evaluate or work with the reporting manager to track the growth. A good practice would be to have a combination of qualitative and quantitative indicators. 
+Here are some ways that a Backend Engineer can self evaluate or work with the reporting manager to track the growth. A good practice would be to have a combination of qualitative and quantitative indicators.
 
-- Shift Left Index with issues caught identified before merging as opposed to E2e Testing or User Testing. 
+- Shift Left Index with issues caught identified before merging as opposed to E2e Testing or User Testing.
 - Mean Time To Merge
-- Mean Time To Review 
-- Backend automated Unit Test / BDD  Coverage - Target is 60%
+- Mean Time To Review
+- Backend automated Unit Test / BDD Coverage - Target is 60%
 - Number of Peer Reviews completed
 - Number of PRs merged
-- Community and Customer Issues resolved. 
+- Community and Customer Issues resolved.
 
 ## Backend Engineer Levels
 
@@ -81,7 +81,7 @@ The Senior Backend Engineer role extends the Backend Engineer role.
 - Represent MayaData and its values in public communication around broader initiatives, specific projects, and community contributions.
 - Provide mentorship for Junior and Intern Engineers on your team to help them grow in their technical responsibilities and remove blockers to their autonomy.
 - Confidently ship moderately sized features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-- Confidently helps the community users and customers with the product or feature with minimal guidance and support from other team members. 
+- Confidently helps the community users and customers with the product or feature with minimal guidance and support from other team members.
 
 #### Senior Backend Engineer Performance Indicators
 In addition to the Backend Engineer performance indicators, the senior backend engineers can use the following:
