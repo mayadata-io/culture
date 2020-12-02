@@ -17,7 +17,7 @@ Meghan Gill, former developer marketing leader at MongoDB and current VP of Sale
 
 ## Who can be a Developer Advocate?
 
-Everybody in wider MayaData Community can be a Developer Advocate. Whether you work in marketing, ops or engineering, you have a point of view on the work you do and the ecosystem of open source enterprise technology. If you are looking for ideas to get started, reach out on #dac slack channel or look for open items under [Community Interactions project](https://github.com/orgs/mayadata-io/projects/2).
+Everybody in wider MayaData Community can be a Developer Advocate. Whether you work in marketing, ops or engineering, you have a point of view on the work you do and the ecosystem of open source enterprise technology. If you are looking for ideas to get started, reach out on #dac slack channel or look for open items under [Community Interactions project](https://github.com/orgs/mayadata-io/projects/2)(_internal link_).
 
 ## Stages of Developer Advocacy
 - Beginner - when you start following the right accounts on Twitter, peruse HN regularly, and respond to people
