@@ -16,6 +16,11 @@ jobs:
         with:
           mdbook-version: 'latest'
 
+      - name: Install mdbook-open-on-gh
+        run: |
+          curl -LSfs https://github.com/badboy/mdbook-open-on-gh/releases/download/1.3.1/mdbook-open-on-gh-1.3.1-x86_64-unknown-linux-gnu.tar.gz | \
+            tar zxv -C /home/runner/toolbin/
+
       - run: mdbook build
 
       - name: Deploy
