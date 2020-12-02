@@ -1,0 +1,6 @@
+[book]
+authors = ["MayaData"]
+language = "en"
+multilingual = false
+src = "."
+title = "MayaData Culture"
