@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "."
 title = "MayaData Culture"
+
+[output.html]
+git-repository-url = "https://github.com/mayadata-io/culture"
+
