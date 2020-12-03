@@ -13,6 +13,7 @@
 
 # Building Software
 
+- [Coding Style Guides](process/coding-style.md)
 - [Release Process](process/release.md)
 - [Product Quality Control](process/qa.md)
 
