@@ -12,6 +12,7 @@
 
 # Tools for a Better Life
 - [Google Shared Drives](tools/gdrive.md)
+- [Available Licensed Software](tools/subscriptions.md)
 
 # Job Roles
 
@@ -46,6 +47,5 @@
 - [Release Process](process/release.md)
 - [Remote First](process/remote-first.md)
 - [Saying Goodbye](process/saying-goodbyes.md)
-- [Available Software Licenses](process/subscription.md)
 - [Product Support](process/support.md)
 - [User Onboarding](process/useraudit.md)
