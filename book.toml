@@ -16,3 +16,5 @@ renderer = ["html"]
 git-repository-url = "https://github.com/mayadata-io/culture"
 additional-css = ["css/open-in.css"]
 cname = "culture.mayadata.io"
+
+[output.linkcheck]

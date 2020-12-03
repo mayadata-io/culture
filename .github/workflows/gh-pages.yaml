@@ -16,10 +16,15 @@ jobs:
         with:
           mdbook-version: 'latest'
 
+      - name: Install mdbook-linkcheck
+        run: |
+          curl -LSfs https://japaric.github.io/trust/install.sh | \
+            sh -s -- --git Michael-F-Bryan/mdbook-linkcheck
+
       - name: Install mdbook-open-on-gh
         run: |
-          curl -LSfs https://github.com/badboy/mdbook-open-on-gh/releases/download/1.3.1/mdbook-open-on-gh-1.3.1-x86_64-unknown-linux-gnu.tar.gz | \
-            tar zxv -C /home/runner/toolbin/
+          curl -LSfs https://japaric.github.io/trust/install.sh | \
+            sh -s -- --git badboy/mdbook-open-on-gh
 
       - run: mdbook build
 
