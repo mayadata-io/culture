@@ -10,6 +10,9 @@
 
 - [User Adoption](handbook/user-adoption.md)
 
+# Tools for a Better Life
+- [Google Shared Drives](tools/gdrive.md)
+
 # Job Roles
 
 - [Backend Engineer](job-roles/backend-engineering.md)
