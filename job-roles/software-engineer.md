@@ -51,7 +51,7 @@ This is about expectations on engaging with users/customer support.
 ### Social media engagement
 This is about building self technical image on social media which in-turn increases that of company.
 - Completing surveys
-- Adovacy of component you worked in other mediums like K8s channels, or other opensource channels
+- Advocacy of component you worked in other mediums like K8s channels, or other opensource channels
 - Talks, proposals about the component, product
 - Tweets about self-learnings, company, product
 
