@@ -5,6 +5,8 @@ multilingual = false
 src = "."
 title = "MayaData Culture"
 
+[build]
+create-missing = false
 
 [preprocessor.open-on-gh]
 command = "mdbook-open-on-gh"
