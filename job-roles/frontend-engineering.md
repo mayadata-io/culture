@@ -37,8 +37,8 @@ Unless otherwise specified, all Frontend Engineering roles at MayaData share the
 ### Responsibilities
 - Develop features and improvements to the product in a well-tested and performant way
 - Develop features that meet the internationalization and localization best practices/standards
-- Develop UI that supports white labeling 
-- Experienced in instrumenting the product to help with AB testing of new features. 
+- Develop UI that supports white labeling
+- Experienced in instrumenting the product to help with AB testing of new features.
 - Work with Product Management and other stakeholders (Backend, UX, etc.) to iterate on new features.
 - Craft code that meets our internal standards for quality, style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.
 - Confidently ship small features and improvements with minimal guidance and support from other team members. Collaborate and guide your team on larger projects.

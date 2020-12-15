@@ -3,11 +3,11 @@
 At MayaData we write and operate the software and build the communities needed to deliver this fundamentally better approach.
 
 Our values include:
-- _**People first.**_  People before deadlines.  People before sales figures.  When in doubt, we seek to do what is best for each other and for our users and community members.
-- _**Listen to learn.**_  We seek to out-listen our competition.  We understand that anyone can understand most of a problem by researching it and thinking about it - but to delight customers requires really understanding their stated and unstated needs.
-- _**Openness.**_  In all things we seek to be open.  We use ChatOps and other systems to “over communicate” internally.  And to the extent possible, we share with the community our issues, plans, and even our concerns.
-- _**Ownership.**_  We want each team member to be a manager of one who doesn't need daily check-ins to achieve their goals.
-- _**Winning.**_  We win.  We are confident in our abilities as a team to dramatically improve the experience of our users.  We know that a proper focus and unrelenting effort will eventually get us recognized as one of the world’s most useful companies by our users for their use cases.  We know winners never quit, never blink, never back down from any challenge.  And winners laugh a lot too.
+- _**People first.**_ People before deadlines. People before sales figures. When in doubt, we seek to do what is best for each other and for our users and community members.
+- _**Listen to learn.**_ We seek to out-listen our competition. We understand that anyone can understand most of a problem by researching it and thinking about it - but to delight customers requires really understanding their stated and unstated needs.
+- _**Openness.**_ In all things we seek to be open. We use ChatOps and other systems to “over communicate” internally. And to the extent possible, we share with the community our issues, plans, and even our concerns.
+- _**Ownership.**_ We want each team member to be a manager of one who doesn't need daily check-ins to achieve their goals.
+- _**Winning.**_ We win. We are confident in our abilities as a team to dramatically improve the experience of our users. We know that a proper focus and unrelenting effort will eventually get us recognized as one of the world’s most useful companies by our users for their use cases. We know winners never quit, never blink, never back down from any challenge. And winners laugh a lot too.
 
 Note the helpful acronym _**PLOW.**_
 
@@ -16,10 +16,10 @@ Without clear tactics, rituals and metrics, values can be just nice words.
 ## Tactics:
 
 Here are some tactics we use to insure we are living up to our values:
-- _**Open source:**_  we believe that open source is a force for good in the world that is completely consistent with our beliefs in openness and listening.  We support open source projects whether they directly help our products or not.  This means engineering allocates time to be useful contributors to these communities, including crafting useful issues and contributing code when possible.  Similarly, we volunteer time with Linux,Gopher,CNCF and other communities and support them via marketing funds and by providing free access to our open source Cafe whenever possible.  We will all be evaluated in part based on contributions to our own and related communities.
-- _**Getting to know users and each other:**_  We seek to understand users and each others as individuals.  This means we take the time to know a little bit about them - where did they go to school, what do they do when they are not working, do they like Go or C better, and so forth.  We document our understanding of users.
-- _**Listening and openness:**_  We look for and reward team members that go out of their way to clarify and communicate their actions.  Everything from comments in code to useful commit comments as well as of course communications via Chat and in person with other team members will be considered.  We must keep in mind that we are a global company and need to think about how to include non local teammates in discussions and decisions.
-- _**Winning:**_ We celebrate new users and new customers, new releases and other achievements.  We respect our competitors however we don't worry about what they are doing.  And we are tenacious, and we share our commitment with each other and with the community and users; for example, if a user has a problem we tell them "this will get fixed.  Quickly.  Please open your PR and we will turn around a response for you."
+- _**Open source:**_ we believe that open source is a force for good in the world that is completely consistent with our beliefs in openness and listening. We support open source projects whether they directly help our products or not. This means engineering allocates time to be useful contributors to these communities, including crafting useful issues and contributing code when possible. Similarly, we volunteer time with Linux,Gopher,CNCF and other communities and support them via marketing funds and by providing free access to our open source Cafe whenever possible. We will all be evaluated in part based on contributions to our own and related communities.
+- _**Getting to know users and each other:**_ We seek to understand users and each others as individuals. This means we take the time to know a little bit about them - where did they go to school, what do they do when they are not working, do they like Go or C better, and so forth. We document our understanding of users.
+- _**Listening and openness:**_ We look for and reward team members that go out of their way to clarify and communicate their actions. Everything from comments in code to useful commit comments as well as of course communications via Chat and in person with other team members will be considered. We must keep in mind that we are a global company and need to think about how to include non local teammates in discussions and decisions.
+- _**Winning:**_ We celebrate new users and new customers, new releases and other achievements. We respect our competitors however we don't worry about what they are doing. And we are tenacious, and we share our commitment with each other and with the community and users; for example, if a user has a problem we tell them "this will get fixed. Quickly. Please open your PR and we will turn around a response for you."
 
 ## Rituals
 A best practice for nurturing and enforcing a culture is to have practices that become habits or rituals followed by the entire company.
@@ -37,13 +37,13 @@ Just like this document, we will have all of our processes documented in github.
 - Legal
 
 ### All hands meetings:
-We will have at least monthly all hands meetings in which we celebrate successes, get to know each other better, and talk about our progress towards our objectives.  At least one success per meeting should be about an end user.
+We will have at least monthly all hands meetings in which we celebrate successes, get to know each other better, and talk about our progress towards our objectives. At least one success per meeting should be about an end user.
 
 ### Weekly stand-ups:
-We will continue to have weekly team meetings that include opportunities for recognition and discussion of blockers and next steps.  Again, in each meeting we should discuss end user experiences and come up with ideas to enhance it.
+We will continue to have weekly team meetings that include opportunities for recognition and discussion of blockers and next steps. Again, in each meeting we should discuss end user experiences and come up with ideas to enhance it.
 
 ### Daily stand-ups:
-We will continue to have daily standup meetings within in smaller teams to surface blockers and seek help to mitigate them. Our goal with the daily stand-ups is to make sure we meet our immediate milestone commitments. 
+We will continue to have daily standup meetings within in smaller teams to surface blockers and seek help to mitigate them. Our goal with the daily stand-ups is to make sure we meet our immediate milestone commitments.
 
 ### One on ones:
 Managers should have one on ones with their team members monthly if not more frequently.

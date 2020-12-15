@@ -14,9 +14,9 @@ The Role
 ========
 
 The Technical Account Manager is the liason between the customer and
-MayaData.  The TAM owns the account relationship.  The TAM is
+MayaData. The TAM owns the account relationship. The TAM is
 responsible for making sure that the customer is using the product
-successfully, and to its full potential.  After the initial
+successfully, and to its full potential. After the initial
 onboarding, the TAM is responsible for:
 
 * Grow the Account

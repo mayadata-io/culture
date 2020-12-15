@@ -75,7 +75,7 @@ We take inspiration from other companies, and we always go for solutions that ar
 
 ## People First
 
-All business - and arguably life itself - comes down to people.  Whether working with our team, or the community, or customers, or partners or others - we strive to remember and to reinforce our common humanity.
+All business - and arguably life itself - comes down to people. Whether working with our team, or the community, or customers, or partners or others - we strive to remember and to reinforce our common humanity.
 
 Helping others is a priority, even when it is not immediately related to the goals that you are trying to achieve. Similarly, you can rely on others for help and advice - in fact; you're expected to do so. Anyone can chime in on any subject, just like in good families. As companies grow their speed of decision making goes down since there are more people involved. When you are the person who’s responsible for the work, you decide how to do it, but you should always take the suggestions seriously and try to respond and explain why it may or may not have been implemented.
 
@@ -104,7 +104,7 @@ Giving feedback is challenging, but it's important to deliver it effectively. Wh
 If you have to remind someone of the position you have in the company you're doing something wrong, people already know we have a hierarchical decision making process. Explain why you're making the decision and respect everyone irrespective of their function.
 
 ### Don’t label other teams
-An anti pattern that counters being people first is being “group first”.  Beware the rise of capitalized words to identify groups of unclearly defined “others.”  For example, avoid phrases like “Support just does not understand our code” or “Engineering does not care about us.”  Similarly, remember there is one team (and yes one system…) and that this MayaData team is comprised of all of us plus the community of users, customers and partners.  So avoid prioritizing the needs of ones own immediate coworkers over what is best for the user, company, community and other stakeholders.  **When in doubt prioritize the needs of the user and especially customers above all else.**
+An anti pattern that counters being people first is being “group first”. Beware the rise of capitalized words to identify groups of unclearly defined “others”. For example, avoid phrases like “Support just does not understand our code” or “Engineering does not care about us.” Similarly, remember there is one team (and yes one system…) and that this MayaData team is comprised of all of us plus the community of users, customers and partners. So avoid prioritizing the needs of ones own immediate coworkers over what is best for the user, company, community and other stakeholders. **When in doubt prioritize the needs of the user and especially customers above all else.**
 
 ### Assume positive intent
 We naturally have a double standard when it comes to the actions of others. We blame circumstances for our own mistakes, but individuals for theirs. This double standard is called the [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error). In order to mitigate this bias you should always assume [positive intent](https://www.collaborativeway.com/general/a-ceos-advice-assume-positive-intent/) in your interactions with others, respecting their expertise and giving them grace in the face of what you might perceive as mistakes.
@@ -147,7 +147,7 @@ While being frugal about spending, we also make opportunities for celebrating ou
 ## Listen to learn
 
 ### Listen to users
-Listen to users in the openebs-users, sig-storage, kubernetes / litmus channels and various other social channels online and offline, ask clarifying questions and even just ask them whether your understanding is correct by using phrases like “can you confirm that I got it right?  You are experiencing X and would like to understand Y?”. Learn and document the use cases that users are trying to solve.
+Listen to users in the openebs-users, sig-storage, kubernetes / litmus channels and various other social channels online and offline, ask clarifying questions and even just ask them whether your understanding is correct by using phrases like “can you confirm that I got it right? You are experiencing X and would like to understand Y?”. Learn and document the use cases that users are trying to solve.
 
 ### Listen to peers
 Listen to peers and their fears about the solution. The fears may be founded on the research and experience they bring. Validate possible solutions by talking to users.
@@ -168,7 +168,7 @@ Optimize solutions globally for the broader MayaData community and specifically 
 
 ## Openness
 
-We build our software in the open.  We collaborate with users in the open.  And we strive to build a radically open culture.
+We build our software in the open. We collaborate with users in the open. And we strive to build a radically open culture.
 
 Be open about as many things as possible. By making information public we can reduce the threshold to contribution and make collaboration easier.
 
@@ -177,7 +177,7 @@ Openness creates awareness for MayaData, allows us to reach out to people that c
 Everyone can **remind** anyone in the company about our values. If there is a disagreement about the interpretations, the discussion can be escalated to more people within the company without repercussions.
 
 ### Public by default
-Everything at MayaData is public by default unless it’s documented otherwise here.  A good practice is to move DMs in chat onto a public channel, perhaps creating a thread to limit impact on that channel.  This way for example anyone can search on a subject and find your conversation, thereby reducing ramp up time and limiting costs of coordination.
+Everything at MayaData is public by default unless it’s documented otherwise here. A good practice is to move DMs in chat onto a public channel, perhaps creating a thread to limit impact on that channel. This way for example anyone can search on a subject and find your conversation, thereby reducing ramp up time and limiting costs of coordination.
 
 ### Examples of not public information.
 Not public by default are the following items that may impact our users and employees and doesn’t benefit being public:
@@ -207,23 +207,23 @@ Agree in writing on measurable goals. Within the company we use public OKRs for 
 We document everything: in the handbook, in meeting notes, in issues. We do that because ["the faintest pencil is better than the sharpest memory."](https://www.quora.com/What-does-The-faintest-pencil-is-better-than-the-sharpest-memory-mean) It is far more efficient to read a document at your convenience than to have to ask and explain. Having something in version control also lets everyone contribute suggestions to improve it.
 
 ### Bias towards asynchronous communication
-Take initiative to operate asynchronously whenever possible. This shows care and consideration for those who may not be in the same time zone, are traveling outside of their usual time zone, or are structuring their day around pressing commitments at home or in their community.  In other words, use chat, GitHub or other issue tracker and so forth whenever possible.
+Take initiative to operate asynchronously whenever possible. This shows care and consideration for those who may not be in the same time zone, are traveling outside of their usual time zone, or are structuring their day around pressing commitments at home or in their community. In other words, use chat, GitHub or other issue tracker and so forth whenever possible.
 
 ### Anyone and anything can be questioned.
 Any past decisions and guidelines are open to questioning as long as you act in accordance with them until they are changed.
 
 ### Disagree and commit.
-Everything can be questioned but as long as a decision is in place we expect people to commit to executing it, which is a common principle. Sometimes you will not fully understand a decision.  Feel free to bring it up later as we may need to revisit the decision.  In the meantime, keep going.
+Everything can be questioned but as long as a decision is in place we expect people to commit to executing it, which is a common principle. Sometimes you will not fully understand a decision. Feel free to bring it up later as we may need to revisit the decision. In the meantime, keep going.
 
 ### Say why, not just what
-Whenever possible, take the extra time to explain changes in policies or approaches - especially when you are adding additional steps that someone must take before their work has an impact; as an example, additional test and validation changes are inevitable and also should be well explained.  A change with no public explanation can lead to a lot of extra rounds of questioning and can be considered a kind of “communication debt” that must be paid off at some point.  Avoid using terms such as "industry standard" or "best practices" as they are vague, opaque, and don't provide enough context as a reason for a change.
+Whenever possible, take the extra time to explain changes in policies or approaches - especially when you are adding additional steps that someone must take before their work has an impact; as an example, additional test and validation changes are inevitable and also should be well explained. A change with no public explanation can lead to a lot of extra rounds of questioning and can be considered a kind of “communication debt” that must be paid off at some point. Avoid using terms such as "industry standard" or "best practices" as they are vague, opaque, and don't provide enough context as a reason for a change.
 
 
 ## Ownership
 
 We want each team member to be a [manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one) who doesn't need daily check-ins to achieve their goals.
 
-We expect team members to complete tasks that they pick up or are assigned.  Having a task means you are responsible for anticipating and solving problems. As an owner you are responsible for overcoming challenges and there are no excuses.  Take initiative and proactively inform stakeholders when there is something you might not be able to solve.
+We expect team members to complete tasks that they pick up or are assigned. Having a task means you are responsible for anticipating and solving problems. As an owner you are responsible for overcoming challenges and there are no excuses. Take initiative and proactively inform stakeholders when there is something you might not be able to solve.
 
 ### Do it yourself
 No need to brainstorm, wait for consensus, or [do with two](https://www.inc.com/geoffrey-james/collaboration-is-the-enemy-of-innovation.html) what you can do yourself. If you think it is better than what is there now do it, no need to wait for something polished. A task done today is better than a polished result delayed indefinitely.
@@ -250,11 +250,11 @@ When possible we give people the responsibility to make a decision and hold them
 Not every problem should lead to a new process to prevent them. Additional processes make all actions more inefficient, a mistake only affects one.
 
 ### An algorithm for distributed decision making
-Use narratives, check sheets, and other tools  If you are proposing a new approach, sometimes a meeting isn’t enough and neither is a chat discussion.  If you believe MayaData teams or the broader community or others need to align in a certain way to achieve an outcome, please take the time to articulate your reasoning in narrative form.  This approach borrows heavily on the [narrative structure used by Amazon](https://slab.com/blog/jeff-bezos-writing-management-strategy/).
+Use narratives, check sheets, and other tools. If you are proposing a new approach, sometimes a meeting isn’t enough and neither is a chat discussion. If you believe MayaData teams or the broader community or others need to align in a certain way to achieve an outcome, please take the time to articulate your reasoning in narrative form. This approach borrows heavily on the [narrative structure used by Amazon](https://slab.com/blog/jeff-bezos-writing-management-strategy/).
 
 Another technique we embrace is the use of criteria based trade off matrices; this approach starts with outlining the problem and 2-3 alternatives, then turns to listing the criteria by which these alternatives can be judged, and then turns to creating weights for each of these criteria.
 
-The use of Narratives and Trade Off Matricies are important aspects of our internal operating system.  Workshops and onboarding training sessions help to distribute these important algorithms.
+The use of Narratives and Trade Off Matricies are important aspects of our internal operating system. Workshops and onboarding training sessions help to distribute these important algorithms.
 
 
 ## Winning
@@ -264,7 +264,7 @@ Working at MayaData will expose you to situations of various levels of difficult
 We prefer making results count over perfecting the process. We assume nothing and we keep pushing ourselves until the job is done. We keep our promises and make sure our people keep their promises.
 
 ### Confidence
-A winner knows deep down that she or he deserves to win and that confidence itself - no matter what the situation - is crucial to achieve a positive outcome.  There is rarely success without commitment and rarely commitment without confidence.
+A winner knows deep down that she or he deserves to win and that confidence itself - no matter what the situation - is crucial to achieve a positive outcome. There is rarely success without commitment and rarely commitment without confidence.
 
 ### See others succeed
 We win as a single team and we take pride in contributing towards make each other succeed. If anyone is blocked by you, on a question, your approval, or a merge request review, your top priority is always to unblock them, either directly or through helping them find someone else who can, even if this takes time away from your own or your immediate team's priorities.

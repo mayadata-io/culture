@@ -13,13 +13,13 @@ Kubernetes into a first-class data platform.
 The Role
 ========
 
-The Technical Marketing Engineer is the role which needs focus on marketing 
-as well as product strategy.The TEM will work in close relation to solutions, engineering, 
-product, sales, executive, and marketing teams to make tangible to users, customers, 
-and partners the benefits delivered by our products. After the inital onboarding, 
-the TEM is responsible for 
+The Technical Marketing Engineer is the role which needs focus on marketing
+as well as product strategy.The TEM will work in close relation to solutions, engineering,
+product, sales, executive, and marketing teams to make tangible to users, customers,
+and partners the benefits delivered by our products. After the inital onboarding,
+the TEM is responsible for
 
-* Creating different possibilities with our products and other solutions in the 
+* Creating different possibilities with our products and other solutions in the
   Kubernetes ecosystem
 * Solving the real needs of users
 * Marketing the product for huge outreach

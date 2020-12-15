@@ -1,15 +1,15 @@
 # Site Reliability Engineer
 
-Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other MayaData production systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles, operational discipline, and mature automation to our environments and the MayaData codebase. 
+Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other MayaData production systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles, operational discipline, and mature automation to our environments and the MayaData codebase.
 
-Our vision is to enable a new era of workload based data management by turning Kubernetes itself into a data plane.  This use of Kubernetes as the data plane boosts the productivity and control of software development groups while decreasing cloud and vendor lock-in.
+Our vision is to enable a new era of workload based data management by turning Kubernetes itself into a data plane. This use of Kubernetes as the data plane boosts the productivity and control of software development groups while decreasing cloud and vendor lock-in.
 
-We focus on the jobs that our users need to get done in order to trust Kubernetes as their data layer.  Specifically, we focus upon:
+We focus on the jobs that our users need to get done in order to trust Kubernetes as their data layer. Specifically, we focus upon:
 - Ease of deployment and operations of stateful workloads on Kubernetes
 - Simplicity of data protection including replicas, back-ups and data migration
 - Automatic and seamless protection from lock-in, via background rebalancing or on demand data migration
 
-MayaData has several user facing sites that include many websites, documentation portals, build/CI platforms and a biggest OpenEBS storage powered SaaS Platform - called OpenEBS Director. In fact, OpenEBS Director is one of the largest SaaS sites providing Storage observability to serveral Kubernetes clusters across the world. OpenEBS Director is also delivered as a software product, to be installed in user's premises. 
+MayaData has several user facing sites that include many websites, documentation portals, build/CI platforms and a biggest OpenEBS storage powered SaaS Platform - called OpenEBS Director. In fact, OpenEBS Director is one of the largest SaaS sites providing Storage observability to serveral Kubernetes clusters across the world. OpenEBS Director is also delivered as a software product, to be installed in user's premises.
 
 All of our workloads are powered with Kubernetes and OpenEBS Storage. The experience of our team feeds back into other engineering groups within the company, as well as to MayaData customers running self-managed installations of OpenEBS and OpenEBS Director.
 
@@ -37,24 +37,24 @@ All of our workloads are powered with Kubernetes and OpenEBS Storage. The experi
 - Share our values, and work in accordance with those values.
 - Have experience with GKE, Nginx, HAProxy, Docker, Kubernetes, Terraform, or similar technologies
 - Ability to use MayaData products like OpenEBS, Litmus, Director
-- You love sharing your learnings with other folks within and outside the company through Meetups, Conference talks and so forth. 
+- You love sharing your learnings with other folks within and outside the company through Meetups, Conference talks and so forth.
 
 **Projects you could work on:**
 - Coding infrastructure automation with Terraform, Ansible, Python and other SaaS products
 - Improving our Prometheus Monitoring or building new Metrics
 - Helping release managers deploy and fix new versions of Director and OpenEBS.
-- Helping customers manage their solutions/installations of OpenEBS and OpenEBS Director. 
+- Helping customers manage their solutions/installations of OpenEBS and OpenEBS Director.
 - Plan, prepare for, and execute the migration of Stateful Workloads running on OpenEBS and Director on Kubernetes - handling the upgrades and auto-scaling of Kubernetes Clusters, Geo-distribution of the applications.
 - Plan and automate setting up of Stateful Workloads on Kubernetes on different platforms from virtual machines to different cloud providers like - GKE, AKS, AWS, OpenShift.
 - Develop a relationship with a product group, define their SLAs, share Mayadata production sites data on those SLAs and improve their reliability
 
 ## Leveling of Site Reliability Engineering
 
-**Technical:** 
+**Technical:**
 - Use automation to efficiently manage our fleet of servers
 - Implement "Infrastructure as Code" using Terraform, Flux, Helm and GitLab/Jenkins/Travis CI/CD, for automation
 - Kubernetes and containerizing our system
-- Product knowledge of OpenEBS, Director, Litmus and the eco-system products deployed on Director. 
+- Product knowledge of OpenEBS, Director, Litmus and the eco-system products deployed on Director.
 - Monitoring and Metrics in Prometheus, Grafana and integrations with Slack/PagerDuty
 - Logging infrastructure
 - Running Stateful Workloads at scale using OpenEBS, along with Infrastructure and Storage Management
@@ -119,7 +119,7 @@ All of our workloads are powered with Kubernetes and OpenEBS Storage. The experi
 
 ### Senior Site Reliability Engineer
 
-**Technical:** 
+**Technical:**
 - Deep knowledge in 2 areas of expertise and general knowledge of all areas of expertise. Capable of mentoring Junior in all areas and other SRE in their area of deep knowledge.
 - Contributes small improvements to the MayaData codebase to resolve issues
 
@@ -172,7 +172,7 @@ The Infrastructure Fellow embodies all the requirements of less senior roles on 
 - Assist teams throughout Engineering to interpret this vision into actionable backlogs
 - Help Engineering avoid the architecture "ivory tower"
 - Spend time with customers to learn their needs
-- Considered as an authority in all topics SRE by MayaData and its community. 
+- Considered as an authority in all topics SRE by MayaData and its community.
 
 
 ## Performance Indicators
