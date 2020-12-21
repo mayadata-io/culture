@@ -10,7 +10,7 @@ Kubernetes as a data layer. We enable our users to handle complex data managemen
 * Willing to spend 30 minutes discussing the work with an interviewer
 * Willing to learn about a technical subject that they’re unfamiliar with, and explain the subject back to their teacher
 * Comfortable with morning meetings, to accommodate time zone differences
-* Internet access, and be comfortable working at a remote-first company
+* Internet access, and is comfortable working at a remote-first company
 
 ## Nice-to-haves
 * An interest in open source or software development
