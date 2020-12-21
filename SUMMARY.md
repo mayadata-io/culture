@@ -43,6 +43,7 @@
   - [Sr Software Engineer](job-roles/sr-software-engineer.md)
   - [Technical Account Manager](job-roles/technical-account-manager.md)
   - [Technical Marketing Engineer](job-roles/technical-marketing-engineer.md)
+  - [Technical Writer](job-roles/technical-writer.md)
   - [UI Lead](job-roles/UI-lead.md)
   - [User Adoption Lead](job-roles/user-adoption-lead.md)
 - [OKRs](process/okr.md)
