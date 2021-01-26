@@ -13,7 +13,7 @@ As customer success engineers and architects, you will collaborate with other de
 _**Customer Success Engineers directly interact with customers to help them quickly solve their problems and ensure customer satisfaction remains high.**_
 
 Some of the essential skills required by Customer Success Engineers are:
-* You share our [PLOW](https://github.com/mayadata-io/culture/blob/master/plow.md) values - especially learning, openness and a sense of ownership.
+* You share our [PLOW](/plow/plow.md) values - especially learning, openness and a sense of ownership.
 * **Being Empathetic:** People in customer success roles should genuinely want to help other people. That desire begins with empathy: the willingness to understand another person’s experience and see it through their eyes. One proof of empathy is the ability to express the user’s needs in one’s own words.
 * **Strong communicator:** This job is about communicating with other people. Customer Success Engineers need to communicate well both verbally and in writing. Communication is about listening, then clearly articulating ideas and information in an authentic way.
 * **Master of simplicity:** When a customer makes the effort to reach out and ask for help, it’s the Customer Success Engineer’s job to quickly assess the problem, sort it all out, and then present the customer with the simplest answer possible.
