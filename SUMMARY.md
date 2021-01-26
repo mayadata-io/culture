@@ -1,8 +1,6 @@
 # Summary
 
 [Welcome to MayaData](README.md)
-
-[Pledge](PLEDGE.md)
 [Code of Conduct](CODE_OF_CONDUCT.md)
 
 - [PLOW](plow/plow.md)
