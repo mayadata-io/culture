@@ -21,4 +21,4 @@ Kubernetes as a data layer. We enable our users to handle complex data managemen
 ## Responsibilities:
 * Write and rewrite technical content having to do with the use of Kubernetes as a data layer and related themes
 * Lead efforts to solicit content from community users, partners, and the MayaData team
-* Embrace and build upon the company values - summarized as PLOW: https://github.com/mayadata-io/culture/blob/master/plow.md
+* Embrace and build upon the company values - summarized as [PLOW](/plow/plow.md)

@@ -8,7 +8,7 @@
 
 - We will project and plan the budget as much as possible. However, the release milestones will not wait for resources to join and ramp-up.
 
-- Being part of a winning startup, people at MayaData are expected to be really good at one thing that they specialize in and stay accountable for as outlined in our [PLOW values](https://github.com/mayadata-io/culture/blob/master/plow.md). The accountability is self-driven through OKRs and 1-1s with respective managers.
+- Being part of a winning startup, people at MayaData are expected to be really good at one thing that they specialize in and stay accountable for as outlined in our [PLOW values](/plow/plow.md). The accountability is self-driven through OKRs and 1-1s with respective managers.
 
 - Each MayaData employee will specialize and be accountable for a product or component, and can also be an expert in other product/component or technology areas. An individual’s role will be defined as follows:
 

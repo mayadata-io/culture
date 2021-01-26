@@ -2,7 +2,7 @@
 
 > “Objectives and key results are the yin and yang of goal setting.” from John Doerr’s Measure What Matters
 
-At MayaData we believe in [PLOW culture](https://github.com/mayadata-io/culture/blob/master/plow.md) where everyone is committed and accountable to working as a team to deliver company objectives. OKRs provide the best mechanism to gain visibility into everyone’s objectives. OKRs expose redundant efforts and save time and money.
+At MayaData we believe in [PLOW culture](/plow/plow.md) where everyone is committed and accountable to working as a team to deliver company objectives. OKRs provide the best mechanism to gain visibility into everyone’s objectives. OKRs expose redundant efforts and save time and money.
 
 OKRs lay out our plan to execute our strategy and help make sure we achieve them with clearly defined goals throughout the organization.
 

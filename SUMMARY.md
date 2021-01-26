@@ -1,10 +1,13 @@
 # Summary
 
 [Welcome to MayaData](README.md)
-
-[PLOW](plow.md)
-[Pledge](PLEDGE.md)
 [Code of Conduct](CODE_OF_CONDUCT.md)
+
+- [PLOW](plow/plow.md)
+  - [People First](plow/people_first.md)
+  - [Openness](plow/openness.md)
+  - [Ownership](plow/ownerhip.md)
+  - [Winning](plow/winning.md)
 
 # Tools for a Better Life
 - [Google Shared Drives](tools/gdrive.md)

@@ -2,7 +2,7 @@
 
 At MayaData we are on a multi-year journey during which our products, our customers, our market, our community - and yes the macroeconomic and public health environment - are all undergoing changes. It would be _unreasonable_ to expect that the company would not also undergo changes; it would also be _unfair_ to assume stasis, _unfair_ to ourselves and our customers and users and all other stakeholders if we didn’t reexamine ourselves critically in order to constantly improve MayaData.
 
-At MayaData, having ourselves committed to [People First](https://github.com/mayadata-io/culture/blob/master/plow.md#people-first), it is very challenging and even feels unpleasant to say Goodbyes. However, People First with our other values in PLOW with the imperative of growing and evolving the company is to recognize that the team is of greater importance than any individual.
+At MayaData, having ourselves committed to [People First](/plow/people_first.md), it is very challenging and even feels unpleasant to say Goodbyes. However, People First with our other values in PLOW with the imperative of growing and evolving the company is to recognize that the team is of greater importance than any individual.
 
 At MayaData, our policy is to be the preferred place to work in our markets for individuals that want to cast themselves into the tumult and opportunity of a start-up in order to achieve our mission. We compete for the best and brightest not via cash and other compensation alone - but via mission, culture, opportunity, and challenge.
 

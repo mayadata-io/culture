@@ -31,10 +31,10 @@ Specifically:
 - When we talk about _**running software**_ we emphasize a DevOps approach so that if you write the code, you support the customers and you lead efforts to fix any bugs.
 - When we talk about _**the right software**_ we emphasize listening to users. We believe everyone at MayaData can learn from users and customers and that the best learning comes from users actually using software as opposed to simply talking about it. In order to learn from internal users, we believe in *dog fooding* which is the practice by which we will always use our own software if it is at all applicable to our use cases. Development environments, staging, and CI/CD and of course operations should all be based on OpenEBS and OpenEBS Director.
 
-## Our Pledge:
+## Our Values
 
-We stand by our [PLOW values](./plow.md), tactics and metrics defined in our [PLEDGE](./PLEDGE.md). Our PLEDGE is a framework for distributed decision making, that empowers each of us to determine what to do without asking our manager.
+We stand by our [PLOW values](/plow/plow.md). They empower each of us to determine what to do without asking our manager.
 
 ## Credits and Inspiration
 
-[GitLab Handbook](https://about.gitlab.com/handbook/) is a true source of inspiration for anyone praticing the Open Culture. We have developed our handbook by our own experiences, as well as those mentioned in the GitLab handbook which directly reflect our [PLOW culture](./plow.md). Another great source of inspiration and a must read are [The Open Organization](https://opensource.com/open-organization/resources/book-series) book series by Jim Whitehurst.
+[GitLab Handbook](https://about.gitlab.com/handbook/) is a true source of inspiration for anyone praticing the Open Culture. We have developed our handbook by our own experiences, as well as those mentioned in the GitLab handbook which directly reflect our [PLOW culture](/plow/plow.md). Another great source of inspiration and a must read are [The Open Organization](https://opensource.com/open-organization/resources/book-series) book series by Jim Whitehurst.

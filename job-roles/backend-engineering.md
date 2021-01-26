@@ -10,7 +10,7 @@ Backend Engineers at MayaData work on our products. This includes both the open-
 Unless otherwise specified, all Backend Engineering roles at MayaData share the following requirements and responsibilities:
 
 ### Requirements
-- Share our [values](https://github.com/mayadata-io/culture/blob/master/plow.md), and work in accordance with those values
+- Share our [values](/plow/plow.md), and work in accordance with those values
   * Positive and solution-oriented mindset
   * Effective communication skills: Regularly achieve consensus with peers, and clear status updates
   * An inclination towards communication, inclusion, and visibility
