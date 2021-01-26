@@ -37,4 +37,4 @@ We stand by our [PLOW values](./plow/plow.md). They empower each of us to determ
 
 ## Credits and Inspiration
 
-[GitLab Handbook](https://about.gitlab.com/handbook/) is a true source of inspiration for anyone praticing the Open Culture. We have developed our handbook by our own experiences, as well as those mentioned in the GitLab handbook which directly reflect our [PLOW culture](./plow.md). Another great source of inspiration and a must read are [The Open Organization](https://opensource.com/open-organization/resources/book-series) book series by Jim Whitehurst.
+[GitLab Handbook](https://about.gitlab.com/handbook/) is a true source of inspiration for anyone praticing the Open Culture. We have developed our handbook by our own experiences, as well as those mentioned in the GitLab handbook which directly reflect our [PLOW culture](./plow/plow.md). Another great source of inspiration and a must read are [The Open Organization](https://opensource.com/open-organization/resources/book-series) book series by Jim Whitehurst.

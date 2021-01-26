@@ -1,6 +1,6 @@
 # Remote First
 
-MayaData is a remote first company with team members working in different time zones and located in half-dozen countries or more. MayaData’s remote-first culture allows you to choose when and where you live and work, your work can revolve around your life as opposed to the other way around. Remote first fits perfectly with our PLOW culture of [people first](https://github.com/mayadata-io/culture/blob/master/plow.md#people-first) and [openness](https://github.com/mayadata-io/culture/blob/master/plow.md#openness).
+MayaData is a remote first company with team members working in different time zones and located in half-dozen countries or more. MayaData’s remote-first culture allows you to choose when and where you live and work, your work can revolve around your life as opposed to the other way around. Remote first fits perfectly with our PLOW culture of [people first](/plow/people_first.md) and [openness](/plow/openness.md).
 
 Working remotely and running a remote team may seem like an outrageous idea to many, who have worked in organizations that allow their employees to occasionally work from home in case of emergencies. In our experience of running a company without a traditional head-quarters we have learnt to be more open and effective, combined with working with Open Source and Kubernetes community, the boundaries of a physical location made no sense. Thankfully we have also had a lot to learn from other companies that are successfully running an All-remote organizations like [GitLab](https://about.gitlab.com/company/culture/all-remote/).
 
@@ -25,7 +25,7 @@ _Remote-first means working remote is the default. It means making sure your rem
 
 ## Remote Employee Evaluation
 
-* **People First.** Trust that everyone is working in alignment with [PLOW values](https://github.com/mayadata-io/culture/blob/master/plow.md) and are thinking globally rather than themselves or their teams. This means that:
+* **People First.** Trust that everyone is working in alignment with [PLOW values](/plow/plow.md) and are thinking globally rather than themselves or their teams. This means that:
   * Employees need to trust that their managers are looking out for their best interest.
   * Managers need to trust that their employees are engaged and motivated at work.
 

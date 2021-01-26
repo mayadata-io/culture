@@ -1,4 +1,4 @@
-Welcome to MayaData. We are excited about the prospect of you joining us! We abide by the values outlined in [PLOW](https://github.com/mayadata-io/culture/blob/master/plow.md), which is a superset of generally accepted [code of conduct](CODE_OF_CONDUCT.md).
+Welcome to MayaData. We are excited about the prospect of you joining us! We abide by the values outlined in [PLOW](./plow/plow.md), which is a superset of generally accepted [code of conduct](CODE_OF_CONDUCT.md).
 
 We use the standard GitHub pull requests process to review and accept contributions to this repository.
 

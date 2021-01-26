@@ -6,7 +6,7 @@ MayaData has a diverse community of bright and passionate individuals striving t
 
 ## Responsibilities
 
-- Live and advocate our [PLOW](https://github.com/mayadata-io/culture/blob/master/plow.md) values.
+- Live and advocate our [PLOW](/plow/plow.md) values.
 - Disrupt, Lead and Innovate.
 - Take the needs and challenges of our customers and formulate the technical roadmap and technology solution that will support their business strategies and goals.
 - Contribute to the MayaData community as a speaker, author or online contributor
