@@ -1,0 +1,300 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>People First - MayaData Culture</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="../favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="../favicon.png">
+        
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="../css/open-in.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Welcome to MayaData</a></li><li class="chapter-item expanded affix "><a href="../CODE_OF_CONDUCT.html">Code of Conduct</a></li><li class="chapter-item expanded "><a href="../plow/plow.html"><strong aria-hidden="true">1.</strong> PLOW</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../plow/people_first.html" class="active"><strong aria-hidden="true">1.1.</strong> People First</a></li><li class="chapter-item expanded "><a href="../plow/openness.html"><strong aria-hidden="true">1.2.</strong> Openness</a></li><li class="chapter-item expanded "><a href="../plow/ownerhip.html"><strong aria-hidden="true">1.3.</strong> Ownership</a></li><li class="chapter-item expanded "><a href="../plow/winning.html"><strong aria-hidden="true">1.4.</strong> Winning</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Tools for a Better Life</li><li class="chapter-item expanded "><a href="../tools/gdrive.html"><strong aria-hidden="true">2.</strong> Google Shared Drives</a></li><li class="chapter-item expanded "><a href="../tools/calendar.html"><strong aria-hidden="true">3.</strong> Google Calendar</a></li><li class="chapter-item expanded "><a href="../tools/subscriptions.html"><strong aria-hidden="true">4.</strong> Available Licensed Software</a></li><li class="chapter-item expanded affix "><li class="part-title">Building Software</li><li class="chapter-item expanded "><a href="../process/coding-style.html"><strong aria-hidden="true">5.</strong> Coding Style Guides</a></li><li class="chapter-item expanded "><a href="../process/release.html"><strong aria-hidden="true">6.</strong> Release Process</a></li><li class="chapter-item expanded "><a href="../process/qa.html"><strong aria-hidden="true">7.</strong> Product Quality Control</a></li><li class="chapter-item expanded affix "><li class="part-title">Community and Product</li><li class="chapter-item expanded "><a href="../process/developer-advocacy.html"><strong aria-hidden="true">8.</strong> Developer Advocacy</a></li><li class="chapter-item expanded "><a href="../process/marketing.html"><strong aria-hidden="true">9.</strong> OpenSource Marketing</a></li><li class="chapter-item expanded "><a href="../process/development.html"><strong aria-hidden="true">10.</strong> Product Development</a></li><li class="chapter-item expanded "><a href="../process/management.html"><strong aria-hidden="true">11.</strong> Product Management</a></li><li class="chapter-item expanded "><a href="../process/support.html"><strong aria-hidden="true">12.</strong> Product Support</a></li><li class="chapter-item expanded "><a href="../handbook/user-adoption.html"><strong aria-hidden="true">13.</strong> User Adoption</a></li><li class="chapter-item expanded "><a href="../process/useraudit.html"><strong aria-hidden="true">14.</strong> User Onboarding</a></li><li class="chapter-item expanded affix "><li class="part-title">Human Interactions</li><li class="chapter-item expanded "><a href="../process/etiquettes.html"><strong aria-hidden="true">15.</strong> Household Manners</a></li><li class="chapter-item expanded "><a href="../process/hiring.html"><strong aria-hidden="true">16.</strong> Hiring Process</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../job-roles/backend-engineering.html"><strong aria-hidden="true">16.1.</strong> Backend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/chief-architect.html"><strong aria-hidden="true">16.2.</strong> Chief Architect</a></li><li class="chapter-item expanded "><a href="../job-roles/customer-success.html"><strong aria-hidden="true">16.3.</strong> Customer Success</a></li><li class="chapter-item expanded "><a href="../job-roles/developer-advocate.html"><strong aria-hidden="true">16.4.</strong> Developer Advocate</a></li><li class="chapter-item expanded "><a href="../job-roles/frontend-engineering.html"><strong aria-hidden="true">16.5.</strong> Frontend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/lead-engineer.html"><strong aria-hidden="true">16.6.</strong> Lead Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/software-engineer.html"><strong aria-hidden="true">16.7.</strong> Software Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/solution-engineer.html"><strong aria-hidden="true">16.8.</strong> Solution Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/sre.html"><strong aria-hidden="true">16.9.</strong> SRE</a></li><li class="chapter-item expanded "><a href="../job-roles/sr-software-engineer.html"><strong aria-hidden="true">16.10.</strong> Sr Software Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-account-manager.html"><strong aria-hidden="true">16.11.</strong> Technical Account Manager</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-marketing-engineer.html"><strong aria-hidden="true">16.12.</strong> Technical Marketing Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-writer.html"><strong aria-hidden="true">16.13.</strong> Technical Writer</a></li><li class="chapter-item expanded "><a href="../job-roles/UI-lead.html"><strong aria-hidden="true">16.14.</strong> UI Lead</a></li><li class="chapter-item expanded "><a href="../job-roles/user-adoption-lead.html"><strong aria-hidden="true">16.15.</strong> User Adoption Lead</a></li></ol></li><li class="chapter-item expanded "><a href="../process/okr.html"><strong aria-hidden="true">17.</strong> OKRs</a></li><li class="chapter-item expanded "><a href="../process/paid-time-off-guide.html"><strong aria-hidden="true">18.</strong> Paid Time Off</a></li><li class="chapter-item expanded "><a href="../process/remote-first.html"><strong aria-hidden="true">19.</strong> Remote First</a></li><li class="chapter-item expanded "><a href="../process/saying-goodbyes.html"><strong aria-hidden="true">20.</strong> Saying Goodbye</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">21.</strong> India Specific Policies</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../policy/job-abandonment.html"><strong aria-hidden="true">21.1.</strong> Job Abandonment</a></li><li class="chapter-item expanded "><a href="../policy/paid-time-off.html"><strong aria-hidden="true">21.2.</strong> Paid Time Off</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">MayaData Culture</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                        <a href="https://github.com/mayadata-io/culture" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#people-first" id="people-first">People First</a></h1>
+<p>All business - and arguably life itself - comes down to people. Whether working with our team, or the community, or customers, or partners or others - we strive to remember and to reinforce our common humanity.</p>
+<p>Helping others is a priority, even when it is not immediately related to the goals that you are trying to achieve. Similarly, you can rely on others for help and advice - in fact; you're expected to do so. Anyone can chime in on any subject, just like in good families. As companies grow their speed of decision making goes down since there are more people involved. When you are the person who’s responsible for the work, you decide how to do it, but you should always take the suggestions seriously and try to respond and explain why it may or may not have been implemented.</p>
+<h2><a class="header" href="#make-someones-day-today" id="make-someones-day-today">Make someone’s day today</a></h2>
+<p>It is a long journey. Over time happy team members are healthier, productive and bring positivity to others. Remember, we all want to be in a group where we are happy. Be thoughtful and kind just because you can. Catch people doing things right. Help a team member who's having a difficult time or need mentors. Be a good listener. Share your joy.</p>
+<h2><a class="header" href="#kindness" id="kindness">Kindness</a></h2>
+<p>We value caring for others. Give as much positive feedback as you can and do it in a public way.</p>
+<h2><a class="header" href="#say-thanks" id="say-thanks">Say thanks</a></h2>
+<p>Recognize the people that helped you publicly, for example in our #say-thanks chat channel or via <a href="https://www.linkedin.com/help/linkedin/answer/95698/sending-a-kudos-post-on-linkedin?lang=en">LinkedIn Give Kudos</a>.</p>
+<h2><a class="header" href="#negative-is-1-1" id="negative-is-1-1">Negative is 1-1</a></h2>
+<p>Give negative feedback in the smallest setting possible, one-on-one video calls are preferred. Remember, we are all on the same boat. And the purpose of negative feedback is not to hurt a person, it is go get MayaData better and better and win together and to help that person learn and progress.</p>
+<h2><a class="header" href="#speakup" id="speakup">Speakup</a></h2>
+<p>If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer, the sloppiness of a colleague, or anything else) please let your boss, or the CEO, know as soon as you realize it. We want to solve problems while they are <em>small</em>.</p>
+<h2><a class="header" href="#get-to-know-each-other" id="get-to-know-each-other">Get to know each other</a></h2>
+<p>We use a lot of Slack communication and if you know the person behind the text it will be easier to prevent conflicts. Please help encourage people to get to know each other on a personal level through our team calls, virtual coffee breaks, events and during company gatherings.</p>
+<h2><a class="header" href="#give-feedback-effectively" id="give-feedback-effectively">Give feedback effectively</a></h2>
+<p>Giving feedback is challenging, but it's important to deliver it effectively. When providing feedback, always make it about the work itself; focus on the business impact and not the person. Make sure to provide at least one clear and recent example. If a person is going through a hard time in their personal life, then take that into account. An example of giving positive feedback is our #say-thanks chat channel. For managers, it's important to realize that employees react to a negative incident with their managers <a href="https://hbr.org/2013/03/the-delicate-art-of-giving-fee">six times more strongly</a> than they do to a positive one. Keeping that in mind, if an error is so inconsequential that the value gained from providing criticism is low, it might make sense to keep that feedback to yourself. In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the employee’s performance going forward. Give <a href="http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=SA&amp;subtype=WH&amp;htmlfid=LOW14298USEN">recognition generously</a>, in the open, and often to generate more engagement from your team</p>
+<h2><a class="header" href="#dont-pull-rank" id="dont-pull-rank">Don't pull rank</a></h2>
+<p>If you have to remind someone of the position you have in the company you're doing something wrong, people already know we have a hierarchical decision making process. Explain why you're making the decision and respect everyone irrespective of their function.</p>
+<h2><a class="header" href="#dont-label-other-teams" id="dont-label-other-teams">Don’t label other teams</a></h2>
+<p>An anti pattern that counters being people first is being “group first”. Beware the rise of capitalized words to identify groups of unclearly defined “others”. For example, avoid phrases like “Support just does not understand our code” or “Engineering does not care about us.” Similarly, remember there is one team (and yes one system…) and that this MayaData team is comprised of all of us plus the community of users, customers and partners. So avoid prioritizing the needs of ones own immediate coworkers over what is best for the user, company, community and other stakeholders. <strong>When in doubt prioritize the needs of the user and especially customers above all else.</strong></p>
+<h2><a class="header" href="#assume-positive-intent" id="assume-positive-intent">Assume positive intent</a></h2>
+<p>We naturally have a double standard when it comes to the actions of others. We blame circumstances for our own mistakes, but individuals for theirs. This double standard is called the <a href="https://en.wikipedia.org/wiki/Fundamental_attribution_error">Fundamental Attribution Error</a>. In order to mitigate this bias you should always assume <a href="https://www.collaborativeway.com/general/a-ceos-advice-assume-positive-intent/">positive intent</a> in your interactions with others, respecting their expertise and giving them grace in the face of what you might perceive as mistakes.</p>
+<h2><a class="header" href="#address-behavior-but-dont-label-people" id="address-behavior-but-dont-label-people">Address behavior, but don't label people</a></h2>
+<p>There is a lot of good in this <a href="http://bobsutton.typepad.com/my_weblog/2006/10/the_no_asshole_.html">article</a> about not wanting jerks on our team, but we believe that jerk is a label for behavior rather than an inherent classification of a person. We avoid classifications.</p>
+<h2><a class="header" href="#say-sorry" id="say-sorry">Say sorry</a></h2>
+<p>If you made a mistake, apologize. Saying sorry is not a sign of weakness but one of strength. The people that do the most work will likely make the most mistakes. Additionally, when we share our mistakes and bring attention to them, others can learn from us, and the same mistake is less likely to be repeated by someone else.</p>
+<h2><a class="header" href="#no-ego" id="no-ego">No ego</a></h2>
+<p>Don't defend a point to win an argument or double-down on a mistake. You are not your work; you don't have to defend your point. You do have to search for the right answer with help from others.</p>
+<h2><a class="header" href="#people-are-not-their-work" id="people-are-not-their-work">People are not their work</a></h2>
+<p>Always make suggestions about examples of work, not the person. Say, &quot;you didn't respond to my feedback about the design&quot; instead of &quot;you never listen&quot;. And, when receiving feedback, keep in mind that feedback is the best way to improve and that others want to see you succeed.</p>
+<h2><a class="header" href="#blameless-problem-solving" id="blameless-problem-solving">Blameless problem solving</a></h2>
+<p>Investigate mistakes in a way that focuses on the situational aspects of a failure’s mechanism and the decision-making process that led to the failure rather than cast blame on a person or team. We hold blameless <a href="https://codeascraft.com/2012/05/22/blameless-postmortems/">root cause analyses</a> and <a href="https://about.gitlab.com/handbook/engineering/management/team-retrospectives/">retrospectives</a> for stakeholders to speak up without fear of punishment or retribution.</p>
+<h2><a class="header" href="#dogfooding" id="dogfooding">Dogfooding</a></h2>
+<p>We <a href="https://en.wikipedia.org/wiki/Eating_your_own_dog_food">use our own product</a>. Our SaaS service uses data management and tools that we deliver to our customers. We upgrade to the latest version before publishing it for general consumption.</p>
+<h2><a class="header" href="#diversity-and-inclusion-are-fundamental-to-the-success-of-mayadata" id="diversity-and-inclusion-are-fundamental-to-the-success-of-mayadata">Diversity and inclusion are fundamental to the success of MayaData.</a></h2>
+<p>We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We actively chose to build and institutionalize a culture that is inclusive and supports all employees equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company.</p>
+<p>Do not make jokes or unfriendly remarks about race, ethnic origin, skin color, gender, or sexual orientation. Everyone has the right to feel safe when working for MayaData. We do not tolerate abuse, harassment, exclusion, discrimination or retaliation by/of any community members, including our employees. You can always refuse to deal with people who treat you badly and get out of situations that make you feel uncomfortable.</p>
+<h2><a class="header" href="#shift-working-hours-for-a-cause" id="shift-working-hours-for-a-cause">Shift working hours for a cause</a></h2>
+<p>Caregiving, outreach programs, and community service do not conveniently wait for regular business hours to conclude. If there's a cause or community effort taking place, feel welcome to work with your manager and shift your working hours to be available during a period where you'll have the greatest impact for good. For colleagues supporting others during these causes, document everything and strive to post recordings so it's easy for them to catch up.</p>
+<h2><a class="header" href="#be-a-mentor" id="be-a-mentor">Be a mentor</a></h2>
+<p>People feel more included when they're supported.</p>
+<h2><a class="header" href="#family-and-friends-first-work-second" id="family-and-friends-first-work-second">Family and friends first, work second</a></h2>
+<p>Long lasting relationships are the <a href="https://www.youtube.com/watch?v=6_N_uvq41Pg">rocks of life</a> and come before work.</p>
+<h2><a class="header" href="#celebrate-accomplishments-with-offsite-events" id="celebrate-accomplishments-with-offsite-events">Celebrate accomplishments with offsite events</a></h2>
+<p>While being frugal about spending, we also make opportunities for celebrating our accomplishments and bonding with other team members over offsite events. Our ambition is to have an all-company annual offsite meeting in the coming years. Until that happens, we will make sure the people in closer geographic circles will have quarterly events. For instance, an offsite lunch in the first and third quarters, an offsite weekend outing in the second quarter, and half-day fun activities in the fourth quarter.</p>
+<h2><a class="header" href="#listen-to-learn" id="listen-to-learn">Listen to learn</a></h2>
+<h2><a class="header" href="#listen-to-users" id="listen-to-users">Listen to users</a></h2>
+<p>Listen to users in the openebs-users, sig-storage, kubernetes / litmus channels and various other social channels online and offline, ask clarifying questions and even just ask them whether your understanding is correct by using phrases like “can you confirm that I got it right? You are experiencing X and would like to understand Y?”. Learn and document the use cases that users are trying to solve.</p>
+<h2><a class="header" href="#listen-to-peers" id="listen-to-peers">Listen to peers</a></h2>
+<p>Listen to peers and their fears about the solution. The fears may be founded on the research and experience they bring. Validate possible solutions by talking to users.</p>
+<h2><a class="header" href="#its-impossible-to-know-everything" id="its-impossible-to-know-everything">It's impossible to know everything</a></h2>
+<p>We know we must rely on others for the expertise they have that we don't. It's ok to admit you don't know something and to ask for help, even if doing so makes you feel vulnerable. It is never too late to ask a question, and by doing so you can get the information you need to produce results and to strengthen your own skills as well as Mayadata as a whole. After your question is answered, please document the answer so that it can be shared. Don't display surprise when people say they don't know something, as it is important that everyone feels comfortable saying &quot;I don't know&quot; and &quot;I don't understand.&quot; (As inspired by <a href="https://www.recurse.com/manual#sub-sec-social-rules">Recurse</a>.)</p>
+<h2><a class="header" href="#remove-rigid-barriers-around-your-domain" id="remove-rigid-barriers-around-your-domain">Remove rigid barriers around your domain.</a></h2>
+<p>People joining the company frequently are hesitant to provide feedback. At MayaData we should be more accepting of people taking initiative in trying to improve things. You must make them feel comfortable and allow others contribute to your domain. Actively seek feedback. Again, do not label people or teams and don’t forget your primary allegiances should be to customer success and to the company.</p>
+<h2><a class="header" href="#boring-solutions" id="boring-solutions">Boring solutions</a></h2>
+<p>Use the simplest and most <a href="http://mcfunley.com/choose-boring-technology">boring solution</a> for a problem, and remember that “boring” should not be conflated with “bad” or “technical debt.” The speed of innovation for our organization and product is constrained by the total complexity we have added so far, so every little reduction in complexity helps. Don’t pick an interesting technology just to make your work more fun; using established, popular tech will ensure a more stable and more familiar experience for you and other contributors.</p>
+<p>Make a conscious effort to recognize the constraints of others within the team. For example, sales is hard because you are dependent on another organization, and development is hard because you have to preserve the ability to quickly improve the product in the future.</p>
+<h2><a class="header" href="#efficiency-for-the-right-group" id="efficiency-for-the-right-group">Efficiency for the right group</a></h2>
+<p>Optimize solutions globally for the broader MayaData community and specifically for our customers and users. Making a process efficient for one person or a small group may not be the most efficient outcome for the whole community. As an example, it may be best to choose a process making things slightly less efficient for you while making things massively more efficient for thousands of customers. In a decision, ask yourself &quot;for whom does this need to be most efficient?&quot;. Quite often, the answer may be your users, contributors, customers, or team members that are dependent upon your decision. <strong>When in doubt, choose to understand, support, help and delight the customer user.</strong></p>
+<footer id="open-on-gh">Found a bug? <a href="https://github.com/mayadata-io/culture/edit/master/plow/people_first.md">Edit this file on GitHub.</a></footer>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../plow/plow.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../plow/openness.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../plow/plow.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../plow/openness.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

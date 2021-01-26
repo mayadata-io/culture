@@ -1,0 +1,280 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Openness - MayaData Culture</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="../favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="../favicon.png">
+        
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="../css/open-in.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Welcome to MayaData</a></li><li class="chapter-item expanded affix "><a href="../CODE_OF_CONDUCT.html">Code of Conduct</a></li><li class="chapter-item expanded "><a href="../plow/plow.html"><strong aria-hidden="true">1.</strong> PLOW</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../plow/people_first.html"><strong aria-hidden="true">1.1.</strong> People First</a></li><li class="chapter-item expanded "><a href="../plow/openness.html" class="active"><strong aria-hidden="true">1.2.</strong> Openness</a></li><li class="chapter-item expanded "><a href="../plow/ownerhip.html"><strong aria-hidden="true">1.3.</strong> Ownership</a></li><li class="chapter-item expanded "><a href="../plow/winning.html"><strong aria-hidden="true">1.4.</strong> Winning</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Tools for a Better Life</li><li class="chapter-item expanded "><a href="../tools/gdrive.html"><strong aria-hidden="true">2.</strong> Google Shared Drives</a></li><li class="chapter-item expanded "><a href="../tools/calendar.html"><strong aria-hidden="true">3.</strong> Google Calendar</a></li><li class="chapter-item expanded "><a href="../tools/subscriptions.html"><strong aria-hidden="true">4.</strong> Available Licensed Software</a></li><li class="chapter-item expanded affix "><li class="part-title">Building Software</li><li class="chapter-item expanded "><a href="../process/coding-style.html"><strong aria-hidden="true">5.</strong> Coding Style Guides</a></li><li class="chapter-item expanded "><a href="../process/release.html"><strong aria-hidden="true">6.</strong> Release Process</a></li><li class="chapter-item expanded "><a href="../process/qa.html"><strong aria-hidden="true">7.</strong> Product Quality Control</a></li><li class="chapter-item expanded affix "><li class="part-title">Community and Product</li><li class="chapter-item expanded "><a href="../process/developer-advocacy.html"><strong aria-hidden="true">8.</strong> Developer Advocacy</a></li><li class="chapter-item expanded "><a href="../process/marketing.html"><strong aria-hidden="true">9.</strong> OpenSource Marketing</a></li><li class="chapter-item expanded "><a href="../process/development.html"><strong aria-hidden="true">10.</strong> Product Development</a></li><li class="chapter-item expanded "><a href="../process/management.html"><strong aria-hidden="true">11.</strong> Product Management</a></li><li class="chapter-item expanded "><a href="../process/support.html"><strong aria-hidden="true">12.</strong> Product Support</a></li><li class="chapter-item expanded "><a href="../handbook/user-adoption.html"><strong aria-hidden="true">13.</strong> User Adoption</a></li><li class="chapter-item expanded "><a href="../process/useraudit.html"><strong aria-hidden="true">14.</strong> User Onboarding</a></li><li class="chapter-item expanded affix "><li class="part-title">Human Interactions</li><li class="chapter-item expanded "><a href="../process/etiquettes.html"><strong aria-hidden="true">15.</strong> Household Manners</a></li><li class="chapter-item expanded "><a href="../process/hiring.html"><strong aria-hidden="true">16.</strong> Hiring Process</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../job-roles/backend-engineering.html"><strong aria-hidden="true">16.1.</strong> Backend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/chief-architect.html"><strong aria-hidden="true">16.2.</strong> Chief Architect</a></li><li class="chapter-item expanded "><a href="../job-roles/customer-success.html"><strong aria-hidden="true">16.3.</strong> Customer Success</a></li><li class="chapter-item expanded "><a href="../job-roles/developer-advocate.html"><strong aria-hidden="true">16.4.</strong> Developer Advocate</a></li><li class="chapter-item expanded "><a href="../job-roles/frontend-engineering.html"><strong aria-hidden="true">16.5.</strong> Frontend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/lead-engineer.html"><strong aria-hidden="true">16.6.</strong> Lead Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/software-engineer.html"><strong aria-hidden="true">16.7.</strong> Software Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/solution-engineer.html"><strong aria-hidden="true">16.8.</strong> Solution Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/sre.html"><strong aria-hidden="true">16.9.</strong> SRE</a></li><li class="chapter-item expanded "><a href="../job-roles/sr-software-engineer.html"><strong aria-hidden="true">16.10.</strong> Sr Software Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-account-manager.html"><strong aria-hidden="true">16.11.</strong> Technical Account Manager</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-marketing-engineer.html"><strong aria-hidden="true">16.12.</strong> Technical Marketing Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-writer.html"><strong aria-hidden="true">16.13.</strong> Technical Writer</a></li><li class="chapter-item expanded "><a href="../job-roles/UI-lead.html"><strong aria-hidden="true">16.14.</strong> UI Lead</a></li><li class="chapter-item expanded "><a href="../job-roles/user-adoption-lead.html"><strong aria-hidden="true">16.15.</strong> User Adoption Lead</a></li></ol></li><li class="chapter-item expanded "><a href="../process/okr.html"><strong aria-hidden="true">17.</strong> OKRs</a></li><li class="chapter-item expanded "><a href="../process/paid-time-off-guide.html"><strong aria-hidden="true">18.</strong> Paid Time Off</a></li><li class="chapter-item expanded "><a href="../process/remote-first.html"><strong aria-hidden="true">19.</strong> Remote First</a></li><li class="chapter-item expanded "><a href="../process/saying-goodbyes.html"><strong aria-hidden="true">20.</strong> Saying Goodbye</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">21.</strong> India Specific Policies</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../policy/job-abandonment.html"><strong aria-hidden="true">21.1.</strong> Job Abandonment</a></li><li class="chapter-item expanded "><a href="../policy/paid-time-off.html"><strong aria-hidden="true">21.2.</strong> Paid Time Off</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">MayaData Culture</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                        <a href="https://github.com/mayadata-io/culture" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#openness" id="openness">Openness</a></h1>
+<p>We build our software in the open. We collaborate with users in the open. And we strive to build a radically open culture.</p>
+<p>Be open about as many things as possible. By making information public we can reduce the threshold to contribution and make collaboration easier.</p>
+<p>Openness creates awareness for MayaData, allows us to reach out to people that care about our culture, it gets us more and faster feedback from people outside the company, and makes it easier to collaborate with them. It is also about sharing great software, documentation, examples, lessons, and processes with the world in the spirit of open source, which we believe creates more value than it captures.</p>
+<p>Everyone can <strong>remind</strong> anyone in the company about our values. If there is a disagreement about the interpretations, the discussion can be escalated to more people within the company without repercussions.</p>
+<h2><a class="header" href="#public-by-default" id="public-by-default">Public by default</a></h2>
+<p>Everything at MayaData is public by default unless it’s documented otherwise here. A good practice is to move DMs in chat onto a public channel, perhaps creating a thread to limit impact on that channel. This way for example anyone can search on a subject and find your conversation, thereby reducing ramp up time and limiting costs of coordination.</p>
+<h2><a class="header" href="#examples-of-not-public-information" id="examples-of-not-public-information">Examples of not public information.</a></h2>
+<p>Not public by default are the following items that may impact our users and employees and doesn’t benefit being public:</p>
+<ul>
+<li>Security vulnerabilities are not public since it would allow attackers to compromise MayaData installations.</li>
+<li>Financial information, including revenue and costs for the company.</li>
+<li>Deals with external parties like contracts and approving and paying invoices.</li>
+<li>Content that would violate confidentiality for a MayaData team-member, customer, or user.</li>
+<li>Legal discussions are not public due to the purpose of Attorney-Client Privilege.</li>
+<li>Some information is kept confidential by the People Group to protect the privacy, safety, and security of team members and applicants.</li>
+<li>Partnerships with other companies are not public since the partners are frequently not comfortable with that.</li>
+<li>Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive.</li>
+<li>Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.</li>
+<li>Customer information in issues.</li>
+<li>Competitive sales and marketing campaign planning is confidential since we want to minimize the time the competition has to respond to it.</li>
+<li>When we discuss a customer by name that is not public unless we're sure the customer is OK with that.</li>
+<li>Plans for reorganizations are not public and on a need-to-know basis within the organization. Reorganizations cause disruption and the plans tend to change a lot before being finalized, so being public about them prolongs the disruption. We will keep relevant team-members informed whenever possible.</li>
+<li>R&amp;D that has not made it to the published road map or the open source POC level is not public.</li>
+<li>There is a huge amount that we all know about why users buy, what are the weaknesses of competitors, where Kubernetes and standards like NVMe and similar area headed that are not proprietary and yet also fit into a level of understanding that is uncommon in the broader industry and as such should be treated as valuable and discussed only when needed to help users, customers, partners and other stakeholders</li>
+</ul>
+<h2><a class="header" href="#share-problems" id="share-problems">Share problems</a></h2>
+<p>Share problems you run into, ask for help, be forthcoming with information and speak up. For example, consider making private issues public wherever possible so that we can all learn from the experience.</p>
+<h2><a class="header" href="#measure-what-matters-and-publish-it-publicly" id="measure-what-matters-and-publish-it-publicly">Measure what matters and publish it publicly</a></h2>
+<p>Agree in writing on measurable goals. Within the company we use public OKRs for that. You don't always get results and this will result in criticism from yourself and/or others. We believe our talents can be developed through hard work, good strategies, and input from others. We try to hire people based on their trajectory, not their pedigree.</p>
+<h2><a class="header" href="#write-things-down" id="write-things-down">Write things down</a></h2>
+<p>We document everything: in the handbook, in meeting notes, in issues. We do that because <a href="https://www.quora.com/What-does-The-faintest-pencil-is-better-than-the-sharpest-memory-mean">&quot;the faintest pencil is better than the sharpest memory.&quot;</a> It is far more efficient to read a document at your convenience than to have to ask and explain. Having something in version control also lets everyone contribute suggestions to improve it.</p>
+<h2><a class="header" href="#bias-towards-asynchronous-communication" id="bias-towards-asynchronous-communication">Bias towards asynchronous communication</a></h2>
+<p>Take initiative to operate asynchronously whenever possible. This shows care and consideration for those who may not be in the same time zone, are traveling outside of their usual time zone, or are structuring their day around pressing commitments at home or in their community. In other words, use chat, GitHub or other issue tracker and so forth whenever possible.</p>
+<h2><a class="header" href="#anyone-and-anything-can-be-questioned" id="anyone-and-anything-can-be-questioned">Anyone and anything can be questioned.</a></h2>
+<p>Any past decisions and guidelines are open to questioning as long as you act in accordance with them until they are changed.</p>
+<h2><a class="header" href="#disagree-and-commit" id="disagree-and-commit">Disagree and commit.</a></h2>
+<p>Everything can be questioned but as long as a decision is in place we expect people to commit to executing it, which is a common principle. Sometimes you will not fully understand a decision. Feel free to bring it up later as we may need to revisit the decision. In the meantime, keep going.</p>
+<h2><a class="header" href="#say-why-not-just-what" id="say-why-not-just-what">Say why, not just what</a></h2>
+<p>Whenever possible, take the extra time to explain changes in policies or approaches - especially when you are adding additional steps that someone must take before their work has an impact; as an example, additional test and validation changes are inevitable and also should be well explained. A change with no public explanation can lead to a lot of extra rounds of questioning and can be considered a kind of “communication debt” that must be paid off at some point. Avoid using terms such as &quot;industry standard&quot; or &quot;best practices&quot; as they are vague, opaque, and don't provide enough context as a reason for a change.</p>
+<footer id="open-on-gh">Found a bug? <a href="https://github.com/mayadata-io/culture/edit/master/plow/openness.md">Edit this file on GitHub.</a></footer>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../plow/people_first.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../plow/ownerhip.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../plow/people_first.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../plow/ownerhip.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

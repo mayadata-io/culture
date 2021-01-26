@@ -1,0 +1,263 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Ownership - MayaData Culture</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="../favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="../favicon.png">
+        
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="../css/open-in.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Welcome to MayaData</a></li><li class="chapter-item expanded affix "><a href="../CODE_OF_CONDUCT.html">Code of Conduct</a></li><li class="chapter-item expanded "><a href="../plow/plow.html"><strong aria-hidden="true">1.</strong> PLOW</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../plow/people_first.html"><strong aria-hidden="true">1.1.</strong> People First</a></li><li class="chapter-item expanded "><a href="../plow/openness.html"><strong aria-hidden="true">1.2.</strong> Openness</a></li><li class="chapter-item expanded "><a href="../plow/ownerhip.html" class="active"><strong aria-hidden="true">1.3.</strong> Ownership</a></li><li class="chapter-item expanded "><a href="../plow/winning.html"><strong aria-hidden="true">1.4.</strong> Winning</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Tools for a Better Life</li><li class="chapter-item expanded "><a href="../tools/gdrive.html"><strong aria-hidden="true">2.</strong> Google Shared Drives</a></li><li class="chapter-item expanded "><a href="../tools/calendar.html"><strong aria-hidden="true">3.</strong> Google Calendar</a></li><li class="chapter-item expanded "><a href="../tools/subscriptions.html"><strong aria-hidden="true">4.</strong> Available Licensed Software</a></li><li class="chapter-item expanded affix "><li class="part-title">Building Software</li><li class="chapter-item expanded "><a href="../process/coding-style.html"><strong aria-hidden="true">5.</strong> Coding Style Guides</a></li><li class="chapter-item expanded "><a href="../process/release.html"><strong aria-hidden="true">6.</strong> Release Process</a></li><li class="chapter-item expanded "><a href="../process/qa.html"><strong aria-hidden="true">7.</strong> Product Quality Control</a></li><li class="chapter-item expanded affix "><li class="part-title">Community and Product</li><li class="chapter-item expanded "><a href="../process/developer-advocacy.html"><strong aria-hidden="true">8.</strong> Developer Advocacy</a></li><li class="chapter-item expanded "><a href="../process/marketing.html"><strong aria-hidden="true">9.</strong> OpenSource Marketing</a></li><li class="chapter-item expanded "><a href="../process/development.html"><strong aria-hidden="true">10.</strong> Product Development</a></li><li class="chapter-item expanded "><a href="../process/management.html"><strong aria-hidden="true">11.</strong> Product Management</a></li><li class="chapter-item expanded "><a href="../process/support.html"><strong aria-hidden="true">12.</strong> Product Support</a></li><li class="chapter-item expanded "><a href="../handbook/user-adoption.html"><strong aria-hidden="true">13.</strong> User Adoption</a></li><li class="chapter-item expanded "><a href="../process/useraudit.html"><strong aria-hidden="true">14.</strong> User Onboarding</a></li><li class="chapter-item expanded affix "><li class="part-title">Human Interactions</li><li class="chapter-item expanded "><a href="../process/etiquettes.html"><strong aria-hidden="true">15.</strong> Household Manners</a></li><li class="chapter-item expanded "><a href="../process/hiring.html"><strong aria-hidden="true">16.</strong> Hiring Process</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../job-roles/backend-engineering.html"><strong aria-hidden="true">16.1.</strong> Backend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/chief-architect.html"><strong aria-hidden="true">16.2.</strong> Chief Architect</a></li><li class="chapter-item expanded "><a href="../job-roles/customer-success.html"><strong aria-hidden="true">16.3.</strong> Customer Success</a></li><li class="chapter-item expanded "><a href="../job-roles/developer-advocate.html"><strong aria-hidden="true">16.4.</strong> Developer Advocate</a></li><li class="chapter-item expanded "><a href="../job-roles/frontend-engineering.html"><strong aria-hidden="true">16.5.</strong> Frontend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/lead-engineer.html"><strong aria-hidden="true">16.6.</strong> Lead Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/software-engineer.html"><strong aria-hidden="true">16.7.</strong> Software Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/solution-engineer.html"><strong aria-hidden="true">16.8.</strong> Solution Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/sre.html"><strong aria-hidden="true">16.9.</strong> SRE</a></li><li class="chapter-item expanded "><a href="../job-roles/sr-software-engineer.html"><strong aria-hidden="true">16.10.</strong> Sr Software Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-account-manager.html"><strong aria-hidden="true">16.11.</strong> Technical Account Manager</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-marketing-engineer.html"><strong aria-hidden="true">16.12.</strong> Technical Marketing Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-writer.html"><strong aria-hidden="true">16.13.</strong> Technical Writer</a></li><li class="chapter-item expanded "><a href="../job-roles/UI-lead.html"><strong aria-hidden="true">16.14.</strong> UI Lead</a></li><li class="chapter-item expanded "><a href="../job-roles/user-adoption-lead.html"><strong aria-hidden="true">16.15.</strong> User Adoption Lead</a></li></ol></li><li class="chapter-item expanded "><a href="../process/okr.html"><strong aria-hidden="true">17.</strong> OKRs</a></li><li class="chapter-item expanded "><a href="../process/paid-time-off-guide.html"><strong aria-hidden="true">18.</strong> Paid Time Off</a></li><li class="chapter-item expanded "><a href="../process/remote-first.html"><strong aria-hidden="true">19.</strong> Remote First</a></li><li class="chapter-item expanded "><a href="../process/saying-goodbyes.html"><strong aria-hidden="true">20.</strong> Saying Goodbye</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">21.</strong> India Specific Policies</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../policy/job-abandonment.html"><strong aria-hidden="true">21.1.</strong> Job Abandonment</a></li><li class="chapter-item expanded "><a href="../policy/paid-time-off.html"><strong aria-hidden="true">21.2.</strong> Paid Time Off</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">MayaData Culture</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                        <a href="https://github.com/mayadata-io/culture" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#ownership" id="ownership">Ownership</a></h1>
+<p>We want each team member to be a <a href="https://signalvnoise.com/posts/1430-hire-managers-of-one">manager of one</a> who doesn't need daily check-ins to achieve their goals.</p>
+<p>We expect team members to complete tasks that they pick up or are assigned. Having a task means you are responsible for anticipating and solving problems. As an owner you are responsible for overcoming challenges and there are no excuses. Take initiative and proactively inform stakeholders when there is something you might not be able to solve.</p>
+<h2><a class="header" href="#do-it-yourself" id="do-it-yourself">Do it yourself</a></h2>
+<p>No need to brainstorm, wait for consensus, or <a href="https://www.inc.com/geoffrey-james/collaboration-is-the-enemy-of-innovation.html">do with two</a> what you can do yourself. If you think it is better than what is there now do it, no need to wait for something polished. A task done today is better than a polished result delayed indefinitely.</p>
+<h2><a class="header" href="#outcome-not-output" id="outcome-not-output">Outcome, not output</a></h2>
+<p>We care about what you achieve; the code you shipped, the user you made happy, and the team member you helped. Someone who took the afternoon off shouldn't feel like they did something wrong. You don't have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. If you are working too many hours, talk to your manager to discuss solutions.</p>
+<h2><a class="header" href="#be-your-own-boss" id="be-your-own-boss">Be your own boss</a></h2>
+<p>You should have clear objectives and the freedom to work on them as you see fit. If a meeting doesn't seem interesting and someone's active participation is not critical to the outcome of the meeting, they can always opt to not attend, or during a video call they can work on other things if they want. Staying in the call may still make sense even if you are working on other tasks, so other peers can ping you and get fast answers when needed. This is particularly useful in multi-purpose meetings where you may be involved for just a few minutes.</p>
+<h2><a class="header" href="#global-optimization" id="global-optimization">Global optimization</a></h2>
+<p>This name comes from the quick guide to <a href="https://stripe.com/us/jobs/candidate-info?a=1#culture">Stripe's culture</a>. Our definition of global optimization is that you do what is best for the organization as a whole. Don't optimize for the goals of your immediate team when it negatively impacts the goals of other teams, our customer users, and/or the company. Those goals are also your problem and your job. Keep your immediate team as lean as possible, and help other teams achieve their goals.</p>
+<h2><a class="header" href="#be-respectful-of-others-time" id="be-respectful-of-others-time">Be respectful of others' time</a></h2>
+<p>Consider the time investment you are asking others to make with meetings and permission process. Try to avoid meetings, and if one is necessary, try to make attendance optional for as many people as possible. Any meeting should have an agenda linked from the invite, you should document the outcome. Instead of having people ask permission, trust their judgment and offer a consultation process if they have questions.</p>
+<h2><a class="header" href="#spend-company-money-like-its-your-own" id="spend-company-money-like-its-your-own">Spend company money like it's your own</a></h2>
+<p>Every dollar we spend will have to be earned back; be as frugal with company money as you are with your own. <a href="http://www.amazon.jobs/principles">Amazon states it best</a>: &quot;Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention. There are no extra points for growing headcount, budget size or fixed expense.”</p>
+<h2><a class="header" href="#responsibility-over-rigidity" id="responsibility-over-rigidity">Responsibility over rigidity</a></h2>
+<p>When possible we give people the responsibility to make a decision and hold them accountable for that instead of imposing rules and approval processes.</p>
+<h2><a class="header" href="#accept-mistakes" id="accept-mistakes">Accept mistakes</a></h2>
+<p>Not every problem should lead to a new process to prevent them. Additional processes make all actions more inefficient, a mistake only affects one.</p>
+<h2><a class="header" href="#an-algorithm-for-distributed-decision-making" id="an-algorithm-for-distributed-decision-making">An algorithm for distributed decision making</a></h2>
+<p>Use narratives, check sheets, and other tools. If you are proposing a new approach, sometimes a meeting isn’t enough and neither is a chat discussion. If you believe MayaData teams or the broader community or others need to align in a certain way to achieve an outcome, please take the time to articulate your reasoning in narrative form. This approach borrows heavily on the <a href="https://slab.com/blog/jeff-bezos-writing-management-strategy/">narrative structure used by Amazon</a>.</p>
+<p>Another technique we embrace is the use of criteria based trade off matrices; this approach starts with outlining the problem and 2-3 alternatives, then turns to listing the criteria by which these alternatives can be judged, and then turns to creating weights for each of these criteria.</p>
+<p>The use of Narratives and Trade Off Matricies are important aspects of our internal operating system. Workshops and onboarding training sessions help to distribute these important algorithms.</p>
+<footer id="open-on-gh">Found a bug? <a href="https://github.com/mayadata-io/culture/edit/master/plow/ownerhip.md">Edit this file on GitHub.</a></footer>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../plow/openness.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../plow/winning.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../plow/openness.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../plow/winning.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
