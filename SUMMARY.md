@@ -16,9 +16,9 @@
 
 # Building Software
 
-- [Coding Style Guides](process/coding-style.md)
-- [Release Process](process/release.md)
-- [Product Quality Control](process/qa.md)
+- [Coding Style Guides](craft/coding-style.md)
+- [Code Reviews](craft/code-review.md)
+- [Release Process](craft/release.md)
 
 # Community and Product
 
