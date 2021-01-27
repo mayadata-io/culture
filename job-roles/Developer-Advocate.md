@@ -16,7 +16,7 @@ As a MayaData Developer Advocate you will have the exciting opportunity to help 
 future of OpenEBS and Kubernetes through building a vibrant contributor community. In this highly technical role, 
 you will be an ecosystem influencer and champion of users’ needs. You will work to build relationships and deeply 
 understand and improve people’s adoption journeys by driving a range of activities, including inspiring users 
-with the latest technology advancements (such as Chaos Engineering and Kubera),operational best practices, integrations 
+with the latest technology advancements (such as Chaos Engineering and Kubera), operational best practices, integrations 
 with other open source projects, and identifying and removing the friction points getting in their way.
 
 ## Responsibilities
