@@ -6,9 +6,9 @@ Code reviews are an essential part of our constant effort to improve quality of 
 
 Key attributes which reviewers are looking for
 
-- proposed change is consistent with the rest of the code-base.
-- proposed change is maintainable (or is not making existing code harder to maintain).
-- proposed change is improving the overall code health (even if the change itself is not perfect).
+- proposed change is consistent with the rest of the code-base;
+- proposed change is maintainable (or is not making existing code harder to maintain);
+- proposed change is improving the overall code health (even if the change itself is not perfect);
 - proposed change is addressing product/business need described in the parent ticket.
 
 Only exception when reviewer could approve change which is worsening overall code health is state of **emergency**.
@@ -40,7 +40,7 @@ Also, your current reviewer can always pass the review to somebody else, if she 
 
 Reviewer should always make sure, that they have thought about the following aspects of the code. Naturally, we expect authors to think about them as well :)
 
-- The code is well designed. (Sensible modularization of the code, appropriate paradigms being used)
+- The code is well designed. (Sensible modularization of the code, appropriate paradigms being used).
 - The implementation is actually addressing a need described in the implementation ticket (aka is it doing, what it should be doing?).
 - The functionality is good for the user -- if used by programmers, does the API make sense? If UI change, does the change make sense to the users, does it look good?
 - Any parallel programming or external services are handled safely (check for race-conditions, deadlocks, missing timeouts).
