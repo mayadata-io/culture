@@ -1,4 +1,4 @@
-# How To Google Calendar
+# How To use Google Calendar
 
 Google Calendar is an essential tool for planning time, thus for allowing people to schedule calls and meet each other. But also to allow for keeping your work-life balance in check.
 
@@ -17,6 +17,24 @@ Make sure, that you have allowed other in the company to see your events:
 Please make sure, that you have set `Default guest permission under Settings -> General -> Event settings` to `Modify event` (or at least to `Invite others`). This setting will allow your guests to add other people to meetings, add dial-in details, extend description etc.
 
 ![Guests can modify events](cal/modify.png)
+
+## Add a shared calendar
+
+MayaData uses shared calendars for events like all hands calls, continuous improvement iniatives & demo days.
+
+A number of shared calendars exist. To add the `MayaData Team Meetings" calendar please do the following:
+
+* Scroll down on the left hand pane of your [Google Calendar](https://calendar.google.com/calendar) and click on the `+` next to `Other calendars`
+
+![First step - add shared calendar](cal/shared-cal-add-1.png)
+
+* Choose `From URL` in the dialog:
+ 
+![second step - choose from URL](cal/shared-cal-add-2.png)
+
+* When presented with the URL you would like to add use:
+
+`https://calendar.google.com/calendar/u/0?cid=Y19zMmNlYzZwOGdhaXUxNmRjaDJ0YnFmazZ1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t`
 
 ## Speedy meetings
 
