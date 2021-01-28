@@ -22,7 +22,7 @@ with other open source projects, and identifying and removing the friction point
 ## Responsibilities
 * Connect online and face-to-face with user group members to build personal relationships and deeply understand their 
 needs, usage, journeys, and barriers to adoption
-* Produce high quality technical “how-to” content (blogs, webinars, talks) addressingcommon user needs, 
+* Produce high quality technical “how-to” content (blogs, webinars, talks) addressing common user needs,
 latest technology advances, and emerging best practices
 * Present at meetups, conferences, and other ecosystem events
 * Build and nurture relationships with fellow ecosystem influencers and open source leaders
