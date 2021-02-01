@@ -1,4 +1,4 @@
-# How To Google Calendar
+# How To use Google Calendar
 
 Google Calendar is an essential tool for planning time, thus for allowing people to schedule calls and meet each other. But also to allow for keeping your work-life balance in check.
 
@@ -17,6 +17,22 @@ Make sure, that you have allowed other in the company to see your events:
 Please make sure, that you have set `Default guest permission under Settings -> General -> Event settings` to `Modify event` (or at least to `Invite others`). This setting will allow your guests to add other people to meetings, add dial-in details, extend description etc.
 
 ![Guests can modify events](cal/modify.png)
+
+## Shared calendars
+
+### MayaData shared calendars
+
+MayaData uses [shared Google calendars](https://support.google.com/a/answer/1626902?hl=en). You can subscribe your Google calendar account to shared calendars by clicking on the following links:
+* [Meet Mayadata public calendar](https://calendar.google.com/calendar/u/0?cid=Y19uaDNuNXRwaW1ybXU1NTlhbWdhM2RjNXI4c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) -- public calendar, that **anyone can join**, dedicated for sharing events relevant to MayaData.
+* [Mayadata Team Meetings](https://calendar.google.com/calendar/u/0?cid=Y19zMmNlYzZwOGdhaXUxNmRjaDJ0YnFmazZ1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) -- for events like all hands calls, continuous improvement initiatives & demo days for internal meetings of MayaData employees.
+
+### Holidays in different countries
+
+On the similar note, you can easily add calendars showing holidays in your home or other countries. It looks like this for me:
+
+![Czech Republic Holidays](cal/holidays.png)
+
+You can easily add other countries. Hit the `+` sign and then `Browse calendars of interest -> Regional holidays` and find the country of interest.
 
 ## Speedy meetings
 
@@ -40,10 +56,3 @@ That will result into
 
 ![World clock rendered](cal/worldclock.png)
 
-## Holidays in different countries
-
-You may have spotted an automatic calendar tracking holidays in your home country. It looks like this for me:
-
-![Czech Republic Holidays](cal/holidays.png)
-
-You can easily add other countries. Hit the `+` sign and then `Browse calendars of interest -> Regional holidays` and find the country of interest.
