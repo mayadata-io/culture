@@ -21,6 +21,11 @@ jobs:
           curl -LSfs https://japaric.github.io/trust/install.sh | \
             sh -s -- --git badboy/mdbook-open-on-gh
 
+      - name: Install mdbook-toc
+        run: |
+          curl -LSfs https://japaric.github.io/trust/install.sh | \
+            sh -s -- --git badboy/mdbook-toc
+
       - run: mdbook build
 
       - name: Deploy

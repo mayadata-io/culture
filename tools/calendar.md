@@ -2,6 +2,9 @@
 
 Google Calendar is an essential tool for planning time, thus for allowing people to schedule calls and meet each other. But also to allow for keeping your work-life balance in check.
 
+This chapter consists of the following sections:
+<!-- toc -->
+
 ## Allow access to your calendar
 
 Go to Settings and click on your calendar:
