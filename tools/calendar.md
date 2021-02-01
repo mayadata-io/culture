@@ -22,13 +22,9 @@ Please make sure, that you have set `Default guest permission under Settings -> 
 
 ### MayaData shared calendars
 
-MayaData uses [shared Google calendars](https://support.google.com/a/answer/1626902?hl=en).
-
-For public events a calendar called [Meet Mayadata](https://calendar.google.com/calendar/u/0?cid=Y19uaDNuNXRwaW1ybXU1NTlhbWdhM2RjNXI4c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) that **anyone can join** and [Mayadata Team Meetings](https://calendar.google.com/calendar/u/0?cid=Y19zMmNlYzZwOGdhaXUxNmRjaDJ0YnFmazZ1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for events like all hands calls, continuous improvement initiatives & demo days for internal meetings of Mayadata employees.
-
-You can subscribe your Google calendar account to shared calendars by clicking on the following links:
-* [Meet Mayadata public calendar](https://calendar.google.com/calendar/u/0?cid=Y19uaDNuNXRwaW1ybXU1NTlhbWdhM2RjNXI4c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* [Mayadata Team Meetings](https://calendar.google.com/calendar/u/0?cid=Y19zMmNlYzZwOGdhaXUxNmRjaDJ0YnFmazZ1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) - employees only
+MayaData uses [shared Google calendars](https://support.google.com/a/answer/1626902?hl=en). You can subscribe your Google calendar account to shared calendars by clicking on the following links:
+* [Meet Mayadata public calendar](https://calendar.google.com/calendar/u/0?cid=Y19uaDNuNXRwaW1ybXU1NTlhbWdhM2RjNXI4c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) -- public calendar, that **anyone can join**, dedicated for sharing events relevant to MayaData.
+* [Mayadata Team Meetings](https://calendar.google.com/calendar/u/0?cid=Y19zMmNlYzZwOGdhaXUxNmRjaDJ0YnFmazZ1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) -- for events like all hands calls, continuous improvement initiatives & demo days for internal meetings of MayaData employees.
 
 ### Holidays in different countries
 
