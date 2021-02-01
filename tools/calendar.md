@@ -18,23 +18,36 @@ Please make sure, that you have set `Default guest permission under Settings -> 
 
 ![Guests can modify events](cal/modify.png)
 
-## Add a shared calendar
+## Shared calendars
 
-MayaData uses shared calendars for events like all hands calls, continuous improvement iniatives & demo days.
+### MayaData shared calendar
 
-A number of shared calendars exist. To add the `MayaData Team Meetings" calendar please do the following:
+MayaData uses shared calendars for events like all hands calls, continuous improvement initiatives & demo days.
+
+A number of shared calendars exist. To add the "MayaData Team Meetings" calendar please do the following:
 
 * Scroll down on the left hand pane of your [Google Calendar](https://calendar.google.com/calendar) and click on the `+` next to `Other calendars`
 
-![First step - add shared calendar](cal/shared-cal-add-1.png)
+  <img alt="First step - add shared calendar" src="cal/shared-cal-add-1.png" width="256px">
+
 
 * Choose `From URL` in the dialog:
  
-![second step - choose from URL](cal/shared-cal-add-2.png)
+  <img alt="Second step - choose from URL" src="cal/shared-cal-add-2.png" width="256px">
 
 * When presented with the URL you would like to add use:
 
-`https://calendar.google.com/calendar/u/0?cid=Y19zMmNlYzZwOGdhaXUxNmRjaDJ0YnFmazZ1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t`
+  ```
+  https://calendar.google.com/calendar/u/0?cid=Y19zMmNlYzZwOGdhaXUxNmRjaDJ0YnFmazZ1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+  ```
+
+### Holidays in different countries
+
+On the similar note, you can easily add calendars showing holidays in your home or other countries. It looks like this for me:
+
+![Czech Republic Holidays](cal/holidays.png)
+
+You can easily add other countries. Hit the `+` sign and then `Browse calendars of interest -> Regional holidays` and find the country of interest.
 
 ## Speedy meetings
 
@@ -58,10 +71,3 @@ That will result into
 
 ![World clock rendered](cal/worldclock.png)
 
-## Holidays in different countries
-
-You may have spotted an automatic calendar tracking holidays in your home country. It looks like this for me:
-
-![Czech Republic Holidays](cal/holidays.png)
-
-You can easily add other countries. Hit the `+` sign and then `Browse calendars of interest -> Regional holidays` and find the country of interest.
