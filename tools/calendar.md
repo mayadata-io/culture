@@ -20,26 +20,15 @@ Please make sure, that you have set `Default guest permission under Settings -> 
 
 ## Shared calendars
 
-### MayaData shared calendar
+### MayaData shared calendars
 
-MayaData uses shared calendars for events like all hands calls, continuous improvement initiatives & demo days.
+MayaData uses [shared Google calendars](https://support.google.com/a/answer/1626902?hl=en).
 
-A number of shared calendars exist. To add the "MayaData Team Meetings" calendar please do the following:
+For public events a calendar called [Meet Mayadata](https://calendar.google.com/calendar/u/0?cid=Y19uaDNuNXRwaW1ybXU1NTlhbWdhM2RjNXI4c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) that **anyone can join** and [Mayadata Team Meetings](https://calendar.google.com/calendar/u/0?cid=Y19zMmNlYzZwOGdhaXUxNmRjaDJ0YnFmazZ1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for events like all hands calls, continuous improvement initiatives & demo days for internal meetings of Mayadata employees.
 
-* Scroll down on the left hand pane of your [Google Calendar](https://calendar.google.com/calendar) and click on the `+` next to `Other calendars`
-
-  <img alt="First step - add shared calendar" src="cal/shared-cal-add-1.png" width="256px">
-
-
-* Choose `From URL` in the dialog:
- 
-  <img alt="Second step - choose from URL" src="cal/shared-cal-add-2.png" width="256px">
-
-* When presented with the URL you would like to add use:
-
-  ```
-  https://calendar.google.com/calendar/u/0?cid=Y19zMmNlYzZwOGdhaXUxNmRjaDJ0YnFmazZ1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
-  ```
+You can subscribe your Google calendar account to shared calendars by clicking on the following links:
+* [Meet Mayadata public calendar](https://calendar.google.com/calendar/u/0?cid=Y19uaDNuNXRwaW1ybXU1NTlhbWdhM2RjNXI4c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [Mayadata Team Meetings](https://calendar.google.com/calendar/u/0?cid=Y19zMmNlYzZwOGdhaXUxNmRjaDJ0YnFmazZ1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) - employees only
 
 ### Holidays in different countries
 
