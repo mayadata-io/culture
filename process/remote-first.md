@@ -53,15 +53,10 @@ _Remote-first means working remote is the default. It means making sure your rem
 
   If you fail often and repeatedly, you will be asked to leave the team. As such, we do not ask someone to leave lightly. Firing someone is something we view as the worst possible outcome in a work relationship. However, keeping someone that is underperforming, or doesn’t fit the team, is damaging to the work of everyone else in the company. This is a case where we must place the many above the few.
 
-## Remote First Etiquettes
-
-* https://github.com/mayadata-io/culture/blob/master/process/etiquettes.md
-
 ## Tools and Tips
 
-* https://about.gitlab.com/handbook/tools-and-tips/
-* https://zapier.com/learn/remote-work/remote-work-productivity/
-* https://zapier.com/learn/remote-work/productivity-apps-remote-work/
-* https://zapier.com/learn/remote-work/remote-team-communication/
-* https://whimsical.com/
-* https://remotework2020.remote.tools
+* [GitLab Tools and Tips](https://about.gitlab.com/handbook/tools-and-tips/)
+* [Zapier guide to remote productivity](https://zapier.com/learn/remote-work/remote-work-productivity/)
+* [Zapier remote apps suggests](https://zapier.com/learn/remote-work/productivity-apps-remote-work/)
+* [Zapier on remote teams communication](https://zapier.com/learn/remote-work/remote-team-communication/)
+* [Remote Work 2021](https://www.remote.tools/remote-work-2021)

@@ -22,6 +22,12 @@
 - [Code Reviews](craft/code-review.md)
 - [Release Process](craft/release.md)
 
+# Remote First
+
+- [Remote First](process/remote-first.md)
+- [Household Manners](process/etiquettes.md)
+- [Written Standups](process/standups.md)
+
 # Community and Product
 
 - [Developer Advocacy](process/developer-advocacy.md)
@@ -34,7 +40,6 @@
 
 # Human Interactions
 
-- [Household Manners](process/etiquettes.md)
 - [Hiring Process](process/hiring.md)
   - [Backend Engineer](job-roles/backend-engineering.md)
   - [Chief Architect](job-roles/chief-architect.md)
@@ -53,7 +58,6 @@
   - [User Adoption Lead](job-roles/user-adoption-lead.md)
 - [OKRs](process/okr.md)
 - [Paid Time Off](process/paid-time-off-guide.md)
-- [Remote First](process/remote-first.md)
 - [Saying Goodbye](process/saying-goodbyes.md)
 - [India Specific Policies]()
   - [Job Abandonment](policy/job-abandonment.md)
