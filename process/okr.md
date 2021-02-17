@@ -2,23 +2,33 @@
 
 > “Objectives and key results are the yin and yang of goal setting.” from John Doerr’s Measure What Matters
 
-At MayaData we believe in [PLOW culture](/plow/plow.md) where everyone is committed and accountable to working as a team to deliver company objectives. OKRs provide the best mechanism to gain visibility into everyone’s objectives. OKRs expose redundant efforts and save time and money.
+One of the key building blocks of the [PLOW](/plow/plow.md) is that everyone is committed and accountable to work as a team to deliver company objectives. OKRs are set to fulfill vision and strategy of MayData and act as more concrete synchronization signal.
 
-OKRs lay out our plan to execute our strategy and help make sure we achieve them with clearly defined goals throughout the organization.
+- OKRs lay out our plan to execute our strategy and help make sure we achieve them with clearly defined goals throughout the organization.
+- OKRs help in providing clarity and alignment in terms of what needs to be accomplished by an individual.
+- OKRs are also a great tool for individuals to stay focused on what they have agreed to accomplish for the company.
+- OKRs provide both top-down and bottom-up alignment.
+- OKRs allows managers and individuals to step away from the need for micromanagement (which is more a sign of mismanagement or an ineffective team composition).
+- OKRs is a key enabler for our culture that helps each individual to realize their personal dreams and aspirations, while staying committed to helping MayaData customers succeed in their jobs.
 
-OKRs help in providing clarity and alignment in terms of what needs to be accomplished by an individual.
+## OKR
 
-OKRs are also a great tool for individuals to stay focused on what they have agreed to accomplish for the company.
+[OKR](https://en.wikipedia.org/wiki/OKR) stand for Objective and Key Results. The goal is to use defined 3 to 5 key results to achieve the objective. OKR is always time-bound. Our cadence is **one quarter**.
 
-OKRs provide both top-down and bottom-up alignment.
+- An **objective** is a goal to be achieved in the future. It gives a direction to the individual, team, department or whole company. Objectives are generally broad and defined in the way which is easy to remember.
+- A **key result** is a concrete metric with **starting** value and **target** value that measures progress towards an objective. It is either percentage or other numerical metric. Such as time (latency, time to recover, etc), amount of money (revenue, committed pipeline, etc.) ...The key component is measurable success. Goal is to remove ambiguity from judging the progress as success can mean different things to different people.
 
-OKRs allows managers and individuals to step away from the need for Micromanagement - which is more a sign of mismanagement or an ineffective team composition.
+Think about every **key result** as about a goal. Every good goal has the following properties:
+- A **target** where we want to get.
+- A **baseline** which describes, where we are today.
+- A **trend** describing the current direction and rate of change.
+- A **time frame** for the change to happen. (We have fixed that to one quarter for the purpose of OKR).
 
-OKRs is a key enabler for our culture that helps each individual to realize their personal dreams and aspirations, while staying committed to helping MayaData customers succeed in their jobs.
+Sometimes this is referred to us as SMART goal -- specific, measurable, actionable, reachable and time bound. Such goal takes the form of:
 
-## OKRs
+> By the end of 2021Q2 complete Mayastor test suite will finish within 40 minutes (p95). It currently takes FIXME hours (p95), and got FIXME hours slower in comparison to previous quarter. Test coverage should not decrease. Budget spent can increase by 10% maximum.
 
-[OKRs](https://en.wikipedia.org/wiki/OKR) stand for Objective- Key Results and are our quarterly objectives.
+Such goal definition provides all the necessary metrics, and in this case, additional details to avoid undesired solutions (like just disabling tests or spending unreasonable money on the infrastructure).
 
 OKRs are of the following format:
 
@@ -32,38 +42,9 @@ OKRs are of the following format:
 
 You can use the phrase “I will achieve a certain OBJECTIVE as measured by the following KEY RESULTS…” to know if your OKR makes sense.
 
-OKRs must be defined for each Quarter with a maximum of four objectives. An individual’s OKRs must a mix of:
-* 3 Primary role objectives and
-* 1 Personal career aspiration objective.
+## Measure of Success
 
-Each objective has between 1 and 4 key results; if you have less, you list less.
-
-The [Startup OKR template](https://medium.com/startup-tools/okrs-5afdc298bc28) provides a good explanation on how to go about writing the OKRs.
-
-> **Objectives:**
->
-> The goal of setting> an Objective is to write out what you hope to accomplish such that at a later time you can easily tell if you have reached, or have a clear path to reaching that objective.
->
-> Choosing the right objectives is one of the hardest things to do and requires a great deal of thinking and courage to do well.
->
-> **Key Results:**
->
-> Assuming your Objectives are well thought through, Key Results are the secret sauce to using OKRs. Key Results are numerically-based expressions of success or progress towards an Objective.
->
-> The important element here is measuring success. It’s not good enough to make broad statements about improvement (that are subjectively evaluated). We need to know how well you are succeeding. Qualitative goals tend to under-represent our capabilities because the solution tends to be the lowest common denominator.
->
-> **Example:**
->
-> Consider an objective called `launch new training for the sales team`. This can be accomplished by an individual by putting out a training material out there or by testing the material with a single sales member. However a good key result would be one that can be easily measured and is a stretch - like `train 50 sales team members`. It is possible that the individual can end-up training only 10, but it is better than just publishing or training a single person. The performance of the individual jumped 10-ex with properly articulating the key result.
->
-> ```
-> OBJECTIVE: launch new training for the sales team
-> KEY RESULTS:
-> * publish new training material on company portal
-> * train 50 sales team members
-> ```
-
-OKRs are meant to be ambitious and hard to achieve. Usually, it isn’t expected that anyone hits 100% of an OKR. Expected performance is generally:
+OKRs are meant to be ambitious and hard to achieve. Usually, it is *not* expected that anyone hits 100% of an OKR. Expected performance is generally:
 * If you hit 70% of the Key Result, it's considered a positive.
 * If you hit 110% of the key result, that's a likely sign that the individual and manager who oversaw the OKR didn't manage it well and set the goal too low.
 * If you get 50% or less, it's possible that
@@ -72,6 +53,12 @@ OKRs are meant to be ambitious and hard to achieve. Usually, it isn’t expected
   * The Key Result was set poorly (too high).
 
 It takes 2 - 4 quarters to get skilled at setting OKRs; your first few times setting goals you will likely be all over the place in terms of OKR completion at the end of a quarter. That’s normal. As you get better, you should be able to scope out the quarter’s work and performance with more confidence.
+
+## Type of Objectives
+
+OKRs must be defined for each Quarter with a maximum of four objectives. An individual’s OKRs must a mix of:
+* 3 Primary role objectives and
+* 1 Personal career aspiration objective.
 
 ## OKR Setting Process
 
