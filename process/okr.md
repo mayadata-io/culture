@@ -9,7 +9,7 @@ One of the key building blocks of the [PLOW](/plow/plow.md) is that everyone is 
 - OKRs are also a great tool for individuals to stay focused on what they have agreed to accomplish for the company.
 - OKRs provide both top-down and bottom-up alignment.
 - OKRs allows managers and individuals to step away from the need for micromanagement (which is more a sign of mismanagement or an ineffective team composition).
-- OKRs is a key enabler for our culture that helps each individual to realize their personal dreams and aspirations, while staying committed to helping MayaData customers succeed in their jobs.
+- OKRs are key enabler for our culture that helps each individual to realize their personal dreams and aspirations, while staying committed to helping MayaData customers succeed in their jobs.
 
 ## OKR
 
@@ -18,13 +18,13 @@ One of the key building blocks of the [PLOW](/plow/plow.md) is that everyone is 
 - An **objective** is a goal to be achieved in the future. It gives a direction to the individual, team, department or whole company. Objectives are generally broad and defined in the way which is easy to remember.
 - A **key result** is a concrete metric with **starting** value and **target** value that measures progress towards an objective. It is either percentage or other numerical metric. Such as time (latency, time to recover, etc), amount of money (revenue, committed pipeline, etc.) ...The key component is measurable success. Goal is to remove ambiguity from judging the progress as success can mean different things to different people.
 
-Think about every **key result** as about a goal. Every good goal has the following properties:
+Think about every **key result** as you would about a goal. Every good goal has the following properties:
 - A **target** where we want to get.
 - A **baseline** which describes, where we are today.
 - A **trend** describing the current direction and rate of change.
 - A **time frame** for the change to happen. (We have fixed that to one quarter for the purpose of OKR).
 
-Sometimes this is referred to us as SMART goal -- specific, measurable, actionable, reachable and time bound. Such goal takes the form of:
+Sometimes this is referred to us as [SMART](https://en.wikipedia.org/wiki/SMART_criteria) goal -- specific, measurable, actionable, reachable and time bound. Such goal takes the form of:
 
 > By the end of 2021Q2 complete Mayastor test suite will finish within 40 minutes (p95). It currently takes FIXME hours (p95), and got FIXME hours slower in comparison to previous quarter. Test coverage should not decrease. Budget spent can increase by 10% maximum.
 
@@ -56,7 +56,7 @@ It takes 2 - 4 quarters to get skilled at setting OKRs; your first few times set
 
 ## Type of Objectives
 
-OKRs must be defined for each Quarter with a maximum of four objectives. An individual’s OKRs must a mix of:
+OKRs must be defined for each Quarter with a maximum of four objectives. An individual’s OKRs must be a mix of:
 * 3 Primary role objectives and
 * 1 Personal career aspiration objective.
 
