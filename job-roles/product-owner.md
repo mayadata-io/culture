@@ -1,6 +1,7 @@
 # Product Owner
 Ready for an opportunity to make a substantial impact with a disruptive tech company while building your Developer Advocate career in the rapidly growing Kubernetes ecosystem? Then come and PLOW with MayaData, the leading Container Attached Storage (CAS) solution for Kubernetes called OpenEBS.
 At MayaData we believe that the best way to deliver storage and related services to containerized and cloud-native environments is with containerized and cloud-native architectures. Everything we do is focused on providing data agility and simplifying the daily operation of Kubernetes SRE's and DevOps teams using Kubernetes as a data layer. We enable our users to handle complex data management operations efficiently, and we have become open source leaders in building Kubernetes into a first-class data platform.
+
 **Location**: Remote (US / Europe / India Time zones)
 
 ## Role description
@@ -35,7 +36,7 @@ As a MayaData Product Owner you will have the exciting opportunity to help drive
 * Experience with Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), or similar cloud or application management solutions
 * Bachelor's or graduate degree preferably in computer science, engineering, or a related discipline
 
-The following are considered a plus:
+**The following are considered a plus**:
 * Practical experience with cloud platforms 
 * Prior experience with the agile development process
 * Familiarity with Atlassian platform (Jira / Confluence) or similar project management tools
