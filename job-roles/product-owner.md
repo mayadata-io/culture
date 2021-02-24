@@ -40,4 +40,4 @@ As a MayaData Product Owner you will have the exciting opportunity to help drive
 * Practical experience with cloud platforms 
 * Prior experience with the agile development process
 * Familiarity with Atlassian platform (Jira / Confluence) or similar project management tools
-* Sound like an opportunity where you would thrive and grow? More importantly, could this be the right next step in reaching your career goals? Reach out to us and let's explore whether this role is the right fit for yo
+* Sound like an opportunity where you would thrive and grow? More importantly, could this be the right next step in reaching your career goals? Reach out to us and let's explore whether this role is the right fit for you.
