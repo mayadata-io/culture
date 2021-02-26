@@ -38,7 +38,7 @@ The Senior Frontend Engineer role extends the Frontend Engineer role. Additional
 - Advocate for improvements to product quality, security, and performance that have particular impact across your team.
 - Solve technical problems of high scope and complexity.
 - Exert influence on the overall objectives and long-range goals of your team. This could be technical and/or product focused.
-- Actively participate at product grooming sessions. Help Lead Engineer to drive their area of resposibilities.
+- Actively participate at product grooming sessions. Help Lead Engineer to drive their area of responsibilities.
 - Experience with performance and optimization problems, particularly at large scale, and a demonstrated ability to both diagnose and prevent these problems
 - Help to define and improve our internal standards for style, maintainability, and best practices for a high-scale web environment.
 - Represent MayaData and its values in public communication around broader initiatives, specific projects, and community contributions.

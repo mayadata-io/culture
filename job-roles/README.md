@@ -2,16 +2,16 @@
 
 {{#include intro.md}}
 
-## Typicall Engineering Team
+## Typical Engineering Team
 
-We have teams dedicated to different components / initiatives. These are similar in their structure. Sweet-spot size is 8 memebers, but no less than 4 and no more then 10.
+We have teams dedicated to different components / initiatives. These are similar in their structure. Sweet-spot size is 8 members, but no less than 4 and no more then 10.
 
 Team template:
 - Lead Engineer
 - Engineers
 - QA
 
-Key team resposibilities include:
+Key team responsibilities include:
 - Thinking about the problems, design solution/approach.
 - Documenting work to be done.
 - Producing code.

@@ -4,10 +4,10 @@
 
 ## Responsibilities
 - Develop features and improvements to the MayaData Open Source and Enterprise products in a secure, well-tested, and performant way.
-- Keep tikets updated, make sure that they cover work being done.
-- Owning a project/feature from concept to production, including proposal, discussion, execution, rollout plans, helping the support team to have good article/blog/doc, helping e2e team with test plans.
+- Keep tickets updated, make sure that they cover work being done.
+- Owning a project/feature from concept to production, including proposal, discussion, execution, roll-out plans, helping the support team to have good article/blog/doc, helping e2e team with test plans.
 - Participate in the proper [code-reviews](/craft/code-review.md).
-- Collaborate with Users (Community and Customers), Product Management and other stakeholders within Engineering (Frontend, UX, etc.) to maintain a high bar for quality in a fast-paced, iterative environment.
+- Collaborate with Users (Community and Customers), Product Management and other stakeholders within Engineering (frontend, UX, etc.) to maintain a high bar for quality in a fast-paced, iterative environment.
 - Advocate for improvements to product usability, quality, security, and performance.
 - Solve technical problems of moderate scope and complexity.
 - Craft code that meets industry and open source standards for style, maintainability, and best practices for a high-scale Data Center platform and tools. Maintain and advocate for these standards through code review.
@@ -29,7 +29,7 @@ The Senior Backend Engineer role extends the Backend Engineer role.
 - Advocate for improvements to product quality, security, and performance that have a particular impact across your team.
 - Solve technical problems of high scope and complexity.
 - Exert influence on the overall objectives and long-range goals of your team.
-- Actively participate at product grooming sessions. Help Lead Engineer to drive their area of resposibilities.
+- Actively participate at product grooming sessions. Help Lead Engineer to drive their area of responsibilities.
 - Experience with performance and optimization problems, particularly at large scale, and a demonstrated ability to both diagnose and prevent these problems
 - Help to define and improve our internal standards for style, maintainability, and best practices for operating in a high-scale Kubernetes environment. Maintain and advocate for these standards through code review.
 - Represent MayaData and its values in public communication around broader initiatives, specific projects, and community contributions.

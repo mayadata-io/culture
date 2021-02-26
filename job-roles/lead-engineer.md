@@ -2,9 +2,9 @@
 
 {{#include intro.md}}
 
-## In the nutsheel
+## In the nutshell
 
-Lead Engineer aka Team Lead is a core leadership role in the MayaData. You are resposible for a particular team of about 8 people, working on delivering component of the MayaData portfolio.
+Lead Engineer aka Team Lead is a core leadership role in the MayaData. You are responsible for a particular team of about 8 people, working on delivering component of the MayaData portfolio.
 
 Team Lead is still considered a technical position. You are expected to be coding and contributing at more then 50% of your time. We don't believe in dedicated people managers on the team level as we are a strong engineering organization.
 
@@ -30,7 +30,7 @@ Team Lead is still considered a technical position. You are expected to be codin
 
 ### Product Owner
 - Convert Stories to backlog Epics and Tasks. Participate at grooming sessions with Product Management.
-- Be a close partner to Product Management organization to identify new intiatives, improve existing features and minigate issues our customers may be facing.
+- Be a close partner to Product Management organization to identify new initiatives, improve existing features and mitigate issues our customers may be facing.
 - Prioritize work for team according to agreed priorities with Product Management and the overall company goals and vision.
 - Understand market trends on technologies, products. Research competitive solutions.
 - Keep our persona needs on your mind. Proactively suggest changes to features or add new ones to backlog for discussion with Project Management.
@@ -38,8 +38,8 @@ Team Lead is still considered a technical position. You are expected to be codin
 
 ### Technical Management
 - Learn new technologies and train the team. Allow other colleagues in your team to spend time on learning and playing with new technologies.
-- Listen to new learnings from company and guide them on chosing one that match our requirements.
-- Motivate team in writing skills like blogs, whitepapers etc.
+- Listen to new learnings from company and guide them on choosing one that match our requirements.
+- Motivate team in writing skills like blogs, white papers etc.
 - Always question the status quo -- cannot we automate some step in the process, cannot we use different approach to some tasks (e.g. how we do CI/CD, how we do generate documentation etc.).
 - Promote and keep eye on the proper [code-review techniques](/craft/code-review.md).
 
@@ -47,5 +47,5 @@ Team Lead is still considered a technical position. You are expected to be codin
 - Make sure required trainings happened with support team.
 - Make sure dev/E2E teams have enough time in their tasks by empowering support team in solving user/customer issues.
 - Avoid any escalations from customers with timely and apt response.
-- Being active and leading few interested feature areas in other related opensource projects.
+- Being active and leading few interested feature areas in other related open-source projects.
 
