@@ -20,7 +20,7 @@ Team Lead is still considered a technical position. You are expected to be codin
 - Track our marketing and sales activities. Encourage participation and participate at conferences, write blog articles, tweet etc.
 
 ### Project Management
-- Keeping eye on your team's JIRA and keeping it healthy.
+- Keeping an eye on your team's JIRA and keeping it healthy.
 - Project level tracking for execution completion within time.
 - Lead/partcipate in internal project review meeting.
 - Helping in risk mitigation for project execution.
@@ -34,7 +34,7 @@ Team Lead is still considered a technical position. You are expected to be codin
 - Prioritize work for team according to agreed priorities with Product Management and the overall company goals and vision.
 - Understand market trends on technologies, products. Research competitive solutions.
 - Keep our persona needs on your mind. Proactively suggest changes to features or add new ones to backlog for discussion with Project Management.
-- Alwats make sure, that you know **why** we are building something, so you can explain to your colleagues.
+- Always make sure, that you know **why** we are building something, so you can explain to your colleagues.
 
 ### Technical Management
 - Learn new technologies and train the team. Allow other colleagues in your team to spend time on learning and playing with new technologies.
