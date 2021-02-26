@@ -1,8 +1,6 @@
-# Product Owner
-Ready for an opportunity to make a substantial impact with a disruptive tech company while building your Developer Advocate career in the rapidly growing Kubernetes ecosystem? Then come and PLOW with MayaData, the leading Container Attached Storage (CAS) solution for Kubernetes called OpenEBS.
-At MayaData we believe that the best way to deliver storage and related services to containerized and cloud-native environments is with containerized and cloud-native architectures. Everything we do is focused on providing data agility and simplifying the daily operation of Kubernetes SRE's and DevOps teams using Kubernetes as a data layer. We enable our users to handle complex data management operations efficiently, and we have become open source leaders in building Kubernetes into a first-class data platform.
+# Product Manager
 
-**Location**: Remote (US / Europe / India Time zones)
+{{#include intro.md}}
 
 ## Role description
 As a MayaData Product Owner you will have the exciting opportunity to help drive the growth and shape the future of Kubera and OpenEBS through building a vibrant contributor community. In this highly technical role, you will be responsible for specific MayaData subsystems and work with our Engineering and Product teams responsible for building and delivering them to market. You will be responsible for planning and delivering product content for new releases and launches of our offerings, prioritizing and communicating product requirements to guide development, supporting the field team in advanced sales opportunities, performing competitive reviews and analysis, and working with customers and partners. You will actively contribute to the overall company strategy and work closely with Engineering, Marketing, Support, Sales, and Field teams to ensure our offerings' success. You are also expected to engage with open source communities that support our container initiatives, including Kubernetes, other Cloud Native Computing Foundation (CNCF) projects, CSI, Velero, and more. As a Product Owner, you need to have great communication, teamwork, and persuasion skills. This is a great opportunity to work on a fast-growing offering alongside some of the brightest minds in open source. 
@@ -32,12 +30,12 @@ As a MayaData Product Owner you will have the exciting opportunity to help drive
 * A bias for action with a capacity to iterate rapidly to produce results
 * Previous experience working in an early-stage company
 * Willingness to be put on display taking others with you down your learning path
-* Skills in distributed systems, resource management solutions, storage technologies, software-defined networking (SDN), enterprise logging, and monitoring solutions 
+* Skills in distributed systems, resource management solutions, storage technologies, software-defined networking (SDN), enterprise logging, and monitoring solutions
 * Experience with Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), or similar cloud or application management solutions
 * Bachelor's or graduate degree preferably in computer science, engineering, or a related discipline
 
 **The following are considered a plus**:
-* Practical experience with cloud platforms 
+* Practical experience with cloud platforms
 * Prior experience with the agile development process
 * Familiarity with Atlassian platform (Jira / Confluence) or similar project management tools
 * Sound like an opportunity where you would thrive and grow? More importantly, could this be the right next step in reaching your career goals? Reach out to us and let's explore whether this role is the right fit for you.
