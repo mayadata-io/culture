@@ -42,7 +42,6 @@
 
 - [Roles](job-roles/README.md)
   - [Chief Architect](job-roles/chief-architect.md)
-  - [Software Engineer](job-roles/software-engineer.md)
   - [Engineering Teams]()
     - [Lead Engineer](job-roles/lead-engineer.md)
     - [Backend Engineer](job-roles/backend-engineer.md)
@@ -57,8 +56,6 @@
     - [User Adoption Lead](job-roles/user-adoption-lead.md)
   - [Product Manager](job-roles/product-manager.md)
   - [SRE](job-roles/sre.md)
-  - [Sr Software Engineer](job-roles/sr-software-engineer.md)
-  - [UI Lead](job-roles/UI-lead.md)
 - [Hiring Process](process/hiring.md)
 - [OKRs](process/okr.md)
 - [Paid Time Off](process/paid-time-off-guide.md)
