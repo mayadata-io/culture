@@ -1,57 +1,53 @@
-# Lead Engineer
+# Lead Engineer / Team Lead
 
-## Overview
+{{#include intro.md}}
 
-At MayaData we believe that the best way to deliver storage and related services to containerized and cloud-native environments is with containerized and cloud-native architectures.  Everything we do is focused on providing data agility and simplifying the daily operation of Kubernetes SRE’s and DevOps teams using Kubernetes as a data layer.  We enable our users to handle complex data management operations easily, and we have become open source leaders in building Kubernetes into a first-class data platform.  
+## In the nutshell
 
-Lead engineers are the first level full time engineers at MayaData with exceptional knowledge on product and technologies used. This provides the change for individual to grow from team level to across multiple teams and company. Below are the expectations from them in-general irrespective of the kind of job role. They are also expected to fill the [sr software engineers](sr-software-engineer.md) related ones.
+Lead Engineer aka Team Lead is a core leadership role in the MayaData. You are responsible for a particular team of about 8 people, working on delivering component of the MayaData portfolio.
 
-## Expectations
+Team Lead is still considered a technical position. You are expected to be coding and contributing at more then 50% of your time. We don't believe in dedicated people managers on the team level as we are a strong engineering organization.
 
-### Process management
-This is about the process that need to be followed with in company, be it either for communication with team members/running the project execution/executing the individual tasks/project release.
-- Understand the gaps in current process by involving with multiple teams in company
-- Improve and define the new process for teams to follow
-- Templates for various design/E2E/support docs, RCA format
-- Identify metrics for various processes like code quality, team productivity, motivations, culture, sessions feedback etc
-- Process for identifying external/internal training requirements
-- Organize internal review meeetings for any need in process changes
-- Improve release cadence and track its involvement for product usability/adopatability/commercialization
+## Responsibilities
+### Team Leadership
+- Make sure, that people in the team are feeling comfortable and secure. They understand overall MayaData vision and strategy. They understand **why** they are working on particular features.
+- Understand the gaps by involving with multiple teams in company.
+- Suggest improvements and changes to the overall organization of the Engineering and your team.
+- Identify metrics for various components like code quality, team productivity, motivations, culture, sessions feedback etc.
+- Define goals/[OKRs](/process/okr.md) with and for your team.
+- Help you team to learn and grow, identifying external/internal training requirements.
+- Exhibit and inspire team to follow process/culture.
+- Track our marketing and sales activities. Encourage participation and participate at conferences, write blog articles, tweet etc.
 
-### Project management
-This is about the execution of tasks related to project, be it monitoring/developing/verifying/releasing project, and at product level.
-- Project level tracking for execution completion within time
-- Lead/partcipate in internal project review meeeting
-- Helping in risk mitigation for project execution
-- Converting RCAs to product backlog
-- Prioritize/plan about the product for coming sprints with product-mgmt team
-- Plan team size in advance
-- Exhibit and inspire team to follow process/culture
-- Project level check for required E2E coverage
+### Project Management
+- Keeping an eye on your team's JIRA and keeping it healthy.
+- Project level tracking for execution completion within time.
+- Lead/participate in internal project review meeting.
+- Helping in risk mitigation for project execution.
+- Plan team size in advance.
+- Project level check for required E2E coverage.
+- Make sure that we follow team's definition of done.
 
-### Technical management
-This is about expectations on technical skills required for the role.
-- Analyze market trends on technologies, products
-- Learn new technologies and train the team
-- Listen to new learnings from company and guide them on chosing one that match our requirements
-- Identify trainings, knowledge sessions across company
-- Motivate team in writing skills like blogs, whitepapers etc
-- Identifing our persona needs and add to product backlog
+### Product Owner
+- Agrees with Product Manager on the overall priorities, and define together the intended content for upcoming releases.
+- Works closely with the Product Manager and organizes grooming sessions anytime there is a need for discussion over items in backlog. Grooming sessions takes place regularly with intervals between 2 and 4 weeks.
+- Convert Stories to backlog Epics and Tasks. Participate at grooming sessions with Product Management.
+- Be a close partner to Product Management organization to identify new initiatives, improve existing features and mitigate issues our customers may be facing.
+- Prioritize work for team according to agreed priorities with Product Management and the overall company goals and vision.
+- Understand market trends on technologies, products. Research competitive solutions.
+- Keep our persona needs on your mind. Proactively suggest changes to features or add new ones to backlog for discussion with Project Management.
+- Always make sure, that you know **why** we are building something, so you can explain to your colleagues.
 
-### Customer/User engagement
-This is about expectations on engaging with users/customer support.
-- Make sure required trainings happened with support team
-- Make sure dev/E2E teams have enough time in their tasks by empowering support team in solving user/customer issues
-- Avoid any escalations from customers with timely and apt response
-- Review RCAs and improve its format to convert them to product backlog
-- Being active and leading few interested feature areas in other related opensource projects
+### Technical Management
+- Learn new technologies and train the team. Allow other colleagues in your team to spend time on learning and playing with new technologies.
+- Listen to new learnings from company and guide them on choosing one that match our requirements.
+- Motivate team in writing skills like blogs, white papers etc.
+- Always question the status quo -- cannot we automate some step in the process, cannot we use different approach to some tasks (e.g. how we do CI/CD, how we do generate documentation etc.).
+- Promote and keep eye on the proper [code-review techniques](/craft/code-review.md).
 
-### Social media engagement
-This is about building self technical image on social media which in-turn increases that of company.
-- Completing surveys
-- Strong advocacy of component you worked in other mediums like K8s channels, or other opersource channels
-- Lead the discussion on social media like reddit, stackoverflow, twitter etc
-- Inform world about our persona with clear examples
-- Seminars/proposals on regular basis on various platform about company's interested personas, product
-- Tweets about self-learnings, company, product
+### Customer/User Engagement
+- Make sure required trainings happened with support team.
+- Make sure dev/E2E teams have enough time in their tasks by empowering support team in solving user/customer issues.
+- Avoid any escalations from customers with timely and apt response.
+- Being active and leading few interested feature areas in other related open-source projects.
 
