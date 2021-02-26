@@ -1,0 +1,298 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Backend Engineer - MayaData Culture</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="../favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="../favicon.png">
+        
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="../css/open-in.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Welcome to MayaData</a></li><li class="chapter-item expanded affix "><li class="part-title">General</li><li class="chapter-item expanded "><a href="../CODE_OF_CONDUCT.html"><strong aria-hidden="true">1.</strong> Code of Conduct</a></li><li class="chapter-item expanded "><a href="../plow/plow.html"><strong aria-hidden="true">2.</strong> PLOW</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../plow/people_first.html"><strong aria-hidden="true">2.1.</strong> People First</a></li><li class="chapter-item expanded "><a href="../plow/openness.html"><strong aria-hidden="true">2.2.</strong> Openness</a></li><li class="chapter-item expanded "><a href="../plow/ownerhip.html"><strong aria-hidden="true">2.3.</strong> Ownership</a></li><li class="chapter-item expanded "><a href="../plow/winning.html"><strong aria-hidden="true">2.4.</strong> Winning</a></li></ol></li><li class="chapter-item expanded "><a href="../security/basic-security-awareness.html"><strong aria-hidden="true">3.</strong> Security Awareness</a></li><li class="chapter-item expanded affix "><li class="part-title">Tools for a Better Life</li><li class="chapter-item expanded "><a href="../tools/gdrive.html"><strong aria-hidden="true">4.</strong> Google Shared Drives</a></li><li class="chapter-item expanded "><a href="../tools/calendar.html"><strong aria-hidden="true">5.</strong> Google Calendar</a></li><li class="chapter-item expanded "><a href="../tools/subscriptions.html"><strong aria-hidden="true">6.</strong> Available Licensed Software</a></li><li class="chapter-item expanded affix "><li class="part-title">Building Software</li><li class="chapter-item expanded "><a href="../craft/coding-style.html"><strong aria-hidden="true">7.</strong> Coding Style Guides</a></li><li class="chapter-item expanded "><a href="../craft/code-review.html"><strong aria-hidden="true">8.</strong> Code Reviews</a></li><li class="chapter-item expanded "><a href="../craft/release.html"><strong aria-hidden="true">9.</strong> Release Process</a></li><li class="chapter-item expanded affix "><li class="part-title">Remote First</li><li class="chapter-item expanded "><a href="../process/remote-first.html"><strong aria-hidden="true">10.</strong> Remote First</a></li><li class="chapter-item expanded "><a href="../process/etiquettes.html"><strong aria-hidden="true">11.</strong> Household Manners</a></li><li class="chapter-item expanded "><a href="../process/standups.html"><strong aria-hidden="true">12.</strong> Written Standups</a></li><li class="chapter-item expanded affix "><li class="part-title">Community and Product</li><li class="chapter-item expanded "><a href="../process/developer-advocacy.html"><strong aria-hidden="true">13.</strong> Developer Advocacy</a></li><li class="chapter-item expanded "><a href="../process/marketing.html"><strong aria-hidden="true">14.</strong> OpenSource Marketing</a></li><li class="chapter-item expanded "><a href="../process/development.html"><strong aria-hidden="true">15.</strong> Product Development</a></li><li class="chapter-item expanded "><a href="../process/management.html"><strong aria-hidden="true">16.</strong> Product Management</a></li><li class="chapter-item expanded "><a href="../process/support.html"><strong aria-hidden="true">17.</strong> Product Support</a></li><li class="chapter-item expanded "><a href="../handbook/user-adoption.html"><strong aria-hidden="true">18.</strong> User Adoption</a></li><li class="chapter-item expanded "><a href="../process/useraudit.html"><strong aria-hidden="true">19.</strong> User Onboarding</a></li><li class="chapter-item expanded affix "><li class="part-title">Human Interactions</li><li class="chapter-item expanded "><a href="../job-roles/index.html"><strong aria-hidden="true">20.</strong> Roles</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../job-roles/chief-architect.html"><strong aria-hidden="true">20.1.</strong> Chief Architect</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">20.2.</strong> Engineering Teams</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../job-roles/lead-engineer.html"><strong aria-hidden="true">20.2.1.</strong> Lead Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/backend-engineer.html" class="active"><strong aria-hidden="true">20.2.2.</strong> Backend Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/frontend-engineer.html"><strong aria-hidden="true">20.2.3.</strong> Frontend Engineer</a></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">20.3.</strong> Community and Solutions</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../job-roles/customer-success.html"><strong aria-hidden="true">20.3.1.</strong> Customer Success</a></li><li class="chapter-item expanded "><a href="../job-roles/developer-advocate.html"><strong aria-hidden="true">20.3.2.</strong> Developer Advocate</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-account-manager.html"><strong aria-hidden="true">20.3.3.</strong> Technical Account Manager</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-marketing-engineer.html"><strong aria-hidden="true">20.3.4.</strong> Technical Marketing Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/technical-writer.html"><strong aria-hidden="true">20.3.5.</strong> Technical Writer</a></li><li class="chapter-item expanded "><a href="../job-roles/solution-engineer.html"><strong aria-hidden="true">20.3.6.</strong> Solution Engineer</a></li><li class="chapter-item expanded "><a href="../job-roles/user-adoption-lead.html"><strong aria-hidden="true">20.3.7.</strong> User Adoption Lead</a></li></ol></li><li class="chapter-item expanded "><a href="../job-roles/product-manager.html"><strong aria-hidden="true">20.4.</strong> Product Manager</a></li><li class="chapter-item expanded "><a href="../job-roles/sre.html"><strong aria-hidden="true">20.5.</strong> SRE</a></li></ol></li><li class="chapter-item expanded "><a href="../process/hiring.html"><strong aria-hidden="true">21.</strong> Hiring Process</a></li><li class="chapter-item expanded "><a href="../process/okr.html"><strong aria-hidden="true">22.</strong> OKRs</a></li><li class="chapter-item expanded "><a href="../process/paid-time-off-guide.html"><strong aria-hidden="true">23.</strong> Paid Time Off</a></li><li class="chapter-item expanded "><a href="../process/saying-goodbyes.html"><strong aria-hidden="true">24.</strong> Saying Goodbye</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">25.</strong> India Specific Policies</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../policy/job-abandonment.html"><strong aria-hidden="true">25.1.</strong> Job Abandonment</a></li><li class="chapter-item expanded "><a href="../policy/paid-time-off.html"><strong aria-hidden="true">25.2.</strong> Paid Time Off</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">MayaData Culture</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                        <a href="https://github.com/mayadata-io/culture" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="backend-engineer"><a class="header" href="#backend-engineer">Backend Engineer</a></h1>
+<p>Ready for an opportunity to make a substantial impact with a disruptive tech company while building your Developer Advocate career in the rapidly growing Kubernetes ecosystem? Then come and <a href="/plow/plow.html">PLOW</a> with MayaData, the leading Container Attached Storage (CAS) solution for Kubernetes called OpenEBS.</p>
+<p>At MayaData we believe that the best way to deliver storage and related services to containerized and cloud-native environments is with containerized and cloud-native architectures. Everything we do is focused on providing data agility and simplifying the daily operation of Kubernetes SRE's and DevOps teams using Kubernetes as a data layer. We enable our users to handle complex data management operations efficiently, and we have become open source leaders in building Kubernetes into a first-class data platform.</p>
+<p><strong>Location</strong>: Remote (US / Europe / India Time zones)</p>
+<h2 id="responsibilities"><a class="header" href="#responsibilities">Responsibilities</a></h2>
+<ul>
+<li>Develop features and improvements to the MayaData Open Source and Enterprise products in a secure, well-tested, and performant way.</li>
+<li>Keep tickets updated, make sure that they cover work being done.</li>
+<li>Owning a project/feature from concept to production, including proposal, discussion, execution, roll-out plans, helping the support team to have good article/blog/doc, helping e2e team with test plans.</li>
+<li>Participate in the proper <a href="/craft/code-review.html">code-reviews</a>.</li>
+<li>Collaborate with Users (Community and Customers), Product Management and other stakeholders within Engineering (frontend, UX, etc.) to maintain a high bar for quality in a fast-paced, iterative environment.</li>
+<li>Advocate for improvements to product usability, quality, security, and performance.</li>
+<li>Solve technical problems of moderate scope and complexity.</li>
+<li>Craft code that meets industry and open source standards for style, maintainability, and best practices for a high-scale Data Center platform and tools. Maintain and advocate for these standards through code review.</li>
+<li>Recognize impediments to our efficiency as a team (&quot;technical debt&quot;), propose and implement solutions.</li>
+<li>Represent MayaData and its values in public communication around specific projects and community contributions.</li>
+<li>Confidently ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.</li>
+</ul>
+<h2 id="backend-engineer-levels"><a class="header" href="#backend-engineer-levels">Backend Engineer Levels</a></h2>
+<h3 id="junior-or-intern-backend-engineer"><a class="header" href="#junior-or-intern-backend-engineer">Junior (or Intern) Backend Engineer</a></h3>
+<p>Backend Engineer Interns share the same requirements and responsibilities outlined above, but typically join with less or alternate experience than a typical Backend Engineer.</p>
+<h3 id="backend-engineer-1"><a class="header" href="#backend-engineer-1">Backend Engineer</a></h3>
+<p>As described above.</p>
+<h3 id="senior-backend-engineer"><a class="header" href="#senior-backend-engineer">Senior Backend Engineer</a></h3>
+<p>The Senior Backend Engineer role extends the Backend Engineer role.</p>
+<h4 id="responsibilities-1"><a class="header" href="#responsibilities-1">Responsibilities</a></h4>
+<ul>
+<li>Advocate for improvements to product quality, security, and performance that have a particular impact across your team.</li>
+<li>Solve technical problems of high scope and complexity.</li>
+<li>Exert influence on the overall objectives and long-range goals of your team.</li>
+<li>Actively participate at product grooming sessions. Help Lead Engineer to drive their area of responsibilities.</li>
+<li>Experience with performance and optimization problems, particularly at large scale, and a demonstrated ability to both diagnose and prevent these problems</li>
+<li>Help to define and improve our internal standards for style, maintainability, and best practices for operating in a high-scale Kubernetes environment. Maintain and advocate for these standards through code review.</li>
+<li>Represent MayaData and its values in public communication around broader initiatives, specific projects, and community contributions.</li>
+<li>Provide mentorship for Junior and Intern Engineers on your team to help them grow in their technical responsibilities and remove blockers to their autonomy.</li>
+<li>Confidently ship moderately sized features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.</li>
+<li>Confidently helps the community users and customers with the product or feature with minimal guidance and support from other team members.</li>
+</ul>
+<h2 id="requirements"><a class="header" href="#requirements">Requirements</a></h2>
+<ul>
+<li>Computer science education or equivalent experience.</li>
+<li>Each Backend Engineer will be expected to be an expert with one primary product or functionality lead or components based on the professional experience and role.</li>
+<li>Significant professional experience with the language required by the expertise or specialty. The dominant languages are Go, Java, Python, Rust, C/C++, JavaScript depending on the area of expertise.</li>
+<li>Professional experience with any other technologies that may be required by the expertise or specialty.</li>
+<li>Proficient in the microservices architecture, ability to debug microservices, ability to explain and understand concepts around Kubernetes, DevOps and Data Management.</li>
+<li>Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment.</li>
+<li>Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions</li>
+<li>Experience with usability, performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems</li>
+<li>Experience owning a project from concept to production, including proposal, discussion, and execution. Ability to work single-handed as well as in a team.</li>
+<li>Ability to use MayaData Products.</li>
+</ul>
+<p><strong>The following are considered a plus</strong>:</p>
+<ul>
+<li>Experience working with a global, remote team or otherwise multicultural team.</li>
+<li>Passionate about working for Infrastructure Products focused on Storage and/or Kubernetes SREs.</li>
+<li>Passionate about/experienced with open source and developer tools.</li>
+<li>Contributions to other open-source projects.</li>
+</ul>
+<footer id="open-on-gh">Found a bug? <a href="https://github.com/mayadata-io/culture/edit/main/job-roles/backend-engineer.md">Edit this file on GitHub.</a></footer>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../job-roles/lead-engineer.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../job-roles/frontend-engineer.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../job-roles/lead-engineer.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../job-roles/frontend-engineer.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
