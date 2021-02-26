@@ -22,13 +22,15 @@ Team Lead is still considered a technical position. You are expected to be codin
 ### Project Management
 - Keeping an eye on your team's JIRA and keeping it healthy.
 - Project level tracking for execution completion within time.
-- Lead/partcipate in internal project review meeting.
+- Lead/participate in internal project review meeting.
 - Helping in risk mitigation for project execution.
 - Plan team size in advance.
 - Project level check for required E2E coverage.
 - Make sure that we follow team's definition of done.
 
 ### Product Owner
+- Agrees with Product Manager on the overall priorities, and define together the intended content for upcoming releases.
+- Works closely with the Product Manager and organizes grooming sessions anytime there is a need for discussion over items in backlog. Grooming sessions takes place regularly with intervals between 2 and 4 weeks.
 - Convert Stories to backlog Epics and Tasks. Participate at grooming sessions with Product Management.
 - Be a close partner to Product Management organization to identify new initiatives, improve existing features and mitigate issues our customers may be facing.
 - Prioritize work for team according to agreed priorities with Product Management and the overall company goals and vision.
