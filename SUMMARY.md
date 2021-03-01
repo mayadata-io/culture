@@ -11,6 +11,13 @@
   - [Winning](plow/winning.md)
 - [Security Awareness](security/basic-security-awareness.md)
 
+# Remote First
+
+- [Household Manners](process/etiquettes.md)
+- [Remote First](process/remote-first.md)
+- [Meetings](process/meetings.md)
+- [Written Standups](process/standups.md)
+
 # Tools for a Better Life
 - [Google Shared Drives](tools/gdrive.md)
 - [Google Calendar](tools/calendar.md)
@@ -21,12 +28,6 @@
 - [Coding Style Guides](craft/coding-style.md)
 - [Code Reviews](craft/code-review.md)
 - [Release Process](craft/release.md)
-
-# Remote First
-
-- [Remote First](process/remote-first.md)
-- [Household Manners](process/etiquettes.md)
-- [Written Standups](process/standups.md)
 
 # Community and Product
 

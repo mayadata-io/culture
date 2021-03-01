@@ -45,7 +45,7 @@ We suggest using Speedy meetings also under `Settings -> General -> Event settin
 
 ## Working hours
 
-Set your working hours to give hint to the others, when they should be scheduling meetings with you.
+Set your working hours to give hint to the others, when they should be scheduling meetings with you. You will find it under `Settings -> General -> Working Hours`.
 
 ## World clock
 
