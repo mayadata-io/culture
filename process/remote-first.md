@@ -53,6 +53,10 @@ _Remote-first means working remote is the default. It means making sure your rem
 
   If you fail often and repeatedly, you will be asked to leave the team. As such, we do not ask someone to leave lightly. Firing someone is something we view as the worst possible outcome in a work relationship. However, keeping someone that is underperforming, or doesn’t fit the team, is damaging to the work of everyone else in the company. This is a case where we must place the many above the few.
 
+## Extra Remote Office Allowance
+
+Every employee or contractor is eligible for yearly allowance of 750USD for purchasing office equipment. This allowance is solely focused on helping making your home-work environment better, e.g. getting better chair, table, highlighting etc.
+
 ## Tools and Tips
 
 * [GitLab Tools and Tips](https://about.gitlab.com/handbook/tools-and-tips/)
