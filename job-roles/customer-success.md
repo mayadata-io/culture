@@ -37,6 +37,7 @@ As a customer success engineer, you will be responsible for users and customers 
 
 ### Customer Success Engineer
 
+* Expert knowledge on Linux OS(Centos, Ubuntu, Debian, RedHat) with at least 1-2 years experience in system administration and support role.
 * Customer Success Engineers have gained experience in installing the OpenEBS product and connecting them to the Director and in using Litmus.
 * Customer Success Engineers have the ability to determine the components that are potentially causing an issue.
 * Customer Success Engineers are comfortable editing and updating the OpenEBS, Litmus, and Director documentation based on the interactions with the customers.
@@ -46,6 +47,8 @@ As a customer success engineer, you will be responsible for users and customers 
 * All the communication between the customer and the MayaData team should be documented in the ticketing system.
 * Convert the tickets into relevant content in the MayaData help center through the troubleshooting and solution guides.
 * Escalate the tickets to the next level if it doesn’t meet the SLA.
+* Prepare, review, and maintain technical document. Ability to gather and analyse  product information from various sources to document new or update exisiting documents.
+* Inclination towards getting CKA/CKAD certified.
 
 ### Lead Customer Success Engineer
 In addition to the responsibilities defined above:
