@@ -1,6 +1,6 @@
 # Meetings
 
-Meeting can be the most effective way how reach agreement. But too many of meetings can killing the company.
+Meeting can be the most effective way how reach agreement. But too many meetings can kill the company.
 
 ## General Rules for Meetings
 
