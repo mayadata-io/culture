@@ -81,9 +81,9 @@ There's also [google calendar slack app](https://slack.com/app-pages/google-cale
 
 # Tips and Tricks
 
--   Change channels quickly with CTRL+K (settings allows list of ignored > channels)
--   Create snippet with CTRL+SHIFT+ENTER
+-   Change channels quickly with `CTRL+K` (settings allows list of ignored > channels)
+-   Create snippet with `CTRL+SHIFT+ENTER`
 -   Subscribe to existing thread by adding emoji reaction or just clicking thread menu and selecting "Follow thread".
 -   Use "Remind me about this" and "Add to saved items" feature to go through important non-urgent messages later.
--   Ask for threads using :thread-please: emoji.
--   Familiarize yourself with keyboard shortcuts (e.g. UP/DOWN arrows, E for edit message, T for thread, ... see [slack shortcuts](https://slack.com/intl/en-cz/help/articles/201374536-Slack-keyboard-shortcuts#windows-linux-1) for more information)
+-   Ask for threads using `:thread-please:` emoji.
+-   Familiarize yourself with keyboard shortcuts (e.g. `UP/DOWN` arrows, `E` for edit message, `T` for thread, ... see [slack shortcuts](https://slack.com/intl/en-cz/help/articles/201374536-Slack-keyboard-shortcuts#windows-linux-1) for more information)
