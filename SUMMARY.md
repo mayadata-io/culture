@@ -48,6 +48,7 @@
     - [Backend Engineer](job-roles/backend-engineer.md)
     - [Frontend Engineer](job-roles/frontend-engineer.md)
   - [Community and Solutions]()
+    - [Community Manager](job-roles/community-manager.md)
     - [Customer Success](job-roles/customer-success.md)
     - [Developer Advocate](job-roles/developer-advocate.md)
     - [Technical Account Manager](job-roles/technical-account-manager.md)
