@@ -1,6 +1,6 @@
 {
   "plugins": [
     "validate-links",
-    [ "lint-no-dead-urls", { "skipUrlPatterns": [ "https://github.com/orgs/mayadata-io/projects/2", "http://web.archive.org/web/20120625174339/http://meghangill.com:80/2012/06/11/why-invest-in-communit-leaders/" ] } ]
+    [ "lint-no-dead-urls", { "skipUrlPatterns": [ "https://github.com/orgs/mayadata-io/projects/2", "http://web.archive.org/web/20120625174339/http://meghangill.com:80/2012/06/11/why-invest-in-communit-leaders/", "https://app.slack.com/client/user_profile/" ] } ]
   ]
 }
