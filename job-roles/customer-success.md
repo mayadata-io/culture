@@ -31,16 +31,16 @@ As a customer success engineer, you will be responsible for users and customers 
 * This is the team’s entry-level role. We look for people with potential, who have 0-2 years of experience helping customers in some capacity, and who possess essential customer support skills.
 * Associates are in training and need guidance to perform at the standard level set for customer success engineers.
 * The individuals in this role are well versed in the concepts and have undergone the OpenEBS training and workshop.
-* The individuals in this role are expected to help customers by pointing in the right direction with the help of Documentation or KB articles, helping them navigate through OpenEBS, Director and Litmus.
+* The individuals in this role are expected to help customers by pointing in the right direction with the help of Documentation or KB articles, helping them navigate through OpenEBS and other products from MayaData.
 * The individuals are expected to become comfortable with tools like Slack and ZenDesk and help with ensuring the customer tickets are updated.
 * People are usually in this role for at least 3 months before becoming full-fledged Customer Success Engineers
 
 ### Customer Success Engineer
 
 * Expert knowledge on Linux OS(Centos, Ubuntu, Debian, RedHat) with at least 1-2 years experience in system administration and support role.
-* Customer Success Engineers have gained experience in installing the OpenEBS product and connecting them to the Director and in using Litmus.
+* Customer Success Engineers have gained experience in installing the OpenEBS and other products from MayaData.
 * Customer Success Engineers have the ability to determine the components that are potentially causing an issue.
-* Customer Success Engineers are comfortable editing and updating the OpenEBS, Litmus, and Director documentation based on the interactions with the customers.
+* Customer Success Engineers are comfortable editing and updating the OpenEBS and Kubera documentation based on the interactions with the customers.
 * Customer Success Engineers are the first point of contact for all incoming customer issues. These engineers handle all incoming chats and phone calls. This is where all incoming tickets are triaged and then routed to the appropriate team.
 * Customer Success Engineers are expected to provide an initial response to issues within 15 minutes and resolve the issues within 30 minutes of being assigned. If a customer issue is more complex and requires more time to resolve, it’s assigned to Developer Advocate handling the feature.
 * Be the driver for customer support calls and make sure that customers get the best experience.
