@@ -37,7 +37,7 @@ As a customer success engineer, you will be responsible for users and customers 
 
 ### Customer Success Engineer
 
-* Expert knowledge on Linux OS(Centos, Ubuntu, Debian, RedHat) with at least 1-2 years experience in system administration and support role.
+* Expert knowledge on Linux (Centos, Ubuntu, Debian, RedHat) with at least 1-2 years experience in system administration and support role.
 * Customer Success Engineers have gained experience in installing the OpenEBS and other products from MayaData.
 * Customer Success Engineers have the ability to determine the components that are potentially causing an issue.
 * Customer Success Engineers are comfortable editing and updating the OpenEBS and Kubera documentation based on the interactions with the customers.
