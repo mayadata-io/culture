@@ -25,7 +25,7 @@ But there are few ways how one can help with solving the issue in the Slack itse
 
 ## Notifications, Meetings and Your Zs
 
-It is frequently convenient to mention somebody (those `@antonin.kral`). That will mark a particular message and typically trigger more aggressive notification being sent to the person. Frequently, one doesn\'t need to send the notification straight away. E.g. I am mentioning somebody who is already out of the office (maybe she is in a different time-zone, or maybe I am working over-time). I don't want her to respond immediately, but I want to mark the message for her...
+It is frequently convenient to mention somebody (those `@epowell`). That will mark a particular message and typically trigger more aggressive notification being sent to the person. Frequently, one doesn\'t need to send the notification straight away. E.g. I am mentioning somebody who is already out of the office (maybe she is in a different time-zone, or maybe I am working over-time). I don't want her to respond immediately, but I want to mark the message for her...
 
 It is **your** responsibility to set up working hours. You should do two things:
 
