@@ -22,6 +22,7 @@
 - [Google Shared Drives](tools/gdrive.md)
 - [Google Calendar](tools/calendar.md)
 - [Available Licensed Software](tools/subscriptions.md)
+- [Slack](tools/slack.md)
 
 # Building Software
 
