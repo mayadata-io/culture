@@ -480,6 +480,16 @@ https://www.contributor-covenant.org/faq</p>
 <li><strong>Beware of phishing / s(p|c)am etc.</strong> Even though you're an expert, it's better to be cautious. You may <a href="https://about.gitlab.com/handbook/security/#how-to-identify-a-basic-phishing-attack">read more at Gitlab's handbook</a> about some examples.</li>
 <li><strong>Beware of clicking the links in the emails / on the web pages</strong>. It's not that hard <a href="https://tiptopsecurity.com/the-truth-about-clicking-links-in-email-and-what-to-do-instead/">to put a different path under the visible text</a>. Hover over it and see the bottom left side, your email client / browser will show you the real path you'll be take to.</li>
 </ul>
+<h2 id="how-to-2fa"><a class="header" href="#how-to-2fa">How to 2FA</a></h2>
+<p>2FA (or two factor authentication, or two step verification) refers to use of an additional secret in conjunction with your password. There are multiple ways how to implement 2nd factor. These can be hardware tokens (such as Yubikey), time based one-time-passwords (TOTP, Google Authenticator, Authy, also a lot of password managers have support for it) or even your phone (e.g. Google Prompts).</p>
+<p>Adding your additional factor is typically trivial, we put together list of the most frequently used services:</p>
+<ul>
+<li><a href="https://www.google.com/landing/2step/">Google account</a> or just go to <a href="https://myaccount.google.com/security">Your Google Account</a>;</li>
+<li><a href="https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication">GitHub account</a>;</li>
+<li><a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html">Amazon Web Services (AWS)</a>;</li>
+</ul>
+<p>Many services will also allow multiple different factors to be configured. For example, this is list of my other factors configured for Google Account: <img src="security/2fa.png" alt="list of 2fa at google" />.</p>
+<p>In case service or you don't have or don't want to have multiple different 2nd factor configured, services typically allow generating backup codes that can be used (one time each) instead of / as the 2nd factor. In that case it is recommended to generate those and store them <strong>securely</strong> (password manager) in case you lose access to your 2FA device.</p>
 <h2 id="summary"><a class="header" href="#summary">Summary</a></h2>
 <p><strong>The basic rule of thumb is to be CAUTIOUS</strong>, always and anytime! Even though it may sound stupid, if you spot something suspicious, like the fact that your WiFi authentication disappeared suddenly, it may mean that someone else replaced it with his own <a href="https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks)">evil twin version</a> to sniff your credentials.</p>
 <p><strong>Don't be afraid to ask, if you are unsure.</strong> It's better to ask stupid question then be sorry for not asking it.</p>
