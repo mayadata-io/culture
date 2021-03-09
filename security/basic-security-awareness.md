@@ -55,7 +55,7 @@ Adding your additional factor is typically trivial, we put together list of the 
   - [GitHub account](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication);
   - [Amazon Web Services (AWS)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html);
 
-Many services will also allow multiple different factors to be configured. For example, this is list of my other factors configured for Google Account: ![list of 2fa at google](2fa.png).
+Many services will also allow multiple different factors to be configured. For example, this is list of my other factors configured for Google Account: ![list of 2fa at google](2fa.png)
 
 In case service or you don't have or don't want to have multiple different 2nd factor configured, services typically allow generating backup codes that can be used (one time each) instead of / as the 2nd factor. In that case it is recommended to generate those and store them **securely** (password manager) in case you lose access to your 2FA device.
 ## Summary
