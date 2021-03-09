@@ -45,6 +45,18 @@ To stay on the safe side and minimize the surface to any kind of attacks or data
  - **Beware of phishing / s(p|c)am etc.** Even though you're an expert, it's better to be cautious. You may [read more at Gitlab's handbook](https://about.gitlab.com/handbook/security/#how-to-identify-a-basic-phishing-attack) about some examples.
  - **Beware of clicking the links in the emails / on the web pages**. It's not that hard [to put a different path under the visible text](https://tiptopsecurity.com/the-truth-about-clicking-links-in-email-and-what-to-do-instead/). Hover over it and see the bottom left side, your email client / browser will show you the real path you'll be take to.
 
+## How to 2FA
+
+2FA (or two factor authentication, or two step verification) refers to use of an additional secret in conjunction with your password. There are multiple ways how to implement 2nd factor. These can be hardware tokens (such as Yubikey), time based one-time-passwords (TOTP, Google Authenticator, Authy, also a lot of password managers have support for it) or even your phone (e.g. Google Prompts).
+
+Adding your additional factor is typically trivial, we put together list of the most frequently used services:
+
+  - [Google account](https://www.google.com/landing/2step/) or just go to [Your Google Account](https://myaccount.google.com/security);
+  - [GitHub account](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication);
+  - [Amazon Web Services (AWS)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html);
+
+Many services will also allow multiple different factors to be configured. For example, this is list of my other factors configured for Google Account: ![list of 2fa at google](2fa.png).
+
 ## Summary
 
 **The basic rule of thumb is to be CAUTIOUS**, always and anytime! Even though it may sound stupid, if you spot something suspicious, like the fact that your WiFi authentication disappeared suddenly, it may mean that someone else replaced it with his own [evil twin version](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks)) to sniff your credentials.
