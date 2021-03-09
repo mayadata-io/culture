@@ -57,6 +57,7 @@ Adding your additional factor is typically trivial, we put together list of the 
 
 Many services will also allow multiple different factors to be configured. For example, this is list of my other factors configured for Google Account: ![list of 2fa at google](2fa.png).
 
+In case service or you don't have or don't want to have multiple different 2nd factor configured, services typically allow generating backup codes that can be used (one time each) instead of / as the 2nd factor. In that case it is recommended to generate those and store them **securely** (password manager) in case you lose access to your 2FA device.
 ## Summary
 
 **The basic rule of thumb is to be CAUTIOUS**, always and anytime! Even though it may sound stupid, if you spot something suspicious, like the fact that your WiFi authentication disappeared suddenly, it may mean that someone else replaced it with his own [evil twin version](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks)) to sniff your credentials.
