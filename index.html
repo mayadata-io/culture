@@ -170,16 +170,67 @@
                 <div id="content" class="content">
                     <main>
                         <p>This repository contains the various MayaData Culture Guides/Handbooks and is the central repository of guidance for how we run the company. As part of our value of being transparent, our handbook published in this repository is open to the world. We welcome feedback. Please make a merge request to suggest improvements or add clarifications. If your question is not covered here, please use issues to ask questions.</p>
-<h2 id="scope-and-goals"><a class="header" href="#scope-and-goals">Scope and goals</a></h2>
+<h2 id="mayadata----the-purpose"><a class="header" href="#mayadata----the-purpose">MayaData -- The Purpose</a></h2>
+<p>MayaData evolves around these few things:</p>
 <ul>
-<li>The documents here should expand the <a href="https://medium.com/mayadata/mayadatas-secret-5-step-plan-for-world-domination-3c02ac8b097a">MayaData secret plan for world domination</a> and convert the plan into a culture we aspire to achieve as well as concrete actions to implement and measure adoption of the culture</li>
-<li>The documents here are expected to bring all the leads and the entire company onto a common understanding and provide a guiding framework for day-to-day prioritization decisions.</li>
-<li>The main culture changes we want to bring in into the company, mainly in engineering with the focus on the lessons learned from previous product development and stay ahead in terms of features and quality</li>
-<li>One of the key aspects of the company is people and the kind of people we bring in. These document define the details for retaining existing members, hiring new team members, and how to insure that the work environment for all contributors is one in which they feel able to make an immediate and measurable difference.</li>
+<li>We build open source container attached storage.</li>
+<li>Container attached storage is per workload cloud-native storage that unlocks the productivity of these small teams; we sometimes think of it as DevOps friendly storage.</li>
+<li>Cloud-native is an approach to building and operating software that has certain basic principles that are closely related to DevOps.</li>
 </ul>
-<h2 id="culture-definition"><a class="header" href="#culture-definition">Culture definition</a></h2>
+<p>It is incumbent upon everyone that works at MayaData to understand the above. That sounds simple -- it is only three things after all -- but when you dig into the definition of Container Attached Storage and thereby start searching for definitions of cloud-native and DevOps you can easily find yourself understanding concepts at a high level but missing the essence of them if you have not spent a lot of time with SRE and infrastructure teams to actually see how they operate.</p>
+<p>Only our curiosity and empathy can save us here.  We must try to really understand what it is like to be our target persona -- Kubernetes SREs whether workload Kubernetes SREs or platform Kubernetes SREs; as an aside I believe we do much better for the former than for the latter which makes a certain amount of sense since workload Kubernetes SREs are closer to developers and the latter, platform SREs, are typically much more senior in the organization and focus on outcomes and operations and overall operational architecture as opposed to writing and running components. Product management and a (soon to be) great process or even a driven set of founders cannot substitute for our own empathy and understanding of the experience of our users. I’ve tried to emphasize this repeatedly, at one point making the perhaps hyperbolic statement that “we are all in product management”. The context for that statement was the above train of thought; without empathy for our users, we are doomed, or at least we are never going to be better than average and that would be a shame.</p>
+<h2 id="mayadata-vision--guiding-principles"><a class="header" href="#mayadata-vision--guiding-principles">MayaData Vision &amp; Guiding Principles</a></h2>
+<p>Our north star remains <strong>Data Agility</strong> -- this is our vision and as such, it is aspirational which means that by design it is not something that appears in an immediate backlog. Data Agility refers to a future in which small teams innovate in building data-centric applications free from all sorts of nasty technical and organizational dependencies that historically have slowed them down. These include:</p>
+<ul>
+<li>
+<p>Shared everything storage -- your requirements conflict w/ my requirements and we share a massive blast radius beyond our control</p>
+</li>
+<li>
+<p>Cloud lock in -- teams that rely on being spoon-fed by a particular cloud eventually end up being beaten by teams that are more able to select best of breed components from the clouds or from on-premise systems</p>
+</li>
+<li>
+<p>Central DB as a service that cannot be fully configured for a particular use; data mesh is a pattern that is supplanting the one DB to rule them all of the past</p>
+</li>
+<li>
+<p>Monolithic architectures that require the software to be released at best quarterly as opposed to minute by minute in a high performing organization</p>
+</li>
+</ul>
+<p>Here are a few practical implications for the design of our software and services that we may not have fully embraced in the past:</p>
+<ul>
+<li>
+<p><em>Automation is fundamental</em>: human interaction to tweak the settings means treating the containers as pets, not cattle.  That is an anti-pattern not consistent w/ cloud-native and Container Attached Storage.</p>
+</li>
+<li>
+<p><em>Design for failure</em>:  Kubernetes and the cloud-native pattern assumes that everything will fail at some point. Chaos engineering such as the Litmus Chaos project we started and developed into a viable project enforces the need to design for failure by creating failures in systems.</p>
+</li>
+<li>
+<p><em>GitOps</em>: Building off the importance of automation - the desired state of the environment is in the repository, i.e. GitOps is fundamental.</p>
+</li>
+<li>
+<p><em>Loosely Coupled</em> may be the two most important words in <a href="https://github.com/cncf/toc/blob/main/DEFINITION.md">the CNCF’s definition of cloud native</a>. The need for loose coupling is one reason why our users like Steven Bower do not want to use shared storage. One video we have in the welcome and onboarding slides is <a href="https://www.youtube.com/watch?v=z_LbRfDKPvE">this interview with Steven</a>.</p>
+</li>
+<li>
+<p><em>APIs and Declarative approach</em>: Loosely coupled and the existence of many sub-components suggests there are clear APIs including within the product and typically declarative approaches are used</p>
+</li>
+<li>
+<p><em>Cloud operations including auto-scaling</em>: Cloud-native also tends to imply cloud scalability - the ability to scale UP and scale DOWN.</p>
+</li>
+</ul>
+<p>We will know we are succeeding in enabling our personas when a standard user of Kubernetes can grab OpenEBS and:</p>
+<ul>
+<li>
+<p><em>grok it</em> -- what it is supposed to do, how it is designed, how it is explained</p>
+</li>
+<li>
+<p>and <em>operate it</em> -- knowing that it will behave in a cloud-native or container attached storage way</p>
+</li>
+</ul>
+<p>…while the Kubernetes SREs within the Platform Team can support the use of OpenEBS at scale because they will be able to do their job. We have more work to do here in defining what these platform teams require -- thankfully we are in frequent contact with them at places such as Bloomberg, Flipkart and Optoro. </p>
+<p>Last but certainly not least -- we are working with data and increasingly important data that needs to be secured at least for some period of time.  We must avoid losing data, understanding that solutions such as flavors of OpenEBS LocalPV themselves by design do nothing to secure the data.  Remember the old saying, when our users lose their data they typically lose their jobs.</p>
+<p>As a final thought, our technology strategy can be described as <strong>giving freedom to the developers and the workload SREs</strong> while selling control and operability at scale to the enterprise and platform SREs.  We believe in open source as a far better way to get more customers to pay us than traditional, expensive, much much slower to scale direct sales only approaches.  That said if and when appropriate, aspects of our software to be used by large enterprises in particular, as well as future SaaS editions, would not necessarily be open source.  We resolve such questions by looking at our north star -- Data Agility -- and our core values first and then secondarily by what would be good for immediate revenues and other considerations. </p>
+<h2 id="what-is-culture"><a class="header" href="#what-is-culture">What is Culture</a></h2>
 <p><em>Culture is a framework that is used for day-to-day interactions and decision making. When in conflict, the culture established and accepted is used to resolve differences.</em></p>
-<h2 id="why-are-we-writing-this-document"><a class="header" href="#why-are-we-writing-this-document">Why are we writing this document?</a></h2>
+<h3 id="why-are-we-writing-this-document"><a class="header" href="#why-are-we-writing-this-document">Why are we writing this document?</a></h3>
 <p>Culture can be a secret ingredient that increases user adoption, product quality, employee engagement and well being. By writing down our shared assumptions and aspirations about our culture, we hope to improve and sustain our culture as our company grows and transforms to better address user needs.</p>
 <p>History shows that employees either leave or really invest their best selves into organizations depending on the culture. Our values help us to prevent the <a href="https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team#Summary">five dysfunctions</a>.</p>
 <ul>
@@ -189,7 +240,7 @@
 <li>Avoidance of accountability (ducking the responsibility to call peers on counterproductive behavior which sets low standards) =&gt; prevented by winning, and openness</li>
 <li>Inattention to results (focusing on personal success, status and ego before team success) =&gt; prevented by people first and winning</li>
 </ul>
-<h2 id="our-mission"><a class="header" href="#our-mission">Our Mission:</a></h2>
+<h3 id="our-mission"><a class="header" href="#our-mission">Our Mission</a></h3>
 <p>We want MayaData to be the preferred place to work for engineers, computer scientists, community advocates and others that believe in our company mission to limit cloud lock-in while providing higher levels of control of the data layer to DevOps teams. We recognize that in order to achieve our mission we have to be the <em><strong>best team</strong></em> possible at <em><strong>building</strong></em> and <em><strong>running</strong></em> the <em><strong>right software</strong></em> based solutions to our customer’s problems. We commit to always working to improve MayaData - and ourselves - to delight our customers. Our culture plays a key role in achieving this mission.</p>
 <p>Specifically:</p>
 <ul>
@@ -198,10 +249,20 @@
 <li>When we talk about <em><strong>running software</strong></em> we emphasize a DevOps approach so that if you write the code, you support the customers and you lead efforts to fix any bugs.</li>
 <li>When we talk about <em><strong>the right software</strong></em> we emphasize listening to users. We believe everyone at MayaData can learn from users and customers and that the best learning comes from users actually using software as opposed to simply talking about it. In order to learn from internal users, we believe in <em>dog fooding</em> which is the practice by which we will always use our own software if it is at all applicable to our use cases. Development environments, staging, and CI/CD and of course operations should all be based on OpenEBS and OpenEBS Director.</li>
 </ul>
-<h2 id="our-values"><a class="header" href="#our-values">Our Values</a></h2>
+<h3 id="our-values"><a class="header" href="#our-values">Our Values</a></h3>
 <p>We stand by our <a href="/plow/plow.html">PLOW values</a>. They empower each of us to determine what to do without asking our manager.</p>
-<h2 id="credits-and-inspiration"><a class="header" href="#credits-and-inspiration">Credits and Inspiration</a></h2>
-<p><a href="https://about.gitlab.com/handbook/">GitLab Handbook</a> is a true source of inspiration for anyone praticing the Open Culture. We have developed our handbook by our own experiences, as well as those mentioned in the GitLab handbook which directly reflect our <a href="/plow/plow.html">PLOW culture</a>. Another great source of inspiration and a must read are <a href="https://opensource.com/open-organization/resources/book-series">The Open Organization</a> book series by Jim Whitehurst.</p>
+<h2 id="additional-resources"><a class="header" href="#additional-resources">Additional Resources</a></h2>
+<p>This site expands the <a href="https://medium.com/mayadata/mayadatas-secret-5-step-plan-for-world-domination-3c02ac8b097a">MayaData secret plan for world domination</a> and converts the plan into a culture we aspire to achieve as well as concrete actions to implement and measure adoption of the culture.</p>
+<p>We have also covered topic of the Container Attached Storage multiple times including:</p>
+<ul>
+<li>Back in 2018:  <a href="https://www.cncf.io/blog/2018/04/19/container-attached-storage-a-primer/">Container Attached Storage: a Primer</a></li>
+<li>Updated in the Fall of 2020: <a href="https://www.cncf.io/blog/2020/09/22/container-attached-storage-is-cloud-native-storage-cas/">Container Attached Storage is Cloud Native Storage (CAS)</a></li>
+</ul>
+<p>And others such as the New Stack in a series sponsored by the CNCF have also written about <a href="https://thenewstack.io/how-openebs-brings-container-attached-storage-to-kubernetes/">the concept of Container Attached Storage</a>.</p>
+<h3 id="credits-and-inspiration"><a class="header" href="#credits-and-inspiration">Credits and Inspiration</a></h3>
+<p><a href="https://about.gitlab.com/handbook/">GitLab Handbook</a> is a true source of inspiration for anyone praticing the Open Culture. We have developed our handbook by our own experiences, as well as those mentioned in the GitLab handbook which directly reflect our <a href="/plow/plow.html">PLOW culture</a>. Another great source of inspiration and a must read are <a href="https://opensource.com/open-organization/resources/book-series">The Open Organization</a> book series by Jim Whitehurst. On similar note, are the <a href="https://www.amazon.jobs/en/principles">Amazon’s Leadership Principles</a>.</p>
+<p>Excellent inspiration for building great organizations are also <a href="https://www.amazon.com/Everyone-Culture-Deliberately-Developmental-Organization/dp/1625278624/">An Everyone Culture: Becoming a Deliberately Developmental Organization</a> by Lisa Laskow Lahey, Robert Kegan and <a href="https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/">Principles: Life and Work</a> by Ray Dalio.</p>
+<p>Many of us read the book <a href="https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/">Accelerate</a> -- and we discussed it as a company a couple of times. It remains one of those books that we would welcome anyone on the team buying and expensing. Others along these lines are the <a href="https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/">Phoenix project</a> and <a href="https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/">The DevOps Handbook</a>.</p>
 
                     </main>
 
