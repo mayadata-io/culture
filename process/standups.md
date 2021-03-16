@@ -18,7 +18,7 @@ To address these issues, we have introduced a **written standup**. It works as f
 - Everybody has her/his section in the document.
 - Your record in the document should be finalized by the **end of your work day**. In other words -- you are supposed to be capturing what you have *done the same day* or what are you *planning to be doing next day*. It doesn't typically talk about yesterday (in contrast to typical standup).
 - On the other hand, when you start working in the morning. Quickly go through the stand up from the **previous day**. That will help you to see what others have done.
-- Always provide context to allow people to understand the update (links to phabricator tasks, gitlab projects, merge requests or just link what ever you are talking about).
+- **Always provide context** to allow people to understand the update (links to Jira tasks, Github projects, merge requests or just link what ever you are talking about). Please format links nicely, they are read more often than written.
 - If somebody asked a question / requested more details via comment, always consider updating your record in the document (in contrast to just replying to the comment). Any consecutive reader will benefit from updated text.
 
 Please, be reasonable in picking topics to write about. You don't need to cover every single email you have read. Similarly, it would be interesting to make a research around various cuisine across the whole company, but this is not really the place to share what you had for lunch. Basically, always keep on mind, that somebody is going to read it, so pick what is valuable for potential readers.
