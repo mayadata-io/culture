@@ -5,3 +5,5 @@ If you would like access to any of the following tools or would like to suggest 
 * [GoLand](https://www.jetbrains.com/go/)
   - Go Editor/IDE
   - Annual Subscription
+* [CLion](https://www.jetbrains.com/clion/)
+  - C/C++/Rust IDE
