@@ -14,8 +14,9 @@
 # Remote First
 
 - [Household Manners](process/etiquettes.md)
-- [Remote First](process/remote-first.md)
+- [Jira Hygiene](process/jira.md)
 - [Meetings](process/meetings.md)
+- [Remote First](process/remote-first.md)
 - [Written Standups](process/standups.md)
 
 # Tools for a Better Life
