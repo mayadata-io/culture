@@ -4,7 +4,7 @@
 
 ## In the nutshell
 
-Testing is the first-class citizen in MayaData. Our customers and users relay on us to keep their data safe and accessible. On the other hands, we write software and software has a tendency to contain bugs. Role of the test engineering is to help discovering them early in the process.
+Testing is the first-class citizen in MayaData. Our customers and users relay on us to keep their data safe and accessible. On the other hand, we write software and software has a tendency to contain bugs. Role of the test engineering is to help discovering them early in the process.
 
 ## Responsibilities
 
@@ -27,7 +27,7 @@ Testing is the first-class citizen in MayaData. Our customers and users relay on
 - Experience with debugging, tracing and profiling tools.
 - Professional experience with any other technologies that may be required by the expertise or specialty.
 - Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment.
-- Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions
+- Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions.
 - Experience owning a project from concept to production, including proposal, discussion, and execution. Ability to work single-handed as well as in a team.
 - Ability to use MayaData Products.
 
