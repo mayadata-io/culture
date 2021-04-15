@@ -31,7 +31,6 @@ We’re looking for a deeply skilled Principal Software Engineer to work closely
 
 - Linux OS internals experience.
 - Expert level Rust/C/C++ coding and debugging; kernel, protocol, or hardware programming.
-- Experience in LINUX IDE.
 - Shell scripting and knowledge in python.
 - Experience with Linux file system, block layer.
 - Experience with storage protocols SCSI, NVMe.
