@@ -36,8 +36,6 @@ We’re looking for a deeply skilled Principal Software Engineer to work closely
 - Experience with Linux file system, block layer.
 - Experience with storage protocols SCSI, NVMe.
 - Strong technical background with both the ability and desire to continuously improve the overall storage software product, in terms of quality, features, and design.
-- Able to maintain in-depth understanding of industry trends in computer system hardware, current and future storage and networking protocols, and software algorithms 
-in distributed systems, data encoding and transmission, and performance; Areas of focus include NVMe, NVMe over Fabrics, persistent memory, RDMA and TCP network protocols, 
-kernel bypass, data encoding and compression/deduplication.
+- Able to maintain in-depth understanding of industry trends in computer system hardware, current and future storage and networking protocols, and software algorithms in distributed systems, data encoding and transmission, and performance; Areas of focus include NVMe, NVMe over Fabrics, persistent memory, RDMA and TCP network protocols, kernel bypass, data encoding and compression/deduplication.
 - Expert level understanding of computer hardware, algorithm, and protocol performance, with experience in profiling and root causing performance issues. 
 - Experience with I/O, memory, and compute performance limitations.
