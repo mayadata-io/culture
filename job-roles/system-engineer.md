@@ -1,10 +1,12 @@
 # System Engineer
 
-Building the fastest open source, block storage system in the world isn't easy.  The Engineering Division at Mayadata is set out to build the next generation 
-of highly performant, and resilient block storage software, in an open source environment.
+{{#include intro.md}}
 
-We’re looking for deeply skilled systems engineers who can work on Linux/Windows and love to program in C & Rust, to work closely with the product and the 
-open source community to build the Mayadata vision. You'll join a highly collaborative team working along with talented engineers focusing to be the best in Container Attached Storage.
+## In the nutshell
+
+Building the fastest open source, block storage system in the world isn't easy.  The Engineering Division at Mayadata is set out to build the next generation of highly performant, and resilient block storage software, in an open source environment.
+
+We’re looking for deeply skilled systems engineers who can work on Linux/Windows and love to program in C and Rust, to work closely with the product and the open source community to build the Mayadata vision. You'll join a highly collaborative team working along with talented engineers focusing to be the best in Container Attached Storage.
 
 ## Responsibilities
 

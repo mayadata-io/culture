@@ -50,6 +50,7 @@
     - [Backend Engineer](job-roles/backend-engineer.md)
     - [Frontend Engineer](job-roles/frontend-engineer.md)
     - [Principal Engineer](job-roles/principal-engineer.md)
+    - [System Engineer](job-roles/system-engineer.md)
     - [Test Engineer](job-roles/test-engineer.md)
   - [Community and Solutions]()
     - [Community Manager](job-roles/community-manager.md)
