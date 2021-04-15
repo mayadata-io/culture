@@ -1,15 +1,10 @@
 # Senior Program Manager
 
-OpenEBS is one of the most popular Storage-related projects in CNCF, and the newest addition to OpenEBS - Mayastor, is the value added software that Kubernetes has waited 
-on for a long time. MayaData is a game changer in performant, distributed Software Defined Storage or what is increasingly called Container Attached Storage.
+{{#include intro.md}}
 
-### The MayaData team
+## In the nutshell
   
-We are seeking an experienced technical program manager to join the MayaData team and focus on scale and performance, TTM, and Agile Transformation. Customers are bringing 
-more intensive, mission-critical workloads to the platform every day, and we must continue pushing the boundaries of Kubernetes to meet their needs. You will be at the 
-forefront of the industry helping customers run their workloads at scale and optimize their performance. You will focus on the next generation of highly performant, and 
-resilient block storage software, in an open source environment and have the chance to participate and share with the upstream Kubernetes community. 
-We're looking to augment a fast moving team with a diverse set of skills among its members. Global Program Management Skills a strong plus.
+We are seeking an experienced technical program manager to join the MayaData team and focus on scale and performance, TTM, and Agile Transformation. Customers are bringing more intensive, mission-critical workloads to the platform every day, and we must continue pushing the boundaries of Kubernetes to meet their needs. You will be at the forefront of the industry helping customers run their workloads at scale and optimize their performance. You will focus on the next generation of highly performant, and resilient block storage software, in an open source environment and have the chance to participate and share with the upstream Kubernetes community. We're looking to augment a fast moving team with a diverse set of skills among its members. Global Program Management Skills a strong plus.
 
 ## Responsibilities
 

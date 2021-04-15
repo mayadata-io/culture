@@ -61,6 +61,7 @@
     - [Solution Engineer](job-roles/solution-engineer.md)
     - [User Adoption Lead](job-roles/user-adoption-lead.md)
   - [Product Manager](job-roles/product-manager.md)
+  - [Program Manager](job-roles/senior-program-manager.md)
   - [SRE](job-roles/sre.md)
 - [Hiring Process](process/hiring.md)
 - [OKRs](process/okr.md)
