@@ -25,7 +25,7 @@ We’re looking for a deeply skilled Principal Software Engineer to work closely
 - Capable of meeting tight deadlines with excellent overall project and product development life cycle experience and team spirit.
 - Experience in agile and scrum methodologies.
 - Linux OS internals experience.
-- Excellent knowledge of multithreading, thread-pools with strong OOP skills.
+- Experience in functional programming.
 
 ## Nice-to-have:
 
