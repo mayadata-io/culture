@@ -47,6 +47,18 @@ The Senior Frontend Engineer role extends the Frontend Engineer role. Additional
 - Improves the engineering projects at MayaData via maintainer trainee program at own comfortable pace, while striving to become a project maintainer.
 
 
+### UI/UX Designer
+The UI/UX designer responsibilities include:
+
+- Advocate for better User experience for  our clients spanning across geographical and cultural boundaries
+- Creating user personas and auditing role based UX design approaches
+- Proven track record of past experience  working with designing enterprise solutions & websites
+- Experience in designing and implementing responsive layouts for all types of devices
+- Faliliarity with modern day design frameworks like Material design and Bootstrap
+- An ideal candidate should have work experience on design tools like Figma, Photoshop or Sketch 
+- Sound knowledge of design best practices using HTML5, CSS3 and CSS preprocessors like SCSS & LESS
+- Familiarity with ReactJS templating/markup is an added advantage
+
 ## Requirements
 
 - Professional experience with at least one modern JavaScript web MVC framework/library (React, Angular, Ember, VueJS).
