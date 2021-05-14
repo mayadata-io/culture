@@ -57,7 +57,7 @@ The UI/UX designer responsibilities include:
 - An ideal candidate should have work experience on design tools like Figma, Photoshop or Sketch 
 - Sound knowledge of design best practices using HTML5, CSS3 and CSS preprocessors like SCSS & LESS
 - Familiarity with modern day design frameworks like Material design and Bootstrap
-- Familiarity with ReactJS templating/markup is an added advantage
+- Good understanding of ReactJS templating/markup is an added advantage
 
 ## Requirements
 
