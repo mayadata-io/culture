@@ -81,7 +81,7 @@ There's also [google calendar slack app](https://slack.com/app-pages/google-cale
 
 # Tips and Tricks
 
--   Change channels quickly with `CTRL+K` (settings allows list of ignored > channels)
+-   Change channels quickly with `CTRL+K` (you can set a list of ignored channels in preferences > advanced)
 -   Create snippet with `CTRL+SHIFT+ENTER`
 -   Subscribe to existing thread by adding emoji reaction or just clicking thread menu and selecting "Follow thread".
 -   Use "Remind me about this" and "Add to saved items" feature to go through important non-urgent messages later.
