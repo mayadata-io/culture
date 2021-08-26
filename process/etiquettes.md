@@ -16,7 +16,8 @@ We are spread across geographies and different cultures.
 - Mute yourself, there’s a mute button for a reason. It might not seem like it, but there’s a lot of background noise even in the quietest of offices. There may also be feedback you can’t hear, but everyone else can. Unless you’re speaking, keep your phone on mute. However, don’t use this feature as an excuse to sneak a snack. Refer back to the last point for a reminder.
 - Make sure to say goodbye, and do so with a smile
 - When group calling, don't use a cell phone on speaker, they are not sufficient
-- If you must use for whatever reason (did you prepare?) make sure that it does not vibrate
+  - If you must use for whatever reason (did you prepare?) make sure that it does not vibrate
+- In video calls, keep the camera on when possible. This is important for the mental health of people working from their homes.
 
 ## In-person meetings / Online meetings
 - Plan to attend on time, others are waiting for you
